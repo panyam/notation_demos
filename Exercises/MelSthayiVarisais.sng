@@ -1,0 +1,153 @@
+## Mel Sthayi Varisais 
+
+
+```v3h
+\set(cycle = "|,,,,|,,|,,|")
+
+\role("Sw", notes = true)
+
+```
+ 
+#### 1.
+
+```v3 
+
+S R G M P D N S+
+S+ , , , S+ , , ,
+D N S+ R+ S+ N D P
+S+ N D P M G R S
+
+```
+
+ 
+#### 2.
+
+```v3 
+
+S R G M P D N S+
+S+ , , , S+ , , ,
+D N S+ R+ S+ S+ R+ S+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ N D P
+S+ N D P M G R S
+
+```
+ 
+#### 3.
+
+```v3 
+
+S R G M P D N S+
+S+ , , , S+ , , ,
+D N S+ R+ G+ R+ S+ R+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ S+ R+ S+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ N D P
+S+ N D P M G R S
+
+```
+ 
+#### 4.
+
+```v3 
+S R G M P D N S+
+S+ , , , S+ , , ,
+D N S+ R+ G+ M+ G+ R+
+S+ R+ S+ N D P M P
+
+D N S+ R+ G+ R+ S+ R+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ S+ R+ S+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ N D P
+S+ N D P M G R S
+
+```
+ 
+#### 5.
+
+```v3 
+S R G M P D N S+
+S+ , , , S+ , , ,
+D N S+ R+ G+ M+ P+ M+
+G+ R+ S+ N D P M P
+
+D N S+ R+ G+ M+ G+ R+
+S+ R+ S+ N D P M P
+D N S+ R+ G+ R+ S+ R+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ S+ R+ S+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ N D P
+S+ N D P M G R S
+
+```
+
+
+#### 6.
+
+```v3 
+S R G M P D N S+
+S+ , , , S+ , , ,
+D N S+ R+ G+ M+ P+ D+
+P+ M+ G+ R+ S+ N D P
+D N S+ R+ G+ M+ P+ M+
+G+ R+ S+ N D P M P
+D N S+ R+ G+ M+ G+ R+
+S+ R+ S+ N D P M P
+D N S+ R+ G+ R+ S+ R+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ S+ R+ S+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ N D P
+S+ N D P M G R S
+
+```
+
+
+#### 7.
+
+```v3 
+S R G M P D N S+
+S+ , , , S+ , , ,
+D N S+ R+ G+ M+ P+ D+
+N+ D+ P+ M+ G+ R+ S+ N+
+D N S+ R+ G+ M+ P+ D+
+P+ M+ G+ R+ S+ N D P
+D N S+ R+ G+ M+ P+ M+
+G+ R+ S+ N D P M P
+D N S+ R+ G+ M+ G+ R+
+S+ R+ S+ N D P M P
+D N S+ R+ G+ R+ S+ R+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ S+ R+ S+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ N D P
+S+ N D P M G R S
+
+```
+
+
+#### 8.
+
+```v3 
+S R G M P D N S+
+S+ , , , S+ , , ,
+D N S+ R+ G+ M+ P+ D+
+N+ S++ N+ D+ P+ M+ G+ R+
+D N S+ R+ G+ M+ P+ D+
+N+ D+ P+ M+ G+ R+ S+ N+
+D N S+ R+ G+ M+ P+ D+
+P+ M+ G+ R+ S+ N D P
+D N S+ R+ G+ M+ P+ M+
+G+ R+ S+ N D P M P
+D N S+ R+ G+ M+ G+ R+
+S+ R+ S+ N D P M P
+D N S+ R+ G+ R+ S+ R+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ S+ R+ S+
+S+ R+ S+ N D P M P
+D N S+ R+ S+ N D P
+S+ N D P M G R S
+```
