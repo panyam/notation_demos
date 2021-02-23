@@ -1,0 +1,34 @@
+<style>
+text[roleName=sh] {
+    stroke: red;
+    font-style: oblique;
+    font-size: small;
+}
+text[roleName=sw] {
+    stroke: blue;
+    font-size: large;
+}
+</style>
+
+```v3h
+\role("sh")
+\role("sw", notes = true)
+\set(cycle = "|,,,,|,,|,,|")
+\set(aksharas per beat = 4)
+\set(layout = "4 4")
+```
+
+## Nive Gathi Yani
+
+**Composer**: Lalgudi Jayaraman
+
+**Ragam**: Nalinakanthi
+
+**Thalam**: Adi
+
+**Language**: Telugu
+
+---
+
+### Pallavi
+
