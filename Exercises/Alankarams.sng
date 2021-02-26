@@ -118,7 +118,6 @@ M G R M G M G R S ,
 
 ```v3 
 \set(cycle = "|,,,,,|,,,,,|,,|,,|")
-\set(layout = "10 4")
 S R , G , S , R G , M , M ,
 R G , M , R, G M, P, P, 
 G M, P, G, M P, D, D, 

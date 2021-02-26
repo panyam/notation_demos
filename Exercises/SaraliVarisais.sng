@@ -9,17 +9,11 @@
 
 \line
 S R G M    P D    N S.
+S. N D P    M G    R S
 ```
 
 #### 2.
 
-```v3
-\line
-
-S. N D P    M G    R S
-```
-
-#### 3.
 ```v3
 \line
     S R S R     S R     G M        
@@ -28,7 +22,7 @@ S. N D P    M G    R S
     S. N D P     M G     R S       
 ```
 
-#### 4.
+#### 3.
 ```v3
 \line
     S R G S     R G     S R        
@@ -37,7 +31,7 @@ S. N D P    M G    R S
     S. N D P     M G     R S       
 ```
 
-#### 5.
+#### 4.
 ```v3
 \line
     S R G M     S R     G M       
@@ -46,7 +40,7 @@ S. N D P    M G    R S
     S. N D P     M G     R S       
 ```
 
-#### 6.
+#### 5.
 ```v3
 \line
     S R G M     P ,     S R       
@@ -55,7 +49,7 @@ S. N D P    M G    R S
     S. N D P     M G     R S       
 ```
 
-#### 7.
+#### 6.
 ```v3
 \line
     S R G M     P D     S R       
@@ -64,7 +58,7 @@ S. N D P    M G    R S
     S. N D P     M G     R S       
 ```
 
-#### 8.
+#### 7.
 ```v3
 \line
     S R G M     P D     N ,       
@@ -73,7 +67,7 @@ S. N D P    M G    R S
     S. N D P     M G     R S       
 ```
 
-#### 9.
+#### 8.
 ```v3
 \line
     S R G M     P M     G R       
@@ -82,7 +76,7 @@ S. N D P    M G    R S
     S. N D P     M G     R S       
 ```
 
-#### 10.
+#### 9.
 ```v3
 \line
     S R G M     P M     D P       
@@ -91,7 +85,7 @@ S. N D P    M G    R S
     S. N D P     M G     R S       
 ```
 
-#### 11.
+#### 10.
 ```v3
 \line
     S R G M     P ,     G M       
@@ -100,7 +94,7 @@ S. N D P    M G    R S
     G M P G     M G     R S       
 ```
 
-#### 12.
+#### 11.
 ```v3
 \line
     S. , N D     N ,     D P       
@@ -109,7 +103,7 @@ S. N D P    M G    R S
     G M P G     M G     R S       
 ```
 
-#### 13.
+#### 12.
 ```v3
 \line
     S. S. N D     N N     D P       
@@ -118,7 +112,7 @@ S. N D P    M G    R S
     G M P G     M G     R S       
 ```
 
-#### 14.
+#### 13.
 ```v3
 \line
     S R G R     G ,     G M       
@@ -127,7 +121,7 @@ S. N D P    M G    R S
     M P D P     M G     R S       
 ```
 
-#### 15.
+#### 14.
 ```v3
 \line
     S R G M     P ,     P ,       
