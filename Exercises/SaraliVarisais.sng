@@ -8,7 +8,7 @@
 \role("Sw", notes = true)
 
 \line
-S R G M    P D    N S+
+S R G M    P D    N S.
 ```
 
 #### 2.
@@ -16,79 +16,79 @@ S R G M    P D    N S+
 ```v3
 \line
 
-S+ N D P    M G    R S
+S. N D P    M G    R S
 ```
 
 #### 3.
 ```v3
 \line
     S R S R     S R     G M        
-    S R G M     P D     N S+       
-    S+ N S+ N     S+ N     D P       
-    S+ N D P     M G     R S       
+    S R G M     P D     N S.       
+    S. N S. N     S. N     D P       
+    S. N D P     M G     R S       
 ```
 
 #### 4.
 ```v3
 \line
     S R G S     R G     S R        
-    S R G M     P D     N S+       
-    S+ N D S+     N D     S+ N       
-    S+ N D P     M G     R S       
+    S R G M     P D     N S.       
+    S. N D S.     N D     S. N       
+    S. N D P     M G     R S       
 ```
 
 #### 5.
 ```v3
 \line
     S R G M     S R     G M       
-    S R G M     P D     N S+       
-    S+ N D P     S+ N     D P       
-    S+ N D P     M G     R S       
+    S R G M     P D     N S.       
+    S. N D P     S. N     D P       
+    S. N D P     M G     R S       
 ```
 
 #### 6.
 ```v3
 \line
     S R G M     P ,     S R       
-    S R G M     P D     N S+       
-    S+ N D P     M ,     S+ N       
-    S+ N D P     M G     R S       
+    S R G M     P D     N S.       
+    S. N D P     M ,     S. N       
+    S. N D P     M G     R S       
 ```
 
 #### 7.
 ```v3
 \line
     S R G M     P D     S R       
-    S R G M     P D     N S+       
-    S+ N D P     M G     S+ N       
-    S+ N D P     M G     R S       
+    S R G M     P D     N S.       
+    S. N D P     M G     S. N       
+    S. N D P     M G     R S       
 ```
 
 #### 8.
 ```v3
 \line
     S R G M     P D     N ,       
-    S R G M     P D     N S+       
-    S+ N D P     M G     R ,       
-    S+ N D P     M G     R S       
+    S R G M     P D     N S.       
+    S. N D P     M G     R ,       
+    S. N D P     M G     R S       
 ```
 
 #### 9.
 ```v3
 \line
     S R G M     P M     G R       
-    S R G M     P D     N S+       
-    S+ N D P     M P     D N       
-    S+ N D P     M G     R S       
+    S R G M     P D     N S.       
+    S. N D P     M P     D N       
+    S. N D P     M G     R S       
 ```
 
 #### 10.
 ```v3
 \line
     S R G M     P M     D P       
-    S R G M     P D     N S+       
-    S+ N D P     M P     G M       
-    S+ N D P     M G     R S       
+    S R G M     P D     N S.       
+    S. N D P     M P     G M       
+    S. N D P     M G     R S       
 ```
 
 #### 11.
@@ -103,7 +103,7 @@ S+ N D P    M G    R S
 #### 12.
 ```v3
 \line
-    S+ , N D     N ,     D P       
+    S. , N D     N ,     D P       
     D , P M     P ,     P ,       
     G M P D     N D     P M       
     G M P G     M G     R S       
@@ -112,7 +112,7 @@ S+ N D P    M G    R S
 #### 13.
 ```v3
 \line
-    S+ S+ N D     N N     D P       
+    S. S. N D     N N     D P       
     D D P M     P ,     P ,       
     G M P D     N D     P M       
     G M P G     M G     R S       
@@ -132,7 +132,7 @@ S+ N D P    M G    R S
 \line
     S R G M     P ,     P ,       
     D D P ,     M M     P ,       
-    D N S+ ,     S+ N     D P       
-    S+ N D P     M G     R S       
+    D N S. ,     S. N     D P       
+    S. N D P     M G     R S       
 ```
 

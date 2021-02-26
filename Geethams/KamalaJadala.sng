@@ -24,24 +24,27 @@ text[roleName=sw] {
 ```v3
 
 \line
-\Sw
-S+ S+ S+ N D N S+
+
+Sw:
+
+S. S. S. N D N S.
 N D P D P M P
 
 G M P P D D N
 D P M P G R S
-D- D- D- G G G ,
+.D .D .D G G G ,
 M P , P G R S
 R,, S,,,
 G M P M P D P
 N D P D P M P
 G M P P D D N
 D P M P G R S
-D- D- D- G G G ,
+.D .D .D G G G ,
 M P , P G R S
 R,, S,,,
 
-\Sh
+Sh:
+
 Ka ma la Ja , da la
 Vi ma la Su na ya na
 Ka ri va ra da ka ru
@@ -59,4 +62,3 @@ Ka ma , la , , ,
 Ka , n tha , , ,
 
 ```
-

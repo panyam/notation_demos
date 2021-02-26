@@ -34,16 +34,16 @@ text[roleName=sw] {
 
 \line
 
-\Sw
-G , G , R , , , S S R R G G R R S R G R S R S D- S R G P G R S R
-\Sh
+Sw:
+G , G , R , , , S S R R G G R R S R G R S R S .D S R G P G R S R
+Sh:
 Nin , nu , ko , , , ri , , , , , , , yu , , , nna , , , nu , , , ra , , ,
 
 \line
-\Sw
-G P G G R S R G R R S D- S R G R G P G P D P D S+ D , P G D P G R
+Sw:
+G P G G R S R G R R S .D S R G R G P G P D P D S. D , P G D P G R
 
-\Sh
+Sh:
 Ni , , , , , ki , , , , , la , , , lo , , ka , , na , , , , ya , , ka , 
 ```
 
@@ -54,16 +54,16 @@ Ni , , , , , ki , , , , , la , , , lo , , ka , , na , , , , ya , , ka ,
 
 \line
 
-\Sw
-G , G , P , , , G G P P D D P , D S+ D D  P G D P D G D P G R S R
-\Sh
+Sw:
+G , G , P , , , G G P P D D P , D S. D D  P G D P D G D P G R S R
+Sh:
 Nan , nu , pa , , , li , , , , im pa , sa , , , , , ma , , ya , , mu , ra ,
 
 \line
-\Sw
-G G P P D P D S+ D S+ R+ S+ G+ R+ , S+ D S+ R+ S+ , D P D S+ D , P G R S R
+Sw:
+G G P P D P D S. D S. R. S. G. R. , S. D S. R. S. , D P D S. D , P G R S R
 
-\Sh
+Sh:
 Na , , , , , me , , da , , Kru , , pa , , ju , , , , , da , , , ra , , , 
 ```
 
@@ -73,10 +73,10 @@ Na , , , , , me , , da , , Kru , , pa , , ju , , , , , da , , , ra , , ,
 ```v3
 \line
 
-\sw
+Sw:
 
-G , R G R S R , S R S G R G S R S D- S R G R G P G P D , P , , ,
-G P D P D S+ R+ G+ R+ , G+ S+ , R+ D , S+ P , D S+ R+ G+ S+ , D P , G R S R
+G , R G R S R , S R S G R G S R S .D S R G R G P G P D , P , , ,
+G P D P D S. R. G. R. , G. S. , R. D , S. P , D S. R. G. S. , D P , G R S R
 ```
 
 ### Charanam
@@ -85,10 +85,10 @@ G P D P D S+ R+ G+ R+ , G+ S+ , R+ D , S+ P , D S+ R+ G+ S+ , D P , G R S R
 
 \line
 
-\Sw 
+Sw: 
 G , G , G P G R R G P G P , , , G G D P D , G G D P G P G R S R
 
-\Sh
+Sh:
 San , nu , tha , , , nga , , , Sree , , , ni , , , , , va , , , sa , , , , ,
 ```
 
@@ -97,9 +97,9 @@ San , nu , tha , , , nga , , , Sree , , , ni , , , , , va , , , sa , , , , ,
 ```v3
 
 \line
-\Sw
+Sw:
 
-G , , , R , S , R , , , D- , , , R , D- , S , , , R , , , G , R , 
+G , , , R , S , R , , , .D , , , R , .D , S , , , R , , , G , R , 
 
 ```
 
@@ -109,7 +109,7 @@ G , , , R , S , R , , , D- , , , R , D- , S , , , R , , , G , R ,
 
 \line
 
-G , G R G R S R G , G P D- D- S R G , G G D P G R G , G S+ D P G R
+G , G R G R S R G , G P .D .D S R G , G G D P G R G , G S. D P G R
 ```
 
 #### Chittayi Swaram 3
@@ -118,7 +118,7 @@ G , G R G R S R G , G P D- D- S R G , G G D P G R G , G S+ D P G R
 
 \line
 
-P , D D P , G R S , R G R , S D- S , R G P , D , S+ S+ , D P , G R
+P , D D P , G R S , R G R , S .D S , R G P , D , S. S. , D P , G R
 
 ```
 
@@ -128,7 +128,7 @@ P , D D P , G R S , R G R , S D- S , R G P , D , S+ S+ , D P , G R
 
 \line
 
-S+ , R+ G+ R+ S+ R+ S+ D S+ D P G R S R S , , , S , S S R R G G P P D D
-S+ R+ G+ R+ G+ R+ D S+ R+ S+ R+ S+ P D S+ D S+ D G P D P D P R+ S+ D P G R S R
+S. , R. G. R. S. R. S. D S. D P G R S R S , , , S , S S R R G G P P D D
+S. R. G. R. G. R. D S. R. S. R. S. P D S. D S. D G P D P D P R. S. D P G R S R
 
 ```

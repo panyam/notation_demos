@@ -23,11 +23,11 @@ Talam: Adi
 
 \line
 
-\Sw   S , R ,   	M , , G   	R M D ,  	N G , P     S+ , , S+ 	, ,  S+ N 	N D P P  	M M G R
-\Sh   Sha , ra , 	na , , ga 	, , tha , 	, va , ,  tsa , , le 	, , shan , 	, , , ka 	  , , , ri
+Sw:   S , R ,   	M , , G   	R M D ,  	N G , P     S. , , S. 	, ,  S. N 	N D P P  	M M G R
+Sh:   Sha , ra , 	na , , ga 	, , tha , 	, va , ,  tsa , , le 	, , shan , 	, , , ka 	  , , , ri
 
-\Sh   Sa , , rVe	, , shwa ,  , ri , Sa  , , Da ,  Ma , , , 	M  Pa , ,  	, hi , ,  	, , , ,
-\Sw   S R S S 	N- D- S , 	, R ,  M 	G R S R   M , D , 	N  G  , P 		, S+ N D  	P M G R
+Sh:   Sa , , rVe	, , shwa ,  , ri , Sa  , , Da ,  Ma , , , 	M  Pa , ,  	, hi , ,  	, , , ,
+Sw:   S R S S 	.N .D S , 	, R ,  M 	G R S R   M , D , 	N  G  , P 		, S. N D  	P M G R
 
 ```
 
@@ -37,11 +37,11 @@ Talam: Adi
 
 \line
 
-\Sw M , , D 		, , N G		P M , G 	R S R M	  D N G , 	, P , ,  	S+ N D P  	S+ , , ,
-\Sh Mu , , ra 	, , ha , 	, ra , SO	, , , ,	  da , ri , , gau , , 	, , , , 	ri  , , ,
+Sw: M , , D 		, , N G		P M , G 	R S R M	  D N G , 	, P , ,  	S. N D P  	S. , , ,
+Sh: Mu , , ra 	, , ha , 	, ra , SO	, , , ,	  da , ri , , gau , , 	, , , , 	ri  , , ,
 
-\Sw S+ R+ M+ 	G+	,  R+ S+ N  D P M  D		, N G P	    R+ S+ S+ N	N D D P 	P M M G 	G R R S
-\Sh Cha , , rma  	, m ba , 	ra , , dha  , , ra,	      va ,  ,  , 		, , , ,		, shan , ka 	, ri , ,
+Sw: S. R. M. 	G.	,  R. S. N  D P M  D		, N G P	    R. S. S. N	N D D P 	P M M G 	G R R S
+Sh: Cha , , rma  	, m ba , 	ra , , dha  , , ra,	      va ,  ,  , 		, , , ,		, shan , ka 	, ri , ,
 ```
 
 ## Mukthayi Swaram
@@ -50,12 +50,12 @@ Talam: Adi
 
 \line
 
-\Sw 
+Sw: 
 
-S R M G 	 	R S N- D- 	P- S , R 	,  M G R  	  M D N  G		P M G R 	S R , M 	, D N G
-P R+ S+ N  	D P M G    	R M , D     ,  N G P	  M G R S 		R M D N		G P , S+	, N D P
-S+ R+ N D  	P M D N		G P S+ N	D P M G		R S N- D- 	D- S R M	M D D N		G P P S+
-S+ R+ R+ M+ 	, G+ R+ S+	N D , P		S+ S+ R+ ,  S+ N D P 		M , M D 	D N , G		P M G R 
+S R M G 	 	R S .N .D 	.P S , R 	,  M G R  	  M D N  G		P M G R 	S R , M 	, D N G
+P R. S. N  	D P M G    	R M , D     ,  N G P	  M G R S 		R M D N		G P , S.	, N D P
+S. R. N D  	P M D N		G P S. N	D P M G		R S .N .D 	.D S R M	M D D N		G P P S.
+S. R. R. M. 	, G. R. S.	N D , P		S. S. R. ,  S. N D P 		M , M D 	D N , G		P M G R 
 
 ```
 
@@ -65,8 +65,8 @@ S+ R+ R+ M+ 	, G+ R+ S+	N D , P		S+ S+ R+ ,  S+ N D P 		M , M D 	D N , G		P M G 
 
 \line
 
-\Sw M , , ,		, , M , 	D , D   N 	, G , ,  	P ,  , ,		, , P S+	N D P P 	M M G R 
-\Sh Ma , , , 		, , ra , 	, , ban , 	, , ja , 	na , , , 		, , ma , 	no , , ha	, r , , 
+Sw: M , , ,		, , M , 	D , D   N 	, G , ,  	P ,  , ,		, , P S.	N D P P 	M M G R 
+Sh: Ma , , , 		, , ra , 	, , ban , 	, , ja , 	na , , , 		, , ma , 	no , , ha	, r , , 
 
 ```
 
@@ -75,8 +75,8 @@ S+ R+ R+ M+ 	, G+ R+ S+	N D , P		S+ S+ R+ ,  S+ N D P 		M , M D 	D N , G		P M G 
 ```v3
 
 \line
-\Sw
-M , , ,  		, , G , 	, , R ,		, S ,		,  N- , ,	D-	, , P-	, , S , 	, R , ,
+Sw:
+M , , ,  		, , G , 	, , R ,		, S ,		,  .N , ,	.D	, , .P	, , S , 	, R , ,
 
 ```
 
@@ -86,7 +86,7 @@ M , , ,  		, , G , 	, , R ,		, S ,		,  N- , ,	D-	, , P-	, , S , 	, R , ,
 
 \line
 
-M , D D		N  G G P		M , N D 	P M G R M , D N 	G P S+ N 	M+ , G+ R+ 	R+ N D P
+M , D D		N  G G P		M , N D 	P M G R M , D N 	G P S. N 	M. , G. R. 	R. N D P
 ```
 
 ### Chittayi Swaram 3
@@ -95,8 +95,8 @@ M , D D		N  G G P		M , N D 	P M G R M , D N 	G P S+ N 	M+ , G+ R+ 	R+ N D P
 
 \line
 
-P S+ N D 		P M G R		M D N  G 		P M G R M G R S 	N- D- P- S 	R M G R		M D N  G 
-P R+ S+ N		D P M D 	N G P 	S 		R M D N G P S+ R+	 M+ G+ R+  S+	N D P M G R S R 
+P S. N D 		P M G R		M D N  G 		P M G R M G R S 	.N .D .P S 	R M G R		M D N  G 
+P R. S. N		D P M D 	N G P 	S 		R M D N G P S. R.	 M. G. R.  S.	N D P M G R S R 
 
 ```
 
@@ -106,10 +106,10 @@ P R+ S+ N		D P M D 	N G P 	S 		R M D N G P S+ R+	 M+ G+ R+  S+	N D P M G R S R
 
 \line
 
-S S , S+		, , G P		S+ N D P 		M G R S R R , R+	, , M+ G+	R+ S+ N D 	P M G R	
-M D , N		, , G P 	S+ N , D 		, , P M  G R , M 	, , G R 	S N- D- P-	S , ,  S 
-R , M G 		R S  R M 	D , N G			P M G R  M , D N	G P S+ N	S+ N D P	S+ , , R+ 
-M+ G+ R+ S+	N D P S+	R+ , ,  R+		S+ N D P  M D N G	 P , , R 	S R M D		N G P  R 
-M+ G+ R+ S+	N D P S+	, R+ ,  R+		S+ N D P  M D N G	 , P , R 	, M D N 	G , P ,  
+S S , S.		, , G P		S. N D P 		M G R S R R , R.	, , M. G.	R. S. N D 	P M G R	
+M D , N		, , G P 	S. N , D 		, , P M  G R , M 	, , G R 	S .N .D .P	S , ,  S 
+R , M G 		R S  R M 	D , N G			P M G R  M , D N	G P S. N	S. N D P	S. , , R. 
+M. G. R. S.	N D P S.	R. , ,  R.		S. N D P  M D N G	 P , , R 	S R M D		N G P  R 
+M. G. R. S.	N D P S.	, R. ,  R.		S. N D P  M D N G	 , P , R 	, M D N 	G , P ,  
 
 ```

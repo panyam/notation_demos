@@ -31,19 +31,19 @@ text[roleName=sw] {
 
 ```v3
 
-\sw
-R , G , G R S , S R S S D- M- D-  ,
-m- D- S D- , S D- S R G , M G G R S
+Sw:
+R , G , G R S , S R S S .D .M .D  ,
+.m .D S .D , S .D S R G , M G G R S
 
-\sh
+Sh:
 Ev , va , ri , , , bo , , , dha , , , 
 na , , , , , vi , , ni , , , , , , 
 
-\sw
-R G M G , M R G S R , D- S R G M 
-D M D S+ , S+ D S+ D M , g m g R s
+Sw:
+R G M G , M R G S R , .D S R G M 
+D M D S. , S. D S. D M , g m g R s
 
-\sh
+Sh:
 
 E , , , , , la , , , , gu , , , , 
 jey , , , , , sey , , , , vu , ra , , 
@@ -54,21 +54,21 @@ jey , , , , , sey , , , , vu , ra , ,
 
 ```v3
 
-\sw
-S+ S+ D D D m D D m g , r g m R g s R g m , m 
-D m g R g m D D S+ ,
+Sw:
+S. S. D D D m D D m g , r g m R g s R g m , m 
+D m g R g m D D S. ,
 
 
-\sh
+Sh:
 Ja , , va , , mu , , ga , , nan , , , 
 ne , , la , , ra ,, , Se , Sha , ,,
 
 
-\sw
-D S+ R+ S+ , R+ G+ M+ R+ G+ , M+ G+ G+ R+ S+
-R+ G+ R+ S+ R+ D R+ S+ S+ D M D M G R S
+Sw:
+D S. R. S. , R. G. M. R. G. , M. G. G. R. S.
+R. G. R. S. R. D R. S. S. D M D M G R S
 
-\sh
+Sh:
 Cha , , le , , dra , , , , Sri , , , , 
 Ven , , , , ka , , tey , , Shwa , ra , , 
 
@@ -79,17 +79,17 @@ Ven , , , , ka , , tey , , Shwa , ra , ,
 
 ```v3
 
-\sw
-R G M R , G S R G S , R S D- M- D- S D- S R , R G S R M , D M G R S
-R G M G , M D M D S+ , R+G+S+R+G+M+G+R+G+,R+S+D R+S,D M G R S
+Sw:
+R G M R , G S R G S , R S .D .M .D S .D S R , R G S R M , D M G R S
+R G M G , M D M D S. , R.G.S.R.G.M.G.R.G.,R.S.D R.S,D M G R S
 ```
 
 #### Charanam
 
 ```v3
-\sw
-M , D M D , , , D S+ D M D D S+, D S+ D D M , D M G R S R G S R G
-\sh
+Sw:
+M , D M D , , , D S. D M D D S., D S. D D M , D M G R S R G S R G
+Sh:
 Ma , ru , ba , , , , , , , ri , , , 
 ko , , , rva , ja , la , , nu , ra , , 
 ```
@@ -98,9 +98,9 @@ ko , , , rva , ja , la , , nu , ra , ,
 
 ```v3
 
-\sw
+Sw:
 
-M , , , , , D , M , D , , , S+ , D , M , , , G , R , S , R , G , 
+M , , , , , D , M , D , , , S. , D , M , , , G , R , S , R , G , 
 ```
 
 
@@ -108,9 +108,9 @@ M , , , , , D , M , D , , , S+ , D , M , , , G , R , S , R , G ,
 
 ```v3
 
-\sw
+Sw:
 
-M D S+ D , M D M G R , G M G R S D- S , R G M D S+ , D M G R S R G
+M D S. D , M D M G R , G M G R S .D S , R G M D S. , D M G R S R G
 ```
 
 
@@ -118,9 +118,9 @@ M D S+ D , M D M G R , G M G R S D- S , R G M D S+ , D M G R S R G
 
 ```v3
 
-\sw
+Sw:
 
-D S+ D M G R G M D M G R G S R S R G M D S+ R+ G+ R+ S+ D M G R S R G
+D S. D M G R G M D M G R G S R S R G M D S. R. G. R. S. D M G R S R G
 ```
 
 
@@ -128,8 +128,8 @@ D S+ D M G R G M D M G R G S R S R G M D S+ R+ G+ R+ S+ D M G R S R G
 
 ```v3
 
-\sw
+Sw:
 
-S , , S+ , S+ R+ G+ S R+ , R+ S+ D M D S+ , , S+ D R+ S+ D , S+ D M , G R S
-R G M D , S+ R+ G+ M+ R+, G+ R+ S+ D S+ R+ S+ , D M D S+ D , M G R S , R G
+S , , S. , S. R. G. S R. , R. S. D M D S. , , S. D R. S. D , S. D M , G R S
+R G M D , S. R. G. M. R., G. R. S. D S. R. S. , D M D S. D , M G R S , R G
 ```

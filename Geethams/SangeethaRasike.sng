@@ -1,4 +1,4 @@
- <style>
+<style>
 text[roleName=sh] {
     stroke: red;
     font-style: oblique;
@@ -25,20 +25,20 @@ text[roleName=sw] {
 
 \line
 
-\Sw
-S+ , , n , , D , P , D , P , , , P , D , P , D , S+ , , , , , , ,
-S+ , , n , , D , P , D , P , , , P , D , P , D , S+ , , , P , D ,
-S+ , , n , , D , P , D , P , , , P , D , P , D , S+ , , , P D P D
-S+ , , n , , D , P , D , P , , , P , D , P , D , S+ , , , , , , ,
+Sw:
+S. , , n , , D , P , D , P , , , P , D , P , D , S. , , , , , , ,
+S. , , n , , D , P , D , P , , , P , D , P , D , S. , , , P , D ,
+S. , , n , , D , P , D , P , , , P , D , P , D , S. , , , P D P D
+S. , , n , , D , P , D , P , , , P , D , P , D , S. , , , , , , ,
 
-D , , S+ R+ , S+ , n , ,, ,, ,, D , , P M , P ,  D , ,, ,, ,,
+D , , S. R. , S. , n , ,, ,, ,, D , , P M , P ,  D , ,, ,, ,,
 P , , M R , M , P , M , R , S , R , ,, ,, M , P , ,, P , D ,
-S+ , , n , , D , P , D , P , , , P , D , P , D , S+ , , , , , , ,
+S. , , n , , D , P , D , P , , , P , D , P , D , S. , , , , , , ,
 
-P , M , P , D , P , D , S+,S+, S+,R+, n,D, S+,S+,S+,S+,
-D,S+,R,n,,,D,P,D, P,,,,,P,D,P,D,S+,
+P , M , P , D , P , D , S.,S., S.,R., n,D, S.,S.,S.,S.,
+D,S.,R,n,,,D,P,D, P,,,,,P,D,P,D,S.,
 
-\Sh
+Sh:
 San , , gee , , tha , ra , si , key , , , Sha , ,, ,, ra , dhey , ,, ,, ,,
 San , , gee , , tha , ra , si , key , , , Sha , ,, ,, ra , dhey , ,, Ja , ya ,
 San , , gee , , tha , ra , si , key , , , Sha , ,, ,, ra , dhey , ,, Ja ya ja ya
