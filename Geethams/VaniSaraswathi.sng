@@ -1,16 +1,9 @@
 
-## Vani Saraswathi
+**Ragam**: Hamsanandhi
 
-Ragam: Hamsanandhi
-
-Talam: Adi
+**Talam**: Adi
 
 ```v3
-
-\role("Sh")
-\role("Sw", notes = true)
-
-\set(cycle = "|,,,,|,,|,,||")
 \set(aksharas per beat = 2)
 
 \line

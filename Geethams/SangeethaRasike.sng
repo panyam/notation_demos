@@ -1,19 +1,4 @@
-<style>
-text[roleName=sh] {
-    stroke: red;
-    font-style: oblique;
-    font-size: small;
-}
-text[roleName=sw] {
-    stroke: blue;
-    font-size: large;
-}
-</style>
-
 ```v3h
-\role("sh")
-\role("sw", notes = true)
-\set(cycle = "|,,,,|,,|,,|")
 \set(aksharas per beat = 4)
 ```
 

@@ -1,24 +1,6 @@
-<style>
-text[roleName=sh] {
-    stroke: red;
-    font-style: oblique;
-    font-size: small;
-}
-text[roleName=sw] {
-    stroke: blue;
-    font-size: large;
-}
-</style>
-
 ```v3h
-\role("sh")
-\role("sw", notes = true)
-\set(cycle = "|,,,,|,,|,,|")
 \set(aksharas per beat = 4)
-\set(layout = "4 4")
 ```
-
-## Nive Gathi Yani
 
 **Composer**: Lalgudi Jayaraman
 
@@ -30,5 +12,80 @@ text[roleName=sw] {
 
 ---
 
-### Pallavi
+#### Pallavi
 
+```v3
+
+Sw:
+s g g r r m , , m n p n m p , , n S. , S. P , n p n m p m , m g r 
+s g r .n r s .p , , .n s g r m p n m p n , , s. , n p m , g r s , .n
+
+Sh:
+Ni , , , , ve , , ga , ti , , ya  , , ni , , , , , ni , , ra , ta , mu , ,
+Ni , , pa , , da , , mu , , , , le , , , , , , nam , , , mi , , , ti , ,
+
+```
+
+#### Anupallavi
+
+```v3
+
+Sw:
+P ,, s. n p m , , n p m m g r s G , , r M , , m P , , n S. , , ,
+p n s. g. r. , n s. g. r. m. , m. g. r. s. r. n s. P , p n m p r , m g r s .n
+
+Sh:
+De , , va , , ti , , de , , va , , , shan , , mu kha , , kr pa , , ni dhe , , ,
+I , , , , , vey , , , , , , la , , ka , ru , , , nim , , , , pu , mu , , 
+```
+
+#### Chittai Swaram
+
+```v3
+
+Sw:
+s g r m g r s .n , .p .n s g , , r m p s. n p m g r , s g r m , , n p p m m g g r s , g r m p , , m g r m n p m p s. n p n r. s. , , n
+p s. n r. s. g. r. m. g. r. s. n p m g r s g r p m n p s. n p m g r , , s g r r p m m n p p s. n n g. r. r. m. g. r. s. n p s. n p m g r m g r s .n
+
+```
+
+#### Charanam
+
+```v3
+
+Sw:
+
+M , , n p , S. n p m g r m p n m p , ; ; n p m g r s .n s g r
+
+Sh:
+
+Ma , , ra , , ko , ti , ru , , , , , pa , ; ; Sun , , , , da , ra , , 
+```
+
+
+#### 1
+
+```v3
+Sw:
+M , , , , , G  , , R , , .N , , .p , , .N , , S , , S , , G , , R , 
+```
+
+#### 2
+
+```v3
+M , n P m g r p m , m g r m p n m , m p n S. g. r. M. , m. g. r. s. n p
+```
+
+#### 3
+
+```v3
+N P N M P N   M N P N  R M P N R N P M P R P M N P R. N G. R.  M. G. R. n p m g r G. R. n p m g r R. n p m g r .n .p m g r n p m. g. r. n p m g r
+```
+
+#### 4
+
+```v3
+S. , , S. , , n p S. N , P M G, R M,, M,, .n S G R M P N S. G. R. S.,, P,, n p S. N,P M G, R P,, R,, .n s g r m p n s. g. r.
+s. n p M , , m p n p m G , , g r p m g R , , .n s g r m p N , , n S. G. R. M. M. G. R. S. S. N P M M G R S .N.P.N S G R M P N S., G R.,, R.
+M.G.R.S.N P N,r.S.,, s.g.r.s. n p m P , S.N, , , S. n p m g r
+```

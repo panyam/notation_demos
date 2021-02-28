@@ -1,10 +1,6 @@
 
-## Jantai Varisai
-
 ```v3h
-\set(cycle = "|,,,,|,,|,,|")
 \set(aksharas per beat = 2)
-\role("Sw", notes = true)
 ```
 
 #### Exercise 1

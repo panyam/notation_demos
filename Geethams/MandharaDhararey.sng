@@ -1,6 +1,4 @@
 
-## Mandhara Dhararey
-
 Composer: Paidala Gurumurti Shastri
 
 Ragam: Kambhoji
@@ -9,13 +7,7 @@ Talam: Adi
 
 ```v3
 
-\role("Sh")
-\role("Sw", notes = true)
-
-\set(cycle = "|,,,,|,,|,,||")
 \set(aksharas per beat = 2)
-
-\line
 
 Sw:
       S. , N P D D S. , D S. R. G. M. G. G. R.

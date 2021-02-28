@@ -1,27 +1,16 @@
-## Sharanagatha Vatsaley
+**Composer**: Calcutta K S Krishnamurthy
 
-Composer: Calcutta K S Krishnamurthy
+**Ragam**: Kadana Kuthuhalam
 
-Ragam: Kadana Kuthuhalam
-
-Talam: Adi
+**Talam**: Adi
 
 ```v3h
-
-// Create 2 roles - swaram and sahithyam
-\role("Sh")
-\role("Sw", notes = true)
-
-\set(cycle = "|,,,,|,,|,,||")
 \set(aksharas per beat = 4)
-
 ```
 
 ## Pallavi
 
 ```v3
-
-\line
 
 Sw:   S , R ,   	M , , G   	R M D ,  	N G , P     S. , , S. 	, ,  S. N 	N D P P  	M M G R
 Sh:   Sha , ra , 	na , , ga 	, , tha , 	, va , ,  tsa , , le 	, , shan , 	, , , ka 	  , , , ri
