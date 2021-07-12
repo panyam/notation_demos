@@ -1,6 +1,6 @@
 
 ```v3h
-\set(aksharas per beat = 4)
+\set(aksharasPerBeat = 4)
 ```
 
 #### Pallavi

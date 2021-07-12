@@ -1,5 +1,5 @@
 ```v3h
-\set(aksharas per beat = 2)
+\set(aksharasPerBeat = 2)
 \set(cycle="3")
 \set(layout = "6")
 ```

@@ -7,7 +7,7 @@ Talam: Adi
 
 ```v3
 
-\set(aksharas per beat = 2)
+\set(aksharasPerBeat = 2)
 
 Sw:
       S. , N P D D S. , D S. R. G. M. G. G. R.

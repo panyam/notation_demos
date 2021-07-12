@@ -1,7 +1,7 @@
 
 ```v3h
 \set(cycle = "2|4")
-\set(aksharas per beat = 2)
+\set(aksharasPerBeat = 2)
 ```
 
 **Ragam**: Thodi
@@ -34,7 +34,7 @@ Sh: Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shr
 #### Thisram
 
 ```v3
-\set(aksharas per beat = 3)
+\set(aksharasPerBeat = 3)
 
 Sw:  , , p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
 Sh: , , Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
@@ -53,7 +53,7 @@ Sh: Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shr
 
 ```v3
 
-\set(aksharas per beat = 4)
+\set(aksharasPerBeat = 4)
 
 Sw:  , , p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
 Sh: , , Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
