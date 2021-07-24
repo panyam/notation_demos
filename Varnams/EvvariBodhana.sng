@@ -1,7 +1,6 @@
 
 ```v3h
 \set(aksharasPerBeat = 4)
-\set(layout = "4 ")
 ```
 
 
@@ -20,29 +19,23 @@
 Sw:
 R , G , G R S , S R S S .D .M .D  ,
 .m .D S .D , S .D S R G , M G G R S
-
-Sh:
-Ev , va , ri , , , bo , , , dha , , , 
-na , , , , , vi , , ni , , , , , , 
-
-Sw:
 R G M G , M R G S R , .D S R G M 
 D M D S. , S. D S. D M , g m g R s
 
 Sh:
-
+Ev , va , ri , , , bo , , , dha , , , 
+na , , , , , vi , , ni , , , , , , 
 E , , , , , la , , , , gu , , , , 
 jey , , , , , sey , , , , vu , ra , , 
+
 ```
 
-
-#### Anuallavi
+#### Anu Pallavi
 
 ```v3
-
 Sw:
-S. S. D D D m D D m g , r g m R g s R g m , m 
-D m g R g m D D S. ,
+S. S. D D D m D D m g , r g m R g
+s R g m , m D m g R g m D D S. ,
 
 
 Sh:
