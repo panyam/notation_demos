@@ -1,9 +1,11 @@
 
-\aksharasPerBeat(4)
+```v3h
+\set(aksharasPerBeat = 4)
+```
 
+#### Pallavi
 
-> #### Pallavi
-
+```v3
 
 \line
 
@@ -35,11 +37,11 @@ Sh:
 Ja , ya , Ja , , , , , na , ki , , , , , pra , , , na , nA , , ya ka , , ,
 Ja , ya , Ja , , , , , na , ki , , , , , pra , , , na , nA , , ya ka , , , 
 Ja , ga , da , , , , , , , nan , , , da , ka , , , ra , ka , , , , , , , 
+```
 
+#### Anupallavi
 
-> #### Anupallavi
-
-
+```v3
 Sw: 
 , , s. n , s. , , , s. n p n , s. , , ,  n p p n  s. , , , , , , - n r. s. s. n
 n , s. n , s. , , s. n p n , s. , , n p n s. , n - p n s. n p m g m p s.
@@ -52,13 +54,13 @@ Sh:
 , , Ga ga , na , , , , di pa , sath , , ku la ja ra , ja Ra , je , , sva ra , , , 
 , , Ga ga na , , , , , - di pa , sath , ,  ku la ja ra , ja Ra , je , , sva ra , , , 
 Su gu na , ka ra su ra se , , vya bhav , , , , ya da , ya ka , , , , sa da , sa ka la 
+```
 
+#### Charanam
 
-> #### Charanam
+#### 1
 
-> #### 1
-
-
+```v3
 Sw: 
 s s .n .p , , .m .p s s r s s m m r s m m , , , p. , , , -  p m m p m m 
 r , s - m r s s , n p , p m m p , s. , s. n n s. n n s. n p , r. s. n p 
@@ -69,11 +71,11 @@ A ma ra tha , , ra ka ni cha ya ku. mu da hi tha pa ri pu , , , rna , , , na ka 
 Pu , ja da di pa yo , ni va , sa ha ra na ,
 Sun , da ra tha ra va da na su da , ma ya va so , Brin , da Go , vin , da sa , nan , da ma , 
 va ra , ja ra , ptha su ba ka ra , , ne , ka 
+```
 
+#### 2
 
-> #### 2
-
-
+```v3
 Sw: 
 s. n p - m , n p , m r s - .n , r s , s .n .p - s , s r , s r s - p , m n p
 s. n p - r. , r. s. , p s. n p , m g m p p s. s. , n p , m r s - s , r g m
@@ -81,11 +83,11 @@ s. n p - r. , r. s. , p s. n p , m g m p p s. s. , n p , m r s - s , r g m
 Sh:
 Ni ga ma nee , ra ja , mru tha ja po , sha ka , ni mi sha vai , ri va , ri tha sa mee , , ra na
 Kha ga thu ran , ga sath , ka vi hru da , la ya , ga ni tha va , na ra , di pa na tha , ngri yu  ga
+```
 
+#### 3
 
-> #### 3
-
-
+```v3
 Sw: 
 
 p , n - p , n p m m , p - m , p m g g , m - g , m r s .n , s g , m p , 
@@ -94,12 +96,12 @@ p , n p s. n r. s. m. , r. s. n p m , g  m p s. n p -  p n p m r s s r g m
 Sh:
 In , dra nee -,  la ma ni san , ni pa , pa gha na Chan , dra Su , rya na ya  na , pra me , ya Va , 
 gee , ndra ja na ka sa ka le , sa su , bra Na , ge , dnra sa ya na sa ma na vai , ri san , nu tha
+```
 
 
+#### 4
 
-> #### 4
-
-
+```v3
 Sw: 
 
 p , n p m p n , p m , - n p m p n p , , m m p m , , - g m p n p , p 
@@ -109,13 +111,13 @@ Sh:
 Pa , da vi ji tha mou , ni cha , pa sa va pa ri pa , , la va ra man , , thra gra ha na  lo , la
 pa ra ma sa , ntha - chith ,  tha ja na ka ja , di pa Sa ro , ja bha va Va ra da , , , , , ki la 
 
+```
 
 
 
+#### 5
 
-> #### 5
-
-
+```v3
 Sw: 
 
 s , p , m , r , s p , m  g , p m g , - m p n p g , m p , m r , - p m
@@ -126,11 +128,11 @@ Sh:
 Sru , shti , sthi , thyan , tha kaA , ra kA , mi tha kA , mi tha pha la dA , sa mA , na gA , thra sa 
 See , pa thi su dA , bdi ma tha ha rA , nu rA , ga rA , ga rA , ji tha ka thA , sA , ra hi tha
 
+```
 
+#### 6
 
-> #### 6
-
-
+```v3
 
 Sw: 
 
@@ -142,11 +144,11 @@ Sh:
 Saj , ja na mA , na sA , bdi su dhA , ka ra ku su  ma vi mA , nu  sa ra sA , ri pu ka rA , bja 
 lA , li tha cha ra nA , va ru nA , su ra ga nA , ma tha ha ra na , sa nA , tha nA , ja nu tha
 
+```
 
+#### 7
 
-> #### 7
-
-
+```v3
 
 Sw: 
 
@@ -160,11 +162,11 @@ Om , , kA , ra pan , ja ra kee , , ra pu  ra ha ra sa rO , ja bha va key , , sa 
 , pa VA , sa va ri pu ja na kAn , tha ka ka lA , dha ra ka lA , dha rA , ptha gru nA , ka ra cha
 ra nA , ga tha ja na pA , la na su ma nO , ra ma na nIr , vi kA , ra ni ga ma sA , ra tha ra
 
+```
 
+#### 8
 
-> #### 8
-
-
+```v3
 
 Sw: 
 p m r s .n .p - s , s , , - m r s s , , - p m r s , n p , - p m r s , - p m
@@ -175,11 +177,11 @@ Sh:
 Ka ra dhru tha sha ra jA , la , , Su ra ma thA , , pa ha ra NA , va nee , su ra su ra , va na 
 ka vee , na bi la ja mou , ni kru tha cha ri , thra san , nu tha Sree , thya , , ga rA , , ja nu  tha
 
+```
 
+#### 9
 
-> #### 9
-
-
+```v3
 
 Sw: 
 p p , n p m n p m m , p m g m r s r , s m g p m n p , m g m p n
@@ -190,11 +192,11 @@ Sh:
 Pu rA , Na pu ru sha nru va rA , thma jA , shri tha pa rA , dee , na ka ra Vi rA , dha RA , va na
 vi rA , va nA , na ka pa rA , sa ra ma nO , ha rA , vi kru tha Thya , ga rA , ja san , nu  tha
 
+```
 
+#### 10
 
-> #### 10
-
-
+```v3
 
 Sw: 
 p p n p p n p  m m p , n p  , , n p  p m m , - p m , n p m , s. n p  m
@@ -208,5 +210,5 @@ A ga ni tha gu na ga na ka chey , la sA , , la vi da la nA , ru nA , pa sa mA , 
 , pA , ra ma hi mA , , thbu tha su ka vi ja na hruth , sa da na su ra mu ni ga na vi hi tha ka la
 sa nee , ra ni thi jA , ra ma na pA , pa ga ja Nru sim , ha va ra thya , ga rA , jA , di nu tha
 
-
+```
 
