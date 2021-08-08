@@ -1,26 +1,20 @@
 
-```v3h
 \set(cycle = "2|4")
 \set(aksharasPerBeat = 2)
-```
 
+r#"
 **Ragam**: Thodi
 **Talam**: Chaturasra Jaathi Rupakam
 **Gathi**: Chaturasra 
 **Maargam**: Athi Chitra Thama
+"#
 
-#### Pallavi
-
-```v3
+>#### Pallavi
 
 Sw: , , p , d , n , , , s. , , , s. n r. s. s. n d , n , s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
 Sh: , , Ja , gu , sey  , , , yya , , , mey , ra , gA , , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
 
-```
-
-#### First Speed
-
-```v3
+>#### First Speed
 
 Sw: 
 , , p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
@@ -29,11 +23,8 @@ Sh: , , Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , ,
 Sw:  p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
 Sh: Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
 
-```
+>#### Thisram
 
-#### Thisram
-
-```v3
 \set(aksharasPerBeat = 3)
 
 Sw:  , , p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
@@ -46,12 +37,7 @@ Sw:  p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n 
 Sh: Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
 
 
-```
-
-
-#### Second Speed
-
-```v3
+>#### Second Speed
 
 \set(aksharasPerBeat = 4)
 
@@ -61,6 +47,4 @@ Sh: , , Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , ,
 Sw:  p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
 Sh: Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
 
-
-```
 
