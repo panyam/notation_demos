@@ -1,6 +1,7 @@
 
-> #### 1.
+#### 1.
 
+```v3
 
 S R S G R G R M S M G R S R G M
 R G R M G M G P R P M G R G M P
@@ -12,9 +13,11 @@ N D N P D P D M N M P D N D P M
 D P D M P M P G D G M P D P M G
 P M P G M G M R P R G M P M G R
 M G M R G R G S M S R G M G R S
+```
 
-> #### 2.
+#### 2.
 
+```v3
 S M G M R G S R S G R G S R G M
 R P M P G M R G R M G M R G M P
 G D P D M P G M G P M P G M P D
@@ -25,4 +28,5 @@ N M P M D P N D N P D P N D P M
 D G M G P M D P D M P M D P M G
 P R G R M G P M P G M G P M G R
 M S R S G R M G M R G R M G R S
+```
 

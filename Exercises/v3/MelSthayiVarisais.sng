@@ -1,19 +1,19 @@
  
-> #### 1.
+#### 1.
 
-
+```v3 
 
 S R G M P D N S.
 S. , , , S. , , ,
 D N S. R. S. N D P
 S. N D P M G R S
 
-
+```
 
  
-> #### 2.
+#### 2.
 
-
+```v3 
 
 S R G M P D N S.
 S. , , , S. , , ,
@@ -22,11 +22,11 @@ S. R. S. N D P M P
 D N S. R. S. N D P
 S. N D P M G R S
 
-
+```
  
-> #### 3.
+#### 3.
 
-
+```v3 
 
 S R G M P D N S.
 S. , , , S. , , ,
@@ -37,11 +37,11 @@ S. R. S. N D P M P
 D N S. R. S. N D P
 S. N D P M G R S
 
-
+```
  
-> #### 4.
+#### 4.
 
-
+```v3 
 S R G M P D N S.
 S. , , , S. , , ,
 D N S. R. G. M. G. R.
@@ -54,11 +54,11 @@ S. R. S. N D P M P
 D N S. R. S. N D P
 S. N D P M G R S
 
-
+```
  
-> #### 5.
+#### 5.
 
-
+```v3 
 S R G M P D N S.
 S. , , , S. , , ,
 D N S. R. G. M. P. M.
@@ -73,12 +73,12 @@ S. R. S. N D P M P
 D N S. R. S. N D P
 S. N D P M G R S
 
+```
 
 
+#### 6.
 
-> #### 6.
-
-
+```v3 
 S R G M P D N S.
 S. , , , S. , , ,
 D N S. R. G. M. P. D.
@@ -94,12 +94,12 @@ S. R. S. N D P M P
 D N S. R. S. N D P
 S. N D P M G R S
 
+```
 
 
+#### 7.
 
-> #### 7.
-
-
+```v3 
 S R G M P D N S.
 S. , , , S. , , ,
 D N S. R. G. M. P. D.
@@ -117,12 +117,12 @@ S. R. S. N D P M P
 D N S. R. S. N D P
 S. N D P M G R S
 
+```
 
 
+#### 8.
 
-> #### 8.
-
-
+```v3 
 S R G M P D N S.
 S. , , , S. , , ,
 D N S. R. G. M. P. D.
@@ -141,4 +141,4 @@ D N S. R. S. S. R. S.
 S. R. S. N D P M P
 D N S. R. S. N D P
 S. N D P M G R S
-
+```

@@ -1,13 +1,7 @@
+\cycle( "|,,,|,,|,,|")
 
-```v3h
-\set(cycle = "|,,,|,,|,,|")
-```
-
-## Kamala Jadala
-
----
-
-```v3
+> ## Kamala Jadala
+> ---
 
 \line
 
@@ -46,5 +40,3 @@ Su ra pu ro , ttha ma
 Ka ru na Sha ra dey ,
 Ka ma , la , , ,
 Ka , n tha , , ,
-
-```
