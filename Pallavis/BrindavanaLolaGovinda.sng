@@ -1,0 +1,77 @@
+
+\cycle("2|4")
+\aksharasPerBeat(2)
+
+r#"
+**Ragam**: Kalyani
+
+**Talam**: Chaturasra Jaathi Rupakam
+
+**Gathi**: Chaturasra 
+
+**Maargam**: Athi Chitra Thama
+
+**Source**: Pallavi Gaana Sudha
+
+**Author**: Sri Paada Pinakapaani
+"#
+
+>#### Pallavi
+
+Sw: , ,
+Sh: , ,
+
+Sw: 
+g r s ,  ; s , s .n     r , ; r , g ; m ; p , ; ; ; p , p m g , ; g r g , r , s ,  , , 
+
+Sh: 
+Brin , da , ; va , na ,  lo , ; la,  Go ; vin ; da , ; ; ; A , ra , vin , ;  da , na , ya , na ,  , , 
+
+>#### First Speed
+
+\aksharasPerBeat(1)
+
+Sw: ,
+Sh: ,
+
+Sw:
+g r s ,  ; s , s .n     r , ; r , g ; m ; p , ; ; ; p , p m g , ; g r g , r , s ,  , , 
+
+Sh:
+Brin , da , ; va , na ,  lo , ; la,  Go ; vin ; da , ; ; ; A , ra , vin , ;  da , na , ya , na ,  , , 
+
+>#### Thisram
+
+\aksharasPerBeat(3)
+
+Sw: , , ,
+Sh: , , ,
+
+Sw:
+g r s ,  ; s , s .n     r , ; r , g ; m ; p , ; ; ; p , p m g , ; g r g , r , s ,  , , 
+g r s ,  ; s , s .n     r , ; r , g ; m ; p , ; ; ; p , p m g , ; g r g , r , s ,  , , 
+g r s ,  ; s , s .n     r , ; r , g ; m ; p , ; ; ; p , p m g , ; g r g , r , s ,  , , 
+
+Sh:
+Brin , da , ; va , na ,  lo , ; la,  Go ; vin ; da , ; ; ; A , ra , vin , ;  da , na , ya , na ,  , , 
+Brin , da , ; va , na ,  lo , ; la,  Go ; vin ; da , ; ; ; A , ra , vin , ;  da , na , ya , na ,  , , 
+Brin , da , ; va , na ,  lo , ; la,  Go ; vin ; da , ; ; ; A , ra , vin , ;  da , na , ya , na ,  , , 
+
+>#### Second Speed
+
+\aksharasPerBeat(4)
+
+Sw: , , , ,
+Sh: , , , ,
+
+Sw:
+g r s ,  ; s , s .n     r , ; r , g ; m ; p , ; ; ; p , p m g , ; g r g , r , s ,  , , 
+g r s ,  ; s , s .n     r , ; r , g ; m ; p , ; ; ; p , p m g , ; g r g , r , s ,  , , 
+g r s ,  ; s , s .n     r , ; r , g ; m ; p , ; ; ; p , p m g , ; g r g , r , s ,  , , 
+g r s ,  ; s , s .n     r , ; r , g ; m ; p , ; ; ; p , p m g , ; g r g , r , s ,  , , 
+
+Sh:
+Brin , da , ; va , na ,  lo , ; la,  Go ; vin ; da , ; ; ; A , ra , vin , ;  da , na , ya , na ,  , , 
+Brin , da , ; va , na ,  lo , ; la,  Go ; vin ; da , ; ; ; A , ra , vin , ;  da , na , ya , na ,  , , 
+Brin , da , ; va , na ,  lo , ; la,  Go ; vin ; da , ; ; ; A , ra , vin , ;  da , na , ya , na ,  , , 
+Brin , da , ; va , na ,  lo , ; la,  Go ; vin ; da , ; ; ; A , ra , vin , ;  da , na , ya , na ,  , , 

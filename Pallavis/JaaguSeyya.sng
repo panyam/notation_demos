@@ -1,12 +1,19 @@
 
-\set(cycle = "2|4")
-\set(aksharasPerBeat = 2)
+\cycle("2|4")
+\aksharasPerBeat(2)
 
 r#"
 **Ragam**: Thodi
+
 **Talam**: Chaturasra Jaathi Rupakam
+
 **Gathi**: Chaturasra 
+
 **Maargam**: Athi Chitra Thama
+
+**Source**: Pallavi Gaana Sudha
+
+**Author**: Sri Paada Pinakapaani
 "#
 
 >#### Pallavi
@@ -16,35 +23,46 @@ Sh: , , Ja , gu , sey  , , , yya , , , mey , ra , gA , , , , du rA , , , , , , ,
 
 >#### First Speed
 
-Sw: 
-, , p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
-Sh: , , Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
+\aksharasPerBeat(1)
 
-Sw:  p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
-Sh: Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
+Sw: ,
+Sh: ,
+
+Sw: p , d , n , , , s. , , , s. n r. s. s. n d , n , s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
+Sh: Ja , gu , sey  , , , yya , , , mey , ra , gA , , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
 
 >#### Thisram
 
-\set(aksharasPerBeat = 3)
+\aksharasPerBeat(3)
 
-Sw:  , , p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
-Sh: , , Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
+Sw: , , ,
+Sh: , , ,
 
-Sw:  p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
-Sh: Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
+Sw: p , d , n , , , s. , , , s. n r. s. s. n d , n , s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
+Sh: Ja , gu , sey  , , , yya , , , mey , ra , gA , , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
 
-Sw:  p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
-Sh: Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
+Sw: p , d , n , , , s. , , , s. n r. s. s. n d , n , s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
+Sh: Ja , gu , sey  , , , yya , , , mey , ra , gA , , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
+
+Sw: p , d , n , , , s. , , , s. n r. s. s. n d , n , s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
+Sh: Ja , gu , sey  , , , yya , , , mey , ra , gA , , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
 
 
 >#### Second Speed
 
-\set(aksharasPerBeat = 4)
+\aksharasPerBeat(4)
 
-Sw:  , , p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
-Sh: , , Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
+Sw: , , , ,
+Sh: , , , ,
 
-Sw:  p , d , n , , s. , , , s. n r. s. s. n d n s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
-Sh: Ja , gu , sey  , , yya , , , mey , ra , gA , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
+Sw: p , d , n , , , s. , , , s. n r. s. s. n d , n , s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
+Sh: Ja , gu , sey  , , , yya , , , mey , ra , gA , , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
 
+Sw: p , d , n , , , s. , , , s. n r. s. s. n d , n , s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
+Sh: Ja , gu , sey  , , , yya , , , mey , ra , gA , , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
 
+Sw: p , d , n , , , s. , , , s. n r. s. s. n d , n , s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
+Sh: Ja , gu , sey  , , , yya , , , mey , ra , gA , , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 
+
+Sw: p , d , n , , , s. , , , s. n r. s. s. n d , n , s. , , , , , , , , , s. , p d n s. r. s. n s. n d n d p m 
+Sh: Ja , gu , sey  , , , yya , , , mey , ra , gA , , , , du rA , , , , , , , , , Shri , kri , , , , , shNai , , , yya , , , 

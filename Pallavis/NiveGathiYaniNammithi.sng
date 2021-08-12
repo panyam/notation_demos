@@ -1,0 +1,79 @@
+
+r#"
+**Ragam**: Savari
+
+**Talam**: Thisra Jaathi Viloma Rupakam
+
+**Gathi**: Chaturasra 
+
+**Maargam**: Athi Chitra Thama
+
+**Source**: Pallavi Gaana Sudha
+
+**Author**: Sri Paada Pinakapaani
+"#
+
+\cycle("5|2")
+\aksharasPerBeat(4)
+
+>#### Pallavi
+
+Sw: , ,
+Sh: , ,
+
+Sw: 
+p m g r     s ,     d p m    g r s , 2 [ g r s .n .d ; .n ; ] s ; r .n s , r g m 
+
+Sh: 
+Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , pa , hi
+
+>#### First Speed
+
+\aksharasPerBeat(2)
+
+Sw: , ,
+Sh: , ,
+
+Sw:
+p m g r     s ,     d p m    g r s , 2 [ g r s .n .d ; .n ; ] s ; r .n s , r g m 
+p m g r     s ,     d p m    g r s , 2 [ g r s .n .d ; .n ; ] s ; r .n s , r g m 
+
+Sh:
+Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , pa , hi
+Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , pa , hi
+
+>#### Thisram
+
+\aksharasPerBeat(3)
+
+Sw: , , ,
+Sh: , , ,
+
+Sw:
+p m g r     s ,     d p m    g r s , 2 [ g r s .n .d ; .n ; ] s ; r .n s , r g m 
+p m g r     s ,     d p m    g r s , 2 [ g r s .n .d ; .n ; ] s ; r .n s , r g m 
+p m g r     s ,     d p m    g r s , 2 [ g r s .n .d ; .n ; ] s ; r .n s , r g m 
+
+Sh:
+Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , pa , hi
+Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , pa , hi
+Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , pa , hi
+
+>#### Second Speed
+
+\aksharasPerBeat(4)
+
+Sw: , , , ,
+Sh: , , , ,
+
+Sw:
+p m g r     s ,     d p m    g r s , 2 [ g r s .n .d ; .n ; ] s ; r .n s , r g m 
+p m g r     s ,     d p m    g r s , 2 [ g r s .n .d ; .n ; ] s ; r .n s , r g m 
+p m g r     s ,     d p m    g r s , 2 [ g r s .n .d ; .n ; ] s ; r .n s , r g m 
+p m g r     s ,     d p m    g r s , 2 [ g r s .n .d ; .n ; ] s ; r .n s , r g m 
+
+Sh:
+Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , pa , hi
+Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , pa , hi
+Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , pa , hi
+Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , pa , hi
