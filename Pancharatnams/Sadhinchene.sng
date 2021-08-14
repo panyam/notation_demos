@@ -1,0 +1,166 @@
+
+\aksharasPerBeat(4)
+
+> \set(raga = "Arabhi", tala = "Adi", composer = "Thyagaraja")
+
+> #### Pallavi
+
+Sw: 
+p , , , 2 [ m , p m ] m g r r s s .d , .d , s , , , , , - .d s r s - m g r s r m
+p , , , 2 [ m p d p ] m g r r s s .d , .d , s , , , , , - .d s r s - m g r s r m
+p , , r 2 [ r, p m ] m g r r s s .d , .d , s , , , , , - d d p m - p d 2 [ p d s. , d s. r. , ]
+s.s.,-s. d p m g r r s s .d,.d,      s r 2 [ s r m , ]   r m 2 [ r m p ,  m p d p ] m g r s r m
+d p , r. 2 [ r , p m ]  m g r r s s s .d r s  m g r ,  , , , , , , , , s s .d , s , , , 
+
+Sh:
+Sā , , , , , , , dhin , , , , , cha , ne , , , , , ōh ,  , , ma na sā , , , 
+Sā , , , , , , , dhin , , , , , cha , ne , , , , , ōh ,  , , ma na sā , , , 
+Sā , , , , , , , dhin , , , , , cha , ne , , , , , ōh ,  , , ma na sā , , , 
+Sā , , , , , , , dhin , , , , , cha , ne , , , ōh , , ,  ma , na , sā , , , 
+Sā , , , , , , , dhin , , , , , cha , ne , , , , , , ,, , , , , , , , , , , , 
+
+
+> #### Anupallavi
+
+Sw: 
+d d p , 2[ m, p m] m g r , r , 2[ s , r s] s , m g r , d d p m p , , , , , , , 
+d d p , 2[ m, p m] m g r , r , 2[ s , r s] s , m g r , d d p m m p d , s. , s. , 
+d d p , 2[ m, p m] m g r , r , 2[ s , r s] s , m g r , d d p , m p d , s. , r. , 
+
+Sh:
+Bō , , , dhin , , , chi , na , san , , , mār , , , ga , va , cha , na , mu , la , 
+Bō , , , dhin , , , chi , na , san , , , mār , , , ga , va , cha , na , mu , la , 
+Bō , , , dhin , , , chi , na , san , , , mār , , , ga , va , cha , na , mu , la , 
+
+Sw:
+r. r. m. g. r. , - 2 [s.,r.s.] s.,s.d   s. d. p , p p m g r s r , m p d , m p d s.
+r. r. m. g. r. , - p. m. g. r. s. d     s. d. p , 2[ m p d p] m g r s r , m p d , m p d r.
+
+Sh:
+Bon , , , ku , gē , , , si , tha , , ,  ba , , ,    tti , na ,  pa , , , ttu , , ,
+Bon , , , ku , gē , , , si , tha , , ,  ba , , ,    tti , na ,  pa , , , ttu , , ,
+
+Sw:
+s.s.,-s. d p m g r r s s      s .d r s m g r , s s d , s , , , , , , , 
+
+Sh:
+Sā , , , , , , , dhin , , , , , cha , ne , , , , , , ,, , , , , , , , 
+
+> #### Charanams
+
+> ##### Charanam 1
+
+Sw: 
+p , m , p , , , p , p , m , 2 [ p , d p ] m , p , , , p , p p m g r s r m
+p , d s. p d , p p , p , m , 2 [ p , d p ] m , p , , , d p m , , g r s r m
+p d 2[ r.s.s.,] p d , p p , p , p d 2[p d s., d s. r.,] s. s. d d p , 2[ m p d p] m g r s r m
+
+Sh:
+Sa , ma , yā , , , ni , ki , tha , gu , , , mā , , , tā , lā , , , de , ne , 
+Sa , ma , yā , , , ni , ki , tha , gu , mā , , , , , tā , lā , , , de , ne , 
+Sa , ma , yā , , , ni , ki , tha , gu , , , mā , , , tā , lā , , , de , ne , 
+
+> ##### Charanam 2
+
+Sw: 
+p , , ,  , , - p , m g r r m g r r s s , s .d.d.p, , , - .d s , s r m
+
+Sh:
+Dē , , , , , va - , ki , , , Va , su , dē , , , vu la ne , , , , gin , chi na tu
+
+> ##### Charanam 3
+
+Sw: 
+p , p , m g r , r , m g r r s s .d,.d, , - s s , , - r r , , - s r m
+
+Sh:
+Ran , gē , su du sath, Gan , gā , ja na ku du San , gee , , tha sām , , pra dā , , ya ku du
+
+> ##### Charanam 4
+
+Sw: 
+d , d , p d p p , - d p m m , p m g r r , r , m m p , p , s , r m
+
+Sh:
+Gō , pee, ja na ma nō , ra tha mo san ga lē , , ka nē , ge , li yu jē , sē , vā , , du
+
+> ##### Charanam 5
+
+Sw: 
+s. n d p m g r r m g r r s r s s s .d r s r , r r r r p m p d p m
+
+Sh:
+Sā , rā , chā , ru du sa na ka sa nan , da na san , mu ni gēy , yu du sa ka lā , dhā , ru du
+
+> ##### Charanam 6
+
+Sw: 
+d p m p d s. , - d d p p , m g r - r , r - s , s , - d d p , m g r r s , 
+s , - s d , p - m p d s. , s. d r. , r. s. s. - d , s. p , d m , p m g r r m
+
+Sh:
+Va ni tha la Sa dā , so , kka jē ,  yu chu num ro , kka je , se , Pa ra mā , thmu da di yu gā , 
+ka , ya so , da tha na yu dan , chu mu dam , bu na nu mu ,  ddu pe , tta nav , vu chu , ndu ha ri
+
+> ##### Charanam 7
+
+Sw:
+r m p d , p - m p d d p - m p d p , p , m g r , - d , d , p - m g r r , 
+d d p , s. s. d , r. s. , s. m.g.r., r.s.,s. d d p - p , p m g r s r m
+
+Sh:
+Pa ra ma bha , ktha vath ,  sa lu du su gu na pā ,  rā , vā , run , dA ,  jan , ma ma   na gu dee , 
+ka li bā , dha lu deer , chu vā , da nu chu nē , hru dam , bu ja mu na jū , chu chun ,  , da , ga
+
+> ##### Charanam 8
+
+Sw: 
+s p , - m   , p m g r ,  - m g r r , r s r s - s , s- p , p m g r d d p , 
+.d.d.p, .d s , s .d r , r s r m g , r - p , m g r - d p , - s. d , - r.r.s.
+m.g.r., s.r.s.-s. ,s.- d d. p p , p m g r r , r s , , , - p , , d p m
+
+Sh:
+Ha rē , Rā , ma chan , drā , Ra ghu ku lē , sa mru du su bha , sha sē , sha sa ya na Pa ra nā , 
+ree, sō , da rā , ja vi rā , ja thu ra ga rā , ja Rā , - ja nu tha ni rā , ma yā , Pa gha na
+Sa ra see , ru ha da lā , ksha ya nu Chu vē , du kon , na nan , nu thā , , , brō , , va ka nu
+> ##### Charanam 9
+
+Sw: 
+p , d d p - p , p m g r - r , r - p m p , - r s r , s .d s , , - s s .d r , 
+r r - s r m , g r m p d p , - p s.s. d , - r.r. s. s. , m. g.r.r., s.r.s.s.
+, - d d p p , - m g r - r , r s , s .d s , .d - r , s - m g r - p ,  p m g r m
+
+Sh:
+Sre , ven , ka tē , sa su , pra kā , sa sar , vō , nna tha sa , jja na mA , , na sa ni kē , 
+tha na ka na kAm , ba ra dha ra la san , ma ku ta kun , da la vi rA , ji tha ha rey , ya nu chu nē
+, po ga da ga , thia , ga rA , ja gē , yu du mA , na vē , ndru dai , na Rā , ma Chan , dru du
+
+> ##### Charanam 10
+
+Sw: 
+d d p , 2[ m,p m] m g r , r , s r s s .d, , , , s, r , r , r , , , 
+, , r m , p d ,  d s. d p  m p 2 [m p d , ] d p - 2[ p , d p ] m g r , r , r , 2[ s, r s] s , 
+, , s .d .d , , , r s r , r p m , m g r , r , , g r s s , , , , , 
+d d p p m g r , p p m g r , - m g r , - 2[ s,r s] s , s , r , r , r , , , ,
+s s .d , s .d r s r , r , m g r r s , - m g r s r m p , p m p , , , 
+d d p p m g - r m p , p , r m p ,  m p d , m p d s. s. d r.s.r. , , , 
+r.r.m.g. r., - 2[ s.,r.s.] s.,s., s. d p m p , - p p m g r , r m p , m p d r.
+
+
+Sh:
+Sath , , , bhak , , , thu , la , na , da , tha , li , , , tla , ne , nē ,  , , , , 
+, , A ma    , ri ka , gā , , , nā , , , , , Pū , , , ja , ko , ne , nē , , , 
+, , a lu ga , va , , , , , dda , ne , nē , , , , , , , , , , , , , , , 
+Vi , mu , ku , la , thō , , , nu , chē , ra , Bō , , , ku , ma , ne , nē , , , 
+ve , tha , gal , , , gi , na , thā , , , llu , kom , , , , , ma , ne , nē , , , 
+Da , ma , sa , mā , , , di , su , ka , dA , , , , , ku , da , gu , Sree , , , 
+ThiA , , , ga , rA , , , ja , nu , thu , du , Chen , , , tha , rA , , , ka , nē ,
+
+> ---
+
+Sw:
+s.s.,-s. d p m g r r s s      s .d r s m g r , s s d , s , , , , , , , 
+
+Sh:
+Sā , , , , , , , dhin , , , , , cha , ne , , , , , , ,, , , , , , , , 
+
