@@ -1,0 +1,132 @@
+ r"
+**Composer**: Pacchimirium Sree Ādiyappiyer
+
+**Ragam**: Bhairavi
+
+**Talam**: Khanda Jāthi Ata
+"
+\aksharasPerBeat(4)
+\cycle("5|5|4")
+\breaks(5,5,4)
+> ---
+> #### Pallavi
+
+
+Sw:
+s , , r .n , .d , .n , s ,  r, , g s, r , 
+g r g g r , , , g g r g m p d - m p g r s
+.n s m g r s - .n s r g s r .n .n .d .n
+s g r .n s .n .d .p  .p .d .p .d .n .n .d .p .d .n s r
+.p .d .n s r g m p m g r g m n d p m g r - .n
+s r g m g r - g g r , , , s. n d p
+
+Sh:
+A , ; ; ; Vi , ri , bO , , , , , , , 
+ni , , , , , , , ni , , , , , , , , , , , 
+nnē , , , , , kō , , , , , , , , , 
+ri , , , , , , , ma , , , ru , , , lu , , , 
+ko , , , , , , , nna , , , di , , , , , , , 
+, , , , , , , , rā , , , , , , , 
+
+> #### Anu Pallavi
+
+Sw:
+m g r - s , r .n .d s. n d p m g r g m n d p
+m g r - p m g r s .p .d .n s r g - .n s r g m p 
+n n d - p , d m p g r g m p d n , 
+
+Sh:
+;;;; Sa , ra , su , , , dou , , , 
+, , , , , , , , Da , , , , , kshi , na , , , 
+dwā , , , , , , , ra , , , , , , , 
+
+\line
+
+Sw:  s. , , , n s 2[ n s r.,] 
+Sh: ka , , , , , , , 
+
+\line
+
+Sw: s. , , , 2[s.,,r.] g. r. 
+Sh: ka , , , , , , , 
+
+\line
+
+Sw: 2[ s. n d p m g r s r g m p d n s. r.] s. n d p m g r g m n d p
+m g r - p m g r s .p .d .n s r g - .n s r g m p 
+n n d p , d m p g r g m p d n s.
+
+p d n s. r. g. - m.g.r.g.s.r. n g.r.s. n d n s.
+g.r.r.s.s.n n d d p - m n d p - m g r - g r s
+.n s r g m p d n s. n d - d , m - p , 
+, - m g r  s r .n .d
+
+Sh: ka , , , , , , , sa , ra , su , , , dou , , , 
+;;;; Da , , , , , kshi , na , , , 
+dwa , , , , , , , ra , , , ka , , , 
+Sa , , , , , mi , , , , , Sree , , , , , , , 
+Rā , , , , , , ja gO , , , , , pA , , la , , 
+dē , , , ;; vA , , , ;;
+;;;;
+
+> #### Mukthayi Swaram
+
+Sw:
+;;;;  g g r s r s .n .n .d .n s r 
+.m .m .p .p .d .d .n .n .p .p .p - .d .d .d - .n .n .n - s s r
+.p .d .n s r g m p d p - m d p , - n n 
+d d - d p p m - n d n - p d n m p d n s.r. n d
+m.g.r.s.r.n s.r. r g , m p d - m p , - d n s.
+n r. , s. n d - s. , , n d p p , , m
+g r - s , , - r .n .d
+
+> #### Charanam
+
+Sw:
+;;;; m , m , d p d m p - g m , 
+p , , , p , , , m p n n d p m g m n d p 
+m g r g m p d - m p m - d , p , - m p
+
+s. n d p m g r g m , n , 2[d , n d p , d p] m p - g m
+p , , , p , , , m p n n d p m g m n d p
+m g r g m p d - m p m - d , p , m p
+
+Sh:
+;;;; Chi , ru , nav , , , , , , , 
+vu , , , , , , , mO , , , ;;;;
+;;;;;mu , na , , , 
+;;;; Chi , ru , nav , , , , , , , 
+vu , , , , , , , mO , , , ;;;;
+;;;;;mu , na , , , 
+Sw:
+
+> #### Chittai Swaram 1
+
+g , , - r , s - .n , , .d , .p .m , , - .p .d , .n s
+.n r , - .n s r g m g m , - n n d d - n n d d m m p m - m , g r g n n d d , m - m , 
+g r s - .n s , r g
+
+> #### Chittai Swaram 2
+
+n n d - d , n d d m , , - n d p m , , - d p m 
+g r , - g , m p d m p , d p d n d n s. r. s.
+n g.r.- n , d p d m p , m g r s r .n .d , - .n s g r g
+
+> #### Chittai Swaram 3
+
+s , r g s r g , r , , , .n , s r .n s r , 
+s , , - r .n , .n .d g , , r , s - .n , , .d , .n
+.p , , - .d , .n  s r .p .d .n s r , , , 
+
+.d .p g r , r - .n s r s , s m g , r p m , g
+r g , - m p d p m n n d - d , n d d p - p , m
+g r , - g , m p d m p g m p , , , 
+
+.n s .n - g r m g - p m d p - n d n p d m p - g r
+g m p - m p d n s. n s. n g. r.g. - n s. n r. s. r.
+n r.s.n d p d - m p d n n s. , - n n
+
+s.s.r.r.g.g.-m.g.g.r.-m.g.r.s.-n g.r.s.-n r.
+s. n d p d n s.r. m m p p d d n n s.g.r.-n
+, d - r. s. n , - d n d - d n d d m - m , 
+g r s - .n s , r g
