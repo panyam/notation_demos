@@ -1,0 +1,115 @@
+ r"
+**Composer**: Sloka on Sree Raghavēndra
+
+**Tune By**: A.S. Panchapakesa Iyer
+
+**Ragam**: Gambeera Nāttai (or Suddha Nāttai)
+
+**Talam**: Khanda Jāthi Ata
+"
+\aksharasPerBeat(4)
+\cycle("5|5|4")
+\breaks(5,5,4)
+> ---
+> #### Pallavi
+
+
+Sw:
+;;;; p , m , p , , , g m p m 
+g s - .n .p .n s g s , - m g s , - p m g s , -g m 
+p n - s.g.s. , , - p s. n p , , - n p m
+g , , - m g s g m p , n - m p m g s g m p - m g s .n .p .n s g m p n p , , - m g m p n s. , 
+p n s. g. s. - s. , s. n p - n p m g , - m
+
+Sh:
+;;;; Ran , , , gō , , , tthun , , , ga , tha , ran , , ga , man , , , ga , ,  la , ka , 
+ra , Sree , , , , Thun , , ga , , ba , , 
+
+dra , , tha , ta , , pra , , thya , , , , ksta , , dvi , ja , , pun , , , ga , vA , , la , , ya , , , 
+la , san , , Man , thrA , , la , , yA , kyē
+
+> #### Anu Pallavi
+
+Sw:
+g s - g m p n p , s. n p - s. n s. , - p n s. g. s.
+m.g.s. n p - g. n s. p n m p m g s - .n .p .n s g
+m p n - s g m p n s. - g m p n s. , - g.
+
+s. n p m p n s. g. s. n s. g. m. , m.g.s.g., - g.
+s. n s. - p s. n p m n p m g , - p m g s , - .n .p
+.n s , - g s m g - p m n p - s. n g.s. , 
+,- p s. n p m g m
+
+Sh:
+, , pu , rē , , , Nav , , yē , , , , , , , , 
+ndrō , , , , pa , , la , nee , , , la bahv , ya , ka
+ra , , sa , , , , thVrin, , da , , , va
+nān , tha , rga , tha , Sree , ma th Sath , gu , , ru , Rā 
+, , , gha , , vēn , dra , , ya , thi , , rāt , kur , 
+vath , , dru , , , vam , , , man , , , , 
+, ga , , lam , , , 
+
+> #### Mukthayi Swaram
+
+Sw:
+;;;; p , p m g m , - m g s g , 
+p m g s .n .p .n s g s , - m g s - p , n m p - g
+m p n s. g. s. p s. , - m p , n p s. , 
+
+n p m - g m p n s. m. , g.s.n - g.g.s. n p - s. , 
+n p m - n n p m g p p m g s , - .p .n s g m p
+, n s.g.s.,,-s. n p m - n p m g - p 
+m g s - .p .n s g m
+
+> #### Charanam
+
+Sw:
+;;;; s. , , , , , - s. n p n s. - s. 
+n p m g p m g s .n .p - .n s g s , - m g m p n
+s.n s.g., -m.g.s. n p - s. n p m g ,
+p m g - m p n s.g.
+
+s. , , , , , - s. n p n s. - s. 
+n p m g p m g s .n .p - .n s g s , - m g m p n
+s.n s.g., -m.g.s. n p - s. n p m p n
+
+Sh:
+;;;; Sree , , , , , Rā , , , , gha , , , , vē , , , ndra , gu , , ru , Sā , , rva ,
+bhou , , , , ma , , , , ra , , , , , 
+ksha , , mA , , , m
+
+Sree , , , , , Rā , , , , gha , , , , vē , , , ndra , gu , , ru , Sā , , rva ,
+bhou , , , , ma  , , ra , ksha , mA , , m
+
+Sw:
+
+> #### Chittai Swaram 1
+
+s. , , , , , - n , , , , , p , s. , n , p , 
+m , , , , , - g , , , , , p , m , g , s, 
+.p , , - .n , , s , , - g , m , p , n
+s. , , - n p m p n
+
+> #### Chittai Swaram 2
+
+n , p m p - g m p s g m p , - n p n s.g.,-m. 
+g.s. n p s.s., - p s. n s. - p n m p - g m s g .n
+.p .n s g s , , - m g m p n p , , - n 
+p n s.g.s. - m p n
+
+> #### Chittai Swaram 3
+
+s s g s m , g s p , m g m , , , p n m p
+m g s .n .p .n s g s , , - s m , , - g m p n m
+p , , - p n s. g. n s. , , - s. n n p - p
+m g - m p n s. m. g.
+
+> #### Chittai Swaram 4
+
+p , p n p - m , m p m g s g , , - p m g s .n
+s , .p , .n s g , s , - m g s , - p m g s , - n
+p m g s , - s. n p m g s - g.s.n p m
+g m p n s. , - p p s. n - p s. n - p s. n p n s.g.
+m.g.s.-p.m.g.s.n , - g. n , s. - p , n m , p - g
+m p n s. g. s. , s. , - n p , p , - g s
+,s ,-s g m p n
