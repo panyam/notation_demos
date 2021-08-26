@@ -89,7 +89,7 @@ m g r g m p d - m p m - d , p , - m p
 
 s. n d p m g r g m , n , 2[d , n d p , d p] m p - g m
 p , , , p , , , m p n n d p m g m n d p
-m g r g m p d - m p m - d , p , m p
+m g r g m p d - m p m - d , p , , , 
 
 Sh:
 ;;;; Chi , ru , nav , , , , , , , 
@@ -102,13 +102,15 @@ Sw:
 
 > #### Chittai Swaram 1
 
-g , , - r , s - .n , , .d , .p .m , , - .p .d , .n s
+\line(offset = -2)
+m p g , , - r , s - .n , , .d , .p .m , , - .p .d , .n s
 .n r , - .n s r g m g m , - n n d d - n n d d m m p m - m , g r g n n d d , m - m , 
 g r s - .n s , r g
 
 > #### Chittai Swaram 2
 
-n n d - d , n d d m , , - n d p m , , - d p m 
+\line(offset = -2)
+d , n n d - d , n d d m , , - n d p m , , - d p m 
 g r , - g , m p d m p , d p d n d n s. r. s.
 n g.r.- n , d p d m p , m g r s r .n .d , - .n s g r g
 
