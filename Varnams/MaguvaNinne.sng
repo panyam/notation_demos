@@ -1,0 +1,115 @@
+    r"
+**Composer**: Veenai Kuppaiyer
+
+**Ragam**: Nārāyanagoulai
+
+**Talam**: Khanda Jāthi Ata
+"
+\aksharasPerBeat(4)
+\cycle("5|5|4")
+\breaks(5,5,4)
+> ---
+> #### Pallavi
+
+
+Sw:
+;;;; m , g , r g r g s , , , 
+.n s .n - g r g s r .n s r r s .n - .n s .n - .n .d .p
+.m .p , - .n .n s - .n s r m g - r p m g , 
+r g r s r - .n s r m g r - g r s - r r m m p - r
+m p n , n d  p d m p d p m , - m g r g s , 
+.n .d .p - .n s r - p m m g r - g r s .n r
+
+Sh:
+;;;; Ma , gu , va , ; ; ; 
+ni , ; ; ; nnē , ;; ; ;;
+kO , , ri ;;;, chA ;;
+;;, lA ,, ma , , , , , ru , , , , , 
+, , lu , , , , , ko , , , , , nna , , , , , 
+di , ; ; ; ; ; ; ; 
+
+> #### Anu Pallavi
+
+Sw:
+s , .n .d .p - n s r s. , n d n - n d p d - m p m
+m g r g r s - .n s r m , - m g r - s. n , n d p
+s. n d p , d - p m g r , - g s r m p
+
+m p n n s. , , , n d p - n n s. - n s. r. - n s. r. 
+m. - m. , g. r.s. - n n g.r.g. - s. r. n - s. n d - n d p 
+m g r m p - s.s. , n d p - p , m g r
+s .n .d .p , - .n s r
+
+Sh:
+;;;; So , , ga , su , , , , , lA 
+; ; ; di , ; ; ; pai , ; ; 
+, ; chA ; lA , , , , , da , , , 
+
+;; ya , ; jū , ; ; da , ; ; 
+, rā ; ; ; Sre , ; ; Vē , ; ; 
+nu , Gō , ; ; ; , pā ; ; 
+; ; , lā , , 
+
+> #### Mukthayi Swaram
+
+Sw:
+;;;; m g r - g r s - .n .n g r s r
+.n s .n .n .d .p - .n s r - m m g r m p - n n d - p d
+m p m g r - g r s r r m m p , ;
+
+m , m g r - n , n d p - m p , - n n s. n s.r.m.
+,g.r.s.g.r.s.r.s.r.n d p - m p d m g r s
+r m p n s.r.s., , - n d n p ,, - m 
+g r s , , - .n s r
+
+> #### Charanam
+
+Sw:
+
+;;;; 
+n d n , n d n d p , , , 
+m p m - n d n - p d m p - d p m , - m g r g s ,
+.n .d .p - .n s r - m g r , - p m p , , - p
+
+m g r g s r m p - n d n ,  , , , , p , , , 
+
+Sh:
+;;;;
+Chin , , , na , ; ; ; 
+nā , ; ; ; ; ;  dā , ; ; di , 
+ka , , nee ;;;; thō , ;
+;;;; Chin , ; ; ; thō , , , 
+
+Sw:
+
+> #### Chittai Swaram 1
+
+m , , , , , - g , r , s , .n , .d , .p , .m , 
+.p , , , .n , .n , s , r , , , - m , g , r , 
+g , r , s , - p , m , g , r , - g , 
+s , r , m , p , 
+
+> #### Chittai Swaram 2
+
+.n s r - p m , - m g r - g r s .n .n - g r s r - .n , 
+.n .d .p - .m .p .n s r m g r - p m g r - n d n p d
+m p n s. r. - s. n , n d p - p m , m g 
+r - g r , s r m p 
+
+> #### Chittai Swaram 3
+
+p d m p m g r - g r s - m g r g s r .n s .n .n
+.d .p - .n s r - p m g r m p n d p - m p n n s. n
+g.r.s.r. n - s. n n d p - m p m - m g r
+g r s - .n s r m p
+
+> #### Chittai Swaram 4
+
+m g r - g r s - .n .n s , , - .n s .n - .d .n .d .p .m .m
+.p ,, - .m .p .n s r .n s , - r m g - r m , p n d
+p m , g r g s r .n s r m m , , , 
+
+g r s - p , p - n , n d p - n , d n s. n s.r.m.
+,g.r.s.g.r.s.r.n s. n - n d p - m p m - m g r
+g r s - g.r.s.s., n d p - p , m g r 
+s .n , - s r m m p
