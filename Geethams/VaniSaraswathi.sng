@@ -1,9 +1,7 @@
 
-r"
-**Ragam**: Hamsanandhi
+\meta("Ragam", "Hamsanandhi")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 \aksharasPerBeat(2)
 

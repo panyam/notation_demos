@@ -2,13 +2,11 @@
 \aksharasPerBeat(4)
 
 
-r"
-**Composer**: Karūr Dēvudu Iyer
+\meta("Composer", "Karūr Dēvudu Iyer")
 
-**Ragam**: Sree
+\meta("Ragam", "Sree")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

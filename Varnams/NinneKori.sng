@@ -2,13 +2,11 @@
 \aksharasPerBeat(4)
 
 
-r"
-**Composer**: Tacchūr Singarāchāri
+\meta("Composer", "Tacchūr Singarāchāri")
 
-**Ragam**: Thōdi
+\meta("Ragam", "Thōdi")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

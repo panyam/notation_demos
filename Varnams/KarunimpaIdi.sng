@@ -1,10 +1,8 @@
-r"
-**Composer**: Tiruvotriyūr Thiyāgaiyer
+\meta("Composer", "Tiruvotriyūr Thiyāgaiyer")
 
-**Ragam**: Sahana
+\meta("Ragam", "Sahana")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
     
 \aksharasPerBeat(4)
 

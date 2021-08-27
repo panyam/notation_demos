@@ -1,10 +1,8 @@
-r"
-**Composer**: Calcutta K S Krishnamurthy
+\meta("Composer", "Calcutta K S Krishnamurthy")
 
-**Ragam**: Kadana Kuthuhalam
+\meta("Ragam", "Kadana Kuthuhalam")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 \aksharasPerBeat(4)
 

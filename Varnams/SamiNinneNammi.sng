@@ -2,13 +2,11 @@
 \aksharasPerBeat(4)
 
 
-r"
-**Composer**: Shatkāla Narasaiyya
+\meta("Composer", "Shatkāla Narasaiyya")
 
-**Ragam**: Sree
+\meta("Ragam", "Sree")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

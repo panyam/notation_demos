@@ -2,13 +2,11 @@
 
 \aksharasPerBeat(4)
 
-r"
-**Composer**: Ramnad Sreenivaasa Iyengar
+\meta("Composer", "Ramnad Sreenivaasa Iyengar")
 
-**Ragam**: Mohanam
+\meta("Ragam", "Mohanam")
 
-**Thalam**: Adi
-"
+\meta("Thalam", "Adi")
 
 > ---
 > ### Pallavi

@@ -3,13 +3,11 @@
 \aksharasPerBeat(4)
 
 
-r"
-**Composer**: Patnam Subramaniam Iyer
+\meta("Composer", "Patnam Subramaniam Iyer")
 
-**Ragam**: Aboghi
+\meta("Ragam", "Aboghi")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

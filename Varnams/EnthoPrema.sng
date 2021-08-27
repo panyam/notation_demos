@@ -1,11 +1,8 @@
- r"
-**Composer**: Pallavi Gōpālaiyer
+\meta("Composer", "Pallavi Gōpālaiyer")
+\meta("Ragam", "Surutti")
+\meta("Talam", "Adi")
 
-**Ragam**: Surutti
-
-**Talam**: Adi
-"
- \aksharasPerBeat(4)
+\aksharasPerBeat(4)
 
 > ---
 > #### Pallavi
