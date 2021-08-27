@@ -1,11 +1,13 @@
-\cycle("3|2|2")
-\breaks(14)
-
 \meta("Composer", "Purandara Dasa")
 
 \meta("Ragam", "Malahari")
 
 \meta("Talam", "Triputa")
+
+>---
+
+\cycle("3|2|2")
+\breaks(14)
 
 > ##### 1.
 

@@ -1,12 +1,14 @@
-\aksharasPerBeat(2)
-\cycle("3")
-\breaks(6)
 
 \meta("Composer", "Purandara Dasa")
 
 \meta("Ragam", "Malahari")
 
 \meta("Talam", "Rupakam")
+>---
+
+\aksharasPerBeat(2)
+\cycle("3")
+\breaks(6)
 
 > ##### 1.
 

@@ -1,7 +1,10 @@
 
-\aksharasPerBeat(4)
+\meta("Composer", "Thyagaraja")
+\meta("Ragam", "Goulai")
+\meta("Thalam", "Adi")
+>---
 
-> \set(raga = "Goulai", tala = "Adi", composer = "Thyagaraja")
+\aksharasPerBeat(4)
 
 > #### Pallavi
 

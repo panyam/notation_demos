@@ -1,3 +1,6 @@
+\meta("Ragam", "Mohanam")
+\meta("Thalam", "Adi")
+
 \aksharasPerBeat(2)
 \cycle("|,,,,|,,|,,||")
 
