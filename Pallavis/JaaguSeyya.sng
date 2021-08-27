@@ -2,17 +2,11 @@
 \cycle("2|4")
 \aksharasPerBeat(2)
 
-r#"
 \meta("Ragam", "Thodi")
-
 \meta("Talam", "Chaturasra Jaathi Rupakam")
-
 \meta("Gathi", "Chaturasra ")
-
 \meta("Maargam", "Athi Chitra Thama")
-
 \meta("Source", "Pallavi Gaana Sudha")
-
 \meta("Author", "Sri Paada Pinakapaani")
 
 >#### Pallavi
