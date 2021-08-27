@@ -1,8 +1,5 @@
- r"
 \meta("Composer", "Patnam Subramaniam Iyer")
-
 \meta("Ragam", "Mukhari")
-
 \meta("Talam", "Adi")
     
 \aksharasPerBeat(4)

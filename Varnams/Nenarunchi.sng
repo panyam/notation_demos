@@ -1,9 +1,7 @@
-   r"
 \meta("Composer", "Veenai Kuppaiyer")
-
 \meta("Ragam", "Dhanyasi")
-
 \meta("Talam", "Khanda Jāthi Ata")
+
 \aksharasPerBeat(4)
 \cycle("5|5|4")
 \breaks(5,5,4)

@@ -1,12 +1,11 @@
- r"
 \meta("Composer", "Pacchimirium Sree Ādiyappiyer")
-
 \meta("Ragam", "Bhairavi")
-
 \meta("Talam", "Khanda Jāthi Ata")
+
 \aksharasPerBeat(4)
 \cycle("5|5|4")
 \breaks(5,5,4)
+
 > ---
 > #### Pallavi
 

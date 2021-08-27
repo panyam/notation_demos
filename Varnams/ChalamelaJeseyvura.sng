@@ -1,9 +1,7 @@
-  r"
 \meta("Composer", "Sri Swāthi Thirunāl Maharājā")
-
 \meta("Ragam", "Shankarabharanam")
-
 \meta("Talam", "Khanda Jāthi Ata")
+
 \aksharasPerBeat(4)
 \cycle("5|5|4")
 \breaks(5,5,4)

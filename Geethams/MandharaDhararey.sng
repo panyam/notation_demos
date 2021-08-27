@@ -1,11 +1,7 @@
 
-r"
-Composer: Paidala Gurumurti Shastri
-
-Ragam: Kambhoji
-
-Talam: Adi
-"
+\meta("Composer", "Paidala Gurumurti Shastri")
+\meta("Ragam", "Kambhoji")
+\meta("Talam", "Adi")
 
 \aksharasPerBeat(2)
 
