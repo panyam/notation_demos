@@ -2,13 +2,11 @@
 \aksharasPerBeat(4)
 
 
-r"
-**Composer**: Mānambuchāvadi Venkatasubbaiyer
+\meta("Composer", "Mānambuchāvadi Venkatasubbaiyer")
 
-**Ragam**: Hamsadhwani
+\meta("Ragam", "Hamsadhwani")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

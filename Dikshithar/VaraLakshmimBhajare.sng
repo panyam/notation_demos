@@ -2,13 +2,11 @@
 \aksharasPerBeat(4)
 
 
-r"
-**Composer**: Mudduswāmi Dikshitar
+\meta("Composer", "Mudduswāmi Dikshitar")
 
-**Ragam**: Sowrāshtram
+\meta("Ragam", "Sowrāshtram")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

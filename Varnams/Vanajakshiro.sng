@@ -1,14 +1,12 @@
 
 \aksharasPerBeat(4)
 
-r"
 
-**Composer**: RAmnAd SreenivAsa IyengAr
+\meta("Composer", "RAmnAd SreenivAsa IyengAr")
 
-**Ragam**: Kalyani
+\meta("Ragam", "Kalyani")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

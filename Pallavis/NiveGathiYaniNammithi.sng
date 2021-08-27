@@ -1,17 +1,16 @@
 
 r#"
-**Ragam**: Savari
+\meta("Ragam", "Savari")
 
-**Talam**: Thisra Jaathi Viloma Rupakam
+\meta("Talam", "Thisra Jaathi Viloma Rupakam")
 
-**Gathi**: Chaturasra 
+\meta("Gathi", "Chaturasra ")
 
-**Maargam**: Athi Chitra Thama
+\meta("Maargam", "Athi Chitra Thama")
 
-**Source**: Pallavi Gaana Sudha
+\meta("Source", "Pallavi Gaana Sudha")
 
-**Author**: Sri Paada Pinakapaani
-"#
+\meta("Author", "Sri Paada Pinakapaani")
 
 \cycle("5|2")
 \aksharasPerBeat(4)

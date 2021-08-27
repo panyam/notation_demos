@@ -1,16 +1,14 @@
 
 \aksharasPerBeat(4)
 
-r"
 
-**Composer**: Lalgudi Jayaraman
+\meta("Composer", "Lalgudi Jayaraman")
 
-**Ragam**: Nalinakanthi
+\meta("Ragam", "Nalinakanthi")
 
-**Thalam**: Adi
+\meta("Thalam", "Adi")
 
-**Language**: Telugu
-"
+\meta("Language", "Telugu")
 
 > ---
 > #### Pallavi

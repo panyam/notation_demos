@@ -1,10 +1,9 @@
     r"
-**Composer**: Pallavi Gopālaiyer
+\meta("Composer", "Pallavi Gopālaiyer")
 
-**Ragam**: Thodi
+\meta("Ragam", "Thodi")
 
-**Talam**: Khanda Jāthi Ata
-"
+\meta("Talam", "Khanda Jāthi Ata")
 \aksharasPerBeat(4)
 \cycle("5|5|4")
 \breaks(5,5,4)

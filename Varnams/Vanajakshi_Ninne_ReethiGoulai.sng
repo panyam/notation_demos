@@ -1,10 +1,8 @@
-r"
-**Composer**: Veenai Kuppaiyer
+\meta("Composer", "Veenai Kuppaiyer")
 
-**Ragam**: Reethi Goulai
+\meta("Ragam", "Reethi Goulai")
 
-**Talam**: Khanda Jāthi Ata
-"
+\meta("Talam", "Khanda Jāthi Ata")
 
 \aksharasPerBeat(4)
 \cycle("5|5|4")

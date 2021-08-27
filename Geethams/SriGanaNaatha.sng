@@ -2,13 +2,11 @@
 \cycle("3")
 \breaks(6)
 
-r"
-**Composer**: Purandara Dasa
+\meta("Composer", "Purandara Dasa")
 
-**Ragam**: Malahari
+\meta("Ragam", "Malahari")
 
-**Talam**: Rupakam
-"
+\meta("Talam", "Rupakam")
 
 > ##### 1.
 

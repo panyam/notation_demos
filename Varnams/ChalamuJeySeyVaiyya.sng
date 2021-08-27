@@ -2,13 +2,11 @@
 \aksharasPerBeat(4)
 
 
-r"
-**Composer**: Mūlai Veedu Rangaswāmy Nattuvanār
+\meta("Composer", "Mūlai Veedu Rangaswāmy Nattuvanār")
 
-**Ragam**: Nāttai Kuranji
+\meta("Ragam", "Nāttai Kuranji")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

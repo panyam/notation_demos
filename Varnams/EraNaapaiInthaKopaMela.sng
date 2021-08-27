@@ -1,10 +1,9 @@
  r"
-**Composer**: Patnam Subramaniam Iyer
+\meta("Composer", "Patnam Subramaniam Iyer")
 
-**Ragam**: Mukhari
+\meta("Ragam", "Mukhari")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
     
 \aksharasPerBeat(4)
 

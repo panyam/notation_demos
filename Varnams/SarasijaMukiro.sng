@@ -2,13 +2,11 @@
 \aksharasPerBeat(4)
 
 
-r"
-**Composer**: Pallavi Doraisāmi Iyer
+\meta("Composer", "Pallavi Doraisāmi Iyer")
 
-**Ragam**: Ārabhi
+\meta("Ragam", "Ārabhi")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

@@ -1,17 +1,16 @@
 
 r#"
-**Ragam**: Shanmukhapriya
+\meta("Ragam", "Shanmukhapriya")
 
-**Talam**: Khanda Jaathi Viloma Rupakam
+\meta("Talam", "Khanda Jaathi Viloma Rupakam")
 
-**Gathi**: Chaturasra 
+\meta("Gathi", "Chaturasra ")
 
-**Maargam**: Athi Chitra Thama
+\meta("Maargam", "Athi Chitra Thama")
 
-**Source**: Pallavi Gaana Sudha
+\meta("Source", "Pallavi Gaana Sudha")
 
-**Author**: Sri Paada Pinakapaani
-"#
+\meta("Author", "Sri Paada Pinakapaani")
 
 >#### Pallavi
 

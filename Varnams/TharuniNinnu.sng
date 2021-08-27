@@ -3,14 +3,12 @@
 \aksharasPerBeat(4)
 
 
-r"
 
-**Composer**: Violin Ponnuswamy
+\meta("Composer", "Violin Ponnuswamy")
 
-**Ragam**: Kambojhi
+\meta("Ragam", "Kambojhi")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

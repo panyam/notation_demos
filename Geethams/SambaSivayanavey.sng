@@ -1,11 +1,9 @@
 
-r"
-**Composer**: Sri Chinni Krishna Dasu
+\meta("Composer", "Sri Chinni Krishna Dasu")
 
-**Ragam**: Khamas
+\meta("Ragam", "Khamas")
 
-**Thalam**: Adi
-"
+\meta("Thalam", "Adi")
 
 \aksharasPerBeat(4)
 

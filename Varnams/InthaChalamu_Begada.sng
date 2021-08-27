@@ -1,13 +1,11 @@
 
 \aksharasPerBeat(4)
 
-r"
-**Composer**: Veenai Kuppaiyer
+\meta("Composer", "Veenai Kuppaiyer")
 
-**Ragam**: Begada
+\meta("Ragam", "Begada")
 
-**Talam**: Adi
-"
+\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi
