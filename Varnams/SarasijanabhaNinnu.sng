@@ -1,0 +1,150 @@
+      r"
+**Composer**: Vadivēlu
+
+**Ragam**: Kāmbōji
+
+**Talam**: Khanda Jāthi Ata
+"
+\aksharasPerBeat(4)
+\cycle("5|5|4")
+\breaks(5,5,4)
+> ---
+> #### Pallavi
+
+
+Sw:
+;;;; 
+m , g , s , , .n .p , .d , 
+s , , , s, , , s r g r r g - r r s - .n .d .p
+.m .g .p .d s - .p .d s r g - s r g - m g - g
+r s .n - .p .d s r g 
+
+m m g g r r s s .n - .p .d s 
+, - m g m  p - s r s m m g - s s - d p m g s s - s. 
+n d p - p d r. s. n d - d p m g - g r s
+
+Sh:
+;;;; Sa , ra , si , ; ja , ; 
+nā , ; ; ; bha , ; ; ni ; nnu ; 
+sa ; ; nnu ; thi , jē , , sē ;
+, nu , rā ; ; 
+
+Chā , ; ; ; , lā ; 
+, kru , , , pa , , yum , , chu , , ta , , ki , , 
+thi , , , , , sa , , ma , , , ya , , 
+
+> #### Anu Pallavi
+
+Sw:
+r s .n - .p .d s r g n n d , p m - d p m g m , 
+p , , , p , , , p p d d n n d d p - p m g
+m p m - p d p - d s. d - r. s. n p , d , 
+
+s. , , , 2[ p ,, d s. , , r.] n n d , p m - d p m g m , 
+p , , , p , , , p p d d n n d d p - p m g
+m p m - p d p - d s. d - r. s. n p , d , 
+
+s. , , , s. , , , n d s. s. r. r. g. g. m. m. g. - g.
+r. - r. s. - s. n d p m p d s.r.g.s. , n d - m p d
+p , - m g r s , - r. s. n d - d p m g - g 
+r s .n - .p .d s r g
+
+Sh:
+mu , , rA ; ; Ni , ra , tha , mu , , nee , , 
+pā , ; ; ; da , , , mē , , ga , thi , , 
+ya , , ni , , yu , , , , , nnā , ;
+rā , ; ; ; 
+
+Ni , ra , tha , mu , , nee , , 
+pā , ; ; ; da , , , mē , , ga , thi , , 
+ya , , ni , , yu , , , , , nnā , ;
+rā , ; ; ; 
+
+Ni , ra , tha , mu , , nee , , 
+pā , ; ; ; da , , , mē , , ga , thi , , 
+ya , , ni , , yu , , , , , nnā , ;
+rā , ; ; ; 
+
+> #### Mukthayi Swaram
+
+Sw:
+;;;; g , , - m g g r r s , , - r
+g - s r s .n .d - .p .d s , s - .p .d s r , r - .d s r
+g , g - s r g r , r .d s r s , s - m
+
+g r s .n .p .d s r g m g r s - p m g r s - d p 
+m g - n d p - s. n d r.s.g.r.m.g.r.g.s.r.- d r.
+s. , , - n d - m p d p , , - m g r - s r
+s , .n - .p .d s r g
+
+> #### Charanam
+
+Sw:
+
+;;;; 
+s. , , - r. s. n d - d p m g - g 
+s , , , s , , , .p .d s r g , - s r g m p , 
+m g p d s. , - p d r. - s. , n d - d p m
+g s , - m g m p d  
+
+s. , , - r. s. n d - d p m g - g 
+s , , , s , , , .p .d s r g , - s r g m p , 
+m g p d s. , - p d r. - s. , n d - m p d
+
+
+
+Sh:
+;;;; 
+
+Sa , , , rva , , , bhou , , , 
+ma , , , , , , , sa , , , , , ka , , , , , 
+la , , , , , lō , , ka , , , bhi , , 
+, Rā , ma , , , , 
+
+Sa , , , rva , , , bhou , , , 
+ma , , , , , , , sa , , , , , ka , , , , , 
+la , , , , , lō , ka , , bhi , Rā , ma
+
+Sw:
+
+> #### Chittai Swaram 1
+
+s. , , , , , n , , , d , p , , , , , - d, 
+m , g , r , g , s , , , r , s , .n , - .p , 
+, , - .d , , , - s , , , - r , , , - g , 
+, , - m , p , d , 
+
+> #### Chittai Swaram 2
+
+r , , , , , - r , g r - r g r r , - s .n .d .p .d
+s , , , , , - s , .p .d s r g s , - r g m p s 
+ , - r g m p d s. , n d m , g s , - .p
+ .d , - s r g m p d
+ 
+ 
+> #### Chittai Swaram 3
+
+m , , , , , - p d m , - p d n d m , p s. n d 
+m , - d m , p - g m p , , , , , - n d p m g r
+g s , - r s .n .p , .d s , - r  g m r g
+
+m g m - r g s - p m p - g m g n d n - p d p - s. n 
+d - r.s.g.r.s.n d p d s. r. g.m.g.s., - n d m
+p d s. - g p d s. - s r g m p - .n .d s r
+g m , - p d s. r. g.
+
+
+> #### Chittai Swaram 4
+
+s. , , , r.g.r.s. n d p , m g r s , .n - .p .d
+s , , , s , , , .p , .d .p .d , s .d s , r s
+r , g r g , m g m , p m p , d r.
+s.r.s. n d p m p d s. n d p m g r s r g r
+s r s .n .p .d .p .d s r s r s r g - r g m - g m
+p - m p d s. n r.s. n d p d s. , , , 
+
+s r g m p d - m g p d s. n p d s.r.g.r. - g.m.
+g.r.s.n d p - m g p d s.r.g.m.g.r.s. , , , 
+p s. n d p m g r s , , , .p .d s r
+s r g m g m p d
+

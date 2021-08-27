@@ -1,0 +1,125 @@
+     r"
+**Composer**: Rāmnād Sreenivāsa Iyengār
+
+**Ragam**: Kānadā
+
+**Talam**: Khanda Jāthi Ata
+"
+\aksharasPerBeat(4)
+\cycle("5|5|4")
+\breaks(5,5,4)
+> ---
+> #### Pallavi
+
+
+Sw:
+;;;; 
+r , r p g , g , g m r s
+s .n r s r , , , g m r r s .n - .n r s - .n , s
+.d , , - .n s r g , , - n d d p m - d p 
+m - g , m r s .n s r g m p , d - m d p m g m
+r s r - .n , s - r g m p m - d n s. p , n m p - g
+m d n s. r. s. n r. s. n p - n d p m p
+
+Sh:
+;;;; Ne , ra , nam , , , mi , , , 
+thi , , , , , , , nai , , , , , ya , ;;
+ni ; thya ;; , mu ;; gā ,
+
+, ni ; nnu , ; Nee ; ra ; ja ; na ; 
+ya ; na ; ni ; ; ru ; pa ; ma ; 
+; ; sun , ; da ; rā ; ; 
+
+> #### Anu Pallavi
+
+Sw:
+g , - g m r s .n s s , d p d , , , d , , , 
+p d n s. n n d p m p d n d d p m d p d - m 
+d p - m g m - d , d p d d n s. n p m 
+
+g m d n s. , , ,  s. n s. , r. g. - s. , r. - n s. r.
+r.s.r.p. g. , g. , g. m.r.s. n s. n - r.s.r.- n r.
+s. n p m  g m d n s. r. n s. , - n p m
+n d p m g m r s
+
+Sh:
+;;;; Ma , ru , ni , ; ; ; 
+kan , ; ; ; na ; ; ; , Sre , ; 
+; ni ; vā ; sa ; ; dē ; 
+
+va , ; ; ; mā , ; n , , , mu , , , 
+thō , , , nan , , , nu , , , ka , , pā ; du , 
+; ta , i , di , sa , , ma , , ya , 
+mu , , , rā , , , 
+
+> #### Mukthayi Swaram
+
+Sw:
+;;;; r g m d , - n - p d m p m - g
+, m r - .n s r , - s r g m - d p m p - g m r s .n
+.p .n s r  g m p m d n s. - p , n m p 
+g m d n s. , , ,    s. n s. r. , - r.s.r.p.g.,m.
+r.s.n s., - r.s.n p m - g m m d - d n n s. - s. r. 
+g. , , - r. s. n p , , - r. s. r. n s. - p n 
+m p - g m r s .n s
+
+> #### Charanam
+
+Sw:
+
+;;;; 
+s. , s. , s. n r. s. p , , , 
+m p d n d d p m d p m d p - m p g , m r s 
+r - .n , s r g m - d n s.r. n s. , , - r.
+
+s. n p m g m d n   
+
+s. , s. , s. n r. s. p , , , 
+m p d n d d p m d p m d p - m p g , m r s 
+r - .n , s r g m - d n s.r. n s. , , ,
+
+Sh:
+;;;; 
+
+Sa , ra , su , , , da , , , 
+ni , , , nnē , , , sa , , , , , tha tha , , mu ,
+, ko , , ni , , yā , , , du thsu , , , 
+,, nnā , nu , rā , 
+
+Sa , ra , su , , , da , , , 
+ni , , , nnē , , , sa , , , , , tha tha , , mu ,
+, ko , , ni , , yā , , , du thsu , , , 
+
+Sw:
+
+> #### Chittai Swaram 1
+
+r. , , , , , - s. , , , - n , r. , s. , n , s. , 
+p , ; ; - m , p , n , d , p , m , p , 
+g , , , , , - m , r , s , , , - r , 
+g , m , d , n , 
+
+> #### Chittai Swaram 2
+
+d , n - p d p - m p m - g m n d , n - p m g m r
+s r g m d , n - s. p d p - n d p g m d , n - s. 
+r. n s. n p m g m d , n - s.r.g.m.r.
+s. n p m n d , n
+
+> #### Chittai Swaram 3
+
+s.r.s. - n s. - s. n p n d p - d p - p m g m r - g m
+p - g m r s r s .n s .n .p .m .p - .n s r g m r s
+r - g m d n s. - r. g. m. r. s. - s. n p m - g
+m r s - r g m d n
+
+> #### Chittai Swaram 4
+
+s. , , - n r.s. n p , - m n d p g , m r s r .n
+s , , , , , - .n s r g m r s - r g m d n - s. r.
+s. n , s. p n p m , p - m g m d , n 
+
+s. p , - n d n p d m p m - g m - r g m d n s. r.
+g.g. , m. r. s. - n r. , s. n p g g , m r s - r g
+m - d n s. r. - g. m. r. s. n p - r. s. n p m 
+g m r - g g m d n
