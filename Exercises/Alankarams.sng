@@ -1,7 +1,9 @@
- 
+
+\meta("Source", "Hamsa Raghuvir")
+
 > #### 1. Chatusra Jathi Eka Thalam
 
-\cycle( "|,,,,|")
+\cycle("4")
 \aksharasPerBeat(1)
 
 S R G M
@@ -15,9 +17,28 @@ D P M G
 P M G R
 M G R S
 
-> #### 2. Chatusra Jathi Rupaka Thalam
+> #### 2. Rupaka Thalam
 
-\cycle( "|,,|,,,,|")
+> ##### Thisra Jathi 
+
+\cycle( "2|3")
+
+S R S R G 
+R G R G M 
+G M G M P 
+M P M P D 
+P D P D N
+D N D N S.
+S. N S. N D
+N D N D P
+D P D P M
+P M P M G
+M G M G R
+G R G R S
+
+> ##### Chatusra Jathi 
+
+\cycle( "2|4")
 
 S R S R G M
 R G R G M P
@@ -30,6 +51,36 @@ D P D P M G
 P M P M G R
 M G M G R S
 
+> ##### Khanda Jathi 
+
+\cycle( "2|5")
+
+S R S R G M P 
+R G R G M P D
+G M G M P D N
+M P M P D N S.
+S. N S. N D P M
+N D N D P M G
+D P D P M G R
+P M P M G R S
+
+> ##### Mishra Jathi 
+
+\cycle( "2|7")
+
+S R S R G M P D N
+R G R G M P D N S.
+S. N S. N D P M G R
+N D N D P M G R S
+
+> ##### Sankeerna Jathi 
+
+\cycle( "2|9")
+
+S R S , R , G M P D N
+R G R , G , M P D N S.
+S. N S. , N , D P M G R
+N D N , D , P M G R S
 
 > #### 3. Thisra Jathi Thriputa Thalam
 
@@ -47,9 +98,25 @@ P M G P M G R
 M G R M G R S
 
 
-> #### 4. Chatusra Jathi Dhruva Thalam
+> #### 4. Dhruva Thalam
 
-\cycle( "|,,,,|,,|,,,,|,,,,|")
+>##### Thisra Jathi
+
+\cycle("3|2|3|3")
+
+S R G R S R G M G M P
+R G M G R G M P M P D
+G M P M G M P D P D N
+M P D M P P D N D N S.
+
+S. N D N S. N D P D P M
+N D P D N D P M P M G
+D P M P D P M G M G R
+P M G M P M G R G R S
+
+>##### Chatusra Jathi
+
+\cycle("4|2|4|4")
 
 S R G M G R S R G R S R G M
 R G M P M G R G M G R G M P
@@ -62,7 +129,63 @@ D P M G M P D P M P D P M G
 P M G R G M P M G M P M G R
 M G R S R G M G R G M G R S
 
-> #### 5. Chatusra Jathi Matya Thalam
+
+>##### Khanda Jathi
+
+\cycle("5|2|5|5")
+
+S R G M P M G S R G M G S R G M P
+R G M P D P M   R G M P M R G M P D
+G M P D N D P   G M P D M G M P D N
+M P D N S. N D M P D N D M P D N S.
+S. N D P M P D S. N D P D S. N D P M
+N D P M G M P N D P M P N D P M G
+D P M G R G M D P M G M D P M G R
+P M G R S R G P M G R G P M G R S
+
+
+>##### Mishra Jathi
+
+\cycle("7|2|7|7")
+
+S R G M P D P M G S R G M P M G S R G M P D N
+R G M P D N D P M R G M P D P M R G M P D N S.
+
+S. N D P M G M P D S. N D P M P D S. N D P M G R
+N D P M G R G M P N D P M G M P N D P M G R S
+
+
+>##### Sankeerna Jathi
+
+\cycle("9|2|9|9")
+\breaks(11,18)
+S , R , G , M P D P M S , R , G , M P M S , R , G , M P D
+R , G , M , P D N D P R , G , M , P D P R , G , M , P D N
+G , M , P , D N S. N D G, M , P , D N D G , M , P , D N S.
+
+S. , N , D , P M P D N S., N , D, P D N S.,N,D,P M G
+N , D , P , M G M P D N , D , P , M P D N , D , P , M G R
+D , P , M , G R G M P D , P , M , G M P D , P , M , G R S
+
+> #### 5. Matya Thalam
+
+> ##### Thisra Jathi
+
+\cycle( "|,,,|,,|,,,|")
+
+S R G R S R G M
+R G M G R G M P
+G M P M G M P D
+M P D P M P D N
+P D N D P D N S.
+
+S. N D N S. N D P
+N D P D N D P M
+D P M P D P M G
+P M G M P M G R
+M G R G M G R S
+
+> ##### Chatusra Jathi
 
 \cycle( "|,,,,|,,|,,,,|")
 
@@ -78,10 +201,85 @@ P M G M P M P M G R
 M G R G M G M G R S
 
 
+> ##### Khanda Jathi
 
-> #### 6. Misra Jathi Jhumpa Thalam
+\cycle("5|2|5")
+
+S R G M G R G S R G M P
+R G M P M G M R G M P D
+G M P D P M P G M P D N
+M P D N D P D M P D N S.
+
+S. N D P D N D S. N D P M
+N D P M P D P N D P M G
+D P M G M P M D P M G R
+P M G R G M G P M G R S
+
+> ##### Mishra Jathi
+
+\cycle("7|2|7")
+
+S R G M P D P M G S R G M P D N
+R G M P D N D P M R G M P D N S.
+
+S. N D P M P M D P S. N D P M G R
+N D P M G M G M P N D P M G R S
+
+
+> ##### Sankeerna Jathi
+
+\cycle("9|2|9")
+
+S , R , G , M P M G R S , R , G , M P D
+R , G , M , P D P M G R , G , M , P D N
+G , M , P , D P M G R G , M , P , D N S.
+
+S. , N , D , P M P D N S. , N , D , P M G
+N , D , P , M G M P D N , D , P , M G R
+D , P , M , G R G M P D , P , M , G R S
+
+> #### 6. Jhumpa Thalam
+
+> ##### Chatusra Jathi
+
+\cycle( "|,,,,|,|,,|")
+
+S G R S R G , 
+R M G R G M ,
+G P M G M P , 
+M D P M P D ,
+P N D P D N ,
+D S. N D N S. ,
+
+S. D N S.N D ,
+N P D N D P ,
+D M P D P M ,
+P G M P M G ,
+M R G M G R ,
+G S R G R S ,
+
+> ##### Khanda Jathi
+
+\cycle( "|,,,,,|,|,,|")
+
+S R G R S R G , 
+R G M G R G M ,
+G M P M G M P , 
+M P D P M P D ,
+P D N D P D N ,
+D N S. N D N S. ,
+
+S. N D N S.N D ,
+N D P D N D P ,
+D P M P D P M ,
+P M G M P M G ,
+M G R G M G R ,
+G R S R G R S ,
+
+> ##### Mishra Jathi
 
 \cycle( "|,,,,,,,|,|,,|")
+
 S R G S R S R G M ,
 R G M R G R G M P,
 G M P G M G M P D ,
@@ -93,6 +291,21 @@ D P M D P D P M G ,
 P M G P M P M G R ,
 M G R M G M G R S ,
 
+
+> ##### Sankeerna Jathi
+
+\cycle( "|,,,,,,,,,|,|,,|")
+
+S , R ,G ,R G R       G M ,
+R , G ,M ,G M G       M P,
+G , M ,P ,M P M       P D ,
+M , P ,D ,P D P       D N ,
+P , D ,N ,D N D       N S. ,
+S. ,N ,D ,N D N    D P ,
+N , D ,P ,D P D       P M ,
+D , P ,M ,P M P       M G ,
+P , M ,G ,M G M       G R ,
+M , G ,R , G R G       R S ,
 
 > #### 6. Khanda Jathi Ata Thalam
 
