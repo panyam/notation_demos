@@ -1,3 +1,7 @@
+\meta("Ragam", "Ragamalika")
+\meta("Thalam", "Rupakam")
+>---
+
 \aksharasPerBeat(2)
 \cycle( "|3|")
 \breaks(6)
@@ -30,3 +34,4 @@ A tthi 2 [ ga na pa thi ya di yil, ]
 Na tthi 2 [ pu la gi dha me zha yaan, ]
 A rchi tthe 2 [ A ga ma gi zha vum ]
 2 [ A rul tha ra va ra va ra ja ya ja ya ]
+
