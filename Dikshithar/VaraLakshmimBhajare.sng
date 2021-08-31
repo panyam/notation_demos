@@ -1,17 +1,12 @@
   
-\aksharasPerBeat(4)
-
-
 \meta("Composer", "Mudduswāmi Dikshitar")
-
 \meta("Ragam", "Sowrāshtram")
-
-\meta("Talam", "Adi")
+\meta("Thalam", "Adi")
 
 > ---
 > #### Pallavi
 
-
+\aksharasPerBeat(4)
 
 Sw:
 d n s. ,  s.n s.d p , , , p , p m    p ,, d  d p p m   m g 2 [ m p m , ] g r s r
@@ -45,5 +40,6 @@ r.r.,r. g.r.s., s. n d - r.  , s. r. ,   r.s.,s. n d d p 2 [ p , , m n ,, d m g 
 Sh: 
 Su ra , rchi tha pa dam , bu ja vi ka , si ni , Ni ra , la , mba ma , na sō , lla  , si ni , 
 Mu ra , ri Va , ksha , stha la ni vā , si ni , Pu ra , ri Gu ru gu ha chi dvi , la , si ni , 
+
 
 
