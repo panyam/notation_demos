@@ -1,3 +1,7 @@
+\meta("Ragam", "Mohanam")
+\meta("Thalam", "Rupakam")
+>---
+
  \cycle("3")
  \aksharasPerBeat(2)
  \breaks(6)
