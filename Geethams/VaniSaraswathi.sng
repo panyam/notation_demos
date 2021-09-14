@@ -3,7 +3,7 @@
 
 \meta("Talam", "Adi")
 
-\aksharasPerBeat(2)
+\beatDuration(2)
 
 \line
 

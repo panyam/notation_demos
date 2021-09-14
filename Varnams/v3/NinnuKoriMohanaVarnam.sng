@@ -1,6 +1,6 @@
 
 ```v3h
-\set(aksharasPerBeat = 4)
+\set(beatDuration = 4)
 ```
 
 ## Ninnu Kori

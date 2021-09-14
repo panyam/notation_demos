@@ -3,7 +3,7 @@
 >---
 
  \cycle("3")
- \aksharasPerBeat(2)
+ \beatDuration(2)
  \breaks(6)
  
  Sw:

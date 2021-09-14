@@ -12,7 +12,7 @@
 \meta("Author", "Sri Paada Pinakapaani")
 
 \cycle("5|2")
-\aksharasPerBeat(4)
+\beatDuration(4)
 
 >#### Pallavi
 
@@ -27,7 +27,7 @@ Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , 
 
 >#### First Speed
 
-\aksharasPerBeat(2)
+\beatDuration(2)
 
 Sw: , ,
 Sh: , ,
@@ -42,7 +42,7 @@ Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , 
 
 >#### Thisram
 
-\aksharasPerBeat(3)
+\beatDuration(3)
 
 Sw: , , ,
 Sh: , , ,
@@ -59,7 +59,7 @@ Pa ra ma ,  thma ,  Pa ran , dha , ma , 2 [ Sri , , , Ra ; , ; ] ma ; Mam , , , 
 
 >#### Second Speed
 
-\aksharasPerBeat(4)
+\beatDuration(4)
 
 Sw: , , , ,
 Sh: , , , ,

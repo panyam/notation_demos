@@ -4,7 +4,7 @@
 > #### 1. Chatusra Jathi Eka Thalam
 
 \cycle("4")
-\aksharasPerBeat(1)
+\beatDuration(1)
 
 S R G M
 R G M P

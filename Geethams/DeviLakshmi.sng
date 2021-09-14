@@ -1,7 +1,7 @@
 \meta("Ragam", "Mohanam")
 \meta("Thalam", "Adi")
 
-\aksharasPerBeat(2)
+\beatDuration(2)
 \cycle("|,,,,|,,|,,||")
 
 Sw:

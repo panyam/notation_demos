@@ -2,7 +2,7 @@
 \meta("Ragam", "Thodi")
 \meta("Talam", "Khanda Jāthi Ata")
 
-\aksharasPerBeat(4)
+\beatDuration(4)
 \cycle("5|5|4")
 \breaks(5,5,4)
 > ---

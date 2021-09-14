@@ -3,7 +3,7 @@
 
 ```v3 
 \set(cycle = "|,,,,|")
-\set(aksharasPerBeat = 1)
+\set(beatDuration = 1)
 
 S R G M
 R G M P

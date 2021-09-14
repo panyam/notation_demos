@@ -2,7 +2,7 @@
 \meta("Ragam", "Surutti")
 \meta("Talam", "Adi")
 
-\aksharasPerBeat(4)
+\beatDuration(4)
 
 > ---
 > #### Pallavi

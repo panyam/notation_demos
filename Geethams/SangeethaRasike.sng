@@ -1,7 +1,7 @@
 \meta("Ragam", "Saraswathi")
 \meta("Thalam", "Adi")
 >---
-\aksharasPerBeat(4)
+\beatDuration(4)
 
 Sw:
 S. , , n , , D , P , D , P , , , P , D , P , D , S. , , , , , , ,

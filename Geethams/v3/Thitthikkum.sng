@@ -1,6 +1,6 @@
 
 ```v3h
-\set(aksharasPerBeat = 2)
+\set(beatDuration = 2)
 \set(cycle = "|3|")
 \set(layout = "6")
 ```

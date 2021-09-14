@@ -1,6 +1,6 @@
 
 \cycle("2|4")
-\aksharasPerBeat(2)
+\beatDuration(2)
 
 \meta("Ragam", "Thodi")
 \meta("Talam", "Chaturasra Jaathi Rupakam")
@@ -16,7 +16,7 @@ Sh: , , Ja , gu , sey  , , , yya , , , mey , ra , gA , , , du , rA , , , , , , ,
 
 >#### First Speed
 
-\aksharasPerBeat(1)
+\beatDuration(1)
 
 Sw: ,
 Sh: ,
@@ -26,7 +26,7 @@ Sh: Ja , gu , sey  , , , yya , , , mey , ra , gA , , , du , rA , , , , , , , , ,
 
 >#### Thisram
 
-\aksharasPerBeat(3)
+\beatDuration(3)
 
 Sw: , , ,
 Sh: , , ,
@@ -43,7 +43,7 @@ Sh: Ja , gu , sey  , , , yya , , , mey , ra , gA , , , du , rA , , , , , , , , ,
 
 >#### Second Speed
 
-\aksharasPerBeat(4)
+\beatDuration(4)
 
 Sw: , , , ,
 Sh: , , , ,

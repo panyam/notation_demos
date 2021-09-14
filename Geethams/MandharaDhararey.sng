@@ -4,7 +4,7 @@
 \meta("Talam", "Adi")
 >---
 
-\aksharasPerBeat(2)
+\beatDuration(2)
 
 Sw:
       S. , N P D D S. , D S. R. G. M. G. G. R.

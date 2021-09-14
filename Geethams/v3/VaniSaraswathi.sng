@@ -4,7 +4,7 @@
 **Talam**: Adi
 
 ```v3
-\set(aksharasPerBeat = 2)
+\set(beatDuration = 2)
 
 \line
 

@@ -4,7 +4,7 @@
 \meta("Thalam", "Adi")
 >---
 
-\aksharasPerBeat(4)
+\beatDuration(4)
 
 > #### Pallavi
 

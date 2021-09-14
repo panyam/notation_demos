@@ -6,7 +6,7 @@
 \meta("Thalam", "Adi")
 >---
 
-\aksharasPerBeat(4)
+\beatDuration(4)
 
 > ##### Pallavi
 
@@ -67,7 +67,7 @@ ka ni ka ra mu na - cha ra nam , ; bu lu ga nu go nu shru thu lan , ; nu thu la 
 
 > ##### Charanam 5
 
-\aksharasPerBeat(5)
+\beatDuration(5)
 
 Sw:
 s.,r.s., n,d n , s., n d , p , , ;  p , d n , d , p m , p , m g , m ; ;

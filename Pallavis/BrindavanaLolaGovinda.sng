@@ -1,6 +1,6 @@
 
 \cycle("2|4")
-\aksharasPerBeat(2)
+\beatDuration(2)
 
 \meta("Ragam", "Kalyani")
 \meta("Talam", "Chaturasra Jaathi Rupakam")
@@ -22,7 +22,7 @@ Brin , da , ; va , na ,  lo , ; la,  Go ; vin ; da , ; ; ; A , ra , vin , ;  da 
 
 >#### First Speed
 
-\aksharasPerBeat(1)
+\beatDuration(1)
 
 Sw: ,
 Sh: ,
@@ -35,7 +35,7 @@ Brin , da , ; va , na ,  lo , ; la,  Go ; vin ; da , ; ; ; A , ra , vin , ;  da 
 
 >#### Thisram
 
-\aksharasPerBeat(3)
+\beatDuration(3)
 
 Sw: , , ,
 Sh: , , ,
@@ -52,7 +52,7 @@ Brin , da , ; va , na ,  lo , ; la,  Go ; vin ; da , ; ; ; A , ra , vin , ;  da 
 
 >#### Second Speed
 
-\aksharasPerBeat(4)
+\beatDuration(4)
 
 Sw: , , , ,
 Sh: , , , ,

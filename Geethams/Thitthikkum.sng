@@ -2,7 +2,7 @@
 \meta("Thalam", "Rupakam")
 >---
 
-\aksharasPerBeat(2)
+\beatDuration(2)
 \cycle( "|3|")
 \breaks(6)
 
