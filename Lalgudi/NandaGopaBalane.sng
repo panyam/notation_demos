@@ -7,15 +7,17 @@
 
 > #### Pallavi
 
-> ##### 1
+\line(marginText = "1")
 
 Sw: m p s. ~/ s. n p ~m\ g , [ g r r s ] S. , r ~m\ g r s .n^2 s [s m r , ] m p ;
 Sh: Nan , da gō , pa bā , la nē ; Na ta ja na pa ri pā , la nē ;
 
+\line(marginText = "A")
+
 Sw: p n , [ n d ] m p ~/ n^2 s. , [r.,m.g.g.r.] ~\ s. , ; g^2 m ~/ n p m g r s
 Sh: Bru , ndā , , va na , , lō , la ne , ; gō , pā , , la , nē
 
-> ##### 2
+\line(marginText = "2")
 
 Sw: m p s. [s. n n , ] p [m g g , g r r s ] s , [r , m g g r s , r .n ^ 2 s , r m r , ] m p ;
 Sh: Nan , da gō , pa bā , la nē ; Na ta ja na pa ri pā , la nē ;
@@ -24,10 +26,12 @@ Sw: p n , [ n d ] m p ~/ n^2 s. , [r.,m.g.g.r. r.s.s. , ] ; g^2 m ~/ n p m g r s
 Sh: Bru , ndā , , va na , , lō , la ne , ; gō , pā , , la , nē
 
 
-> ##### 3
+\line(marginText = "3")
 
 Sw: m p [r.s. s. n n , ] p [m g g , g r r s ] s , g r s r .n ^ 2 s g^2 , ~\ s [g m n p ; ]
 Sh: Nan , da gō , pa bā , la nē ; Na ta ja na pa ri pā , la nē ;
+
+\line(marginText = "B")
 
 Sw: p n , [ n d ] m p ~/ n^2 s. , [r.,p.m.g.r.] ~\ s. , ; g^2 m [g^2 m n d p , ]  ~m\ g r s
 Sh: Bru , ndā , , va na , , lō , la ne , ; gō , pā , , la , nē
@@ -35,17 +39,17 @@ Sh: Bru , ndā , , va na , , lō , la ne , ; gō , pā , , la , nē
 
 > #### Anu Pallavi
 
-> ##### 1
+\line(marginText = "1")
 
 Sw: p n n n ~\ d ~\ m p n^2 s. r. ~/ s. ~\ n^2 p n p m g^2 p [ p m m , ] ; ; 
 Sh: Dē , va ki va su dē , va rin ci rai mī , tti ya dhī , rā , ; ; 
 
-> ##### 2
+\line(marginText = "2")
 
 Sw: p n n n ~\ d ~\ m p n^2 s. r. ~/ s. ~\ n^2 p n p m g^2 p m [n^2 s. n^2 s. p s. n n m p ]
 Sh: Dē , va ki va su dē , va rin ci rai mī , tti ya dhī , rā , ; ; 
 
-> ##### 3
+\line(marginText = "3")
 
 Sw: p n n n ~\ d ~\ m p n^2 s. r. ~/ s. ~\ n^2 p n p m g^2 p  [ p m m , ;] , s. n^2
 p n p m g^2 p [p m m , ] s.s.s. n^2 p n p m g^2 p m, s.s.s.n^2
@@ -65,19 +69,23 @@ Nī , tha chō, , rā, , , Na va
 
 > #### Charanam
 
-> ##### 1
+\line(marginText = "1")
 
 Sw: p , , [ p d s. n d , p m g , ] m , ~/ n p [m g^2] s  , [g^2 m] n p [m g g , ] r , ;
 Sh: Pā , , nda , var  nē , yā , u nai vē , , ndi nen ,  tū , yā , ; 
+
+\line(marginText = "A")
 
 Sw: r s , [r  m g , r , ] s .n^2 s, .n^2 s [ r p m d p n d s. ] n d m d ~\ p , ;
 Sh: Srī , , Pā , ndu ran , gā , e nai Āl , , ē  , lai pań , ga , ;
 
 
-> ##### 2
+\line(marginText = "2")
 
 Sw: p , , [ p d s. n d , p m g , ] m , ~/ n p [m g^2] s  , [g^2 m] n p [m g g , ] r , ;
 Sh: Pā , , nda , var  nē , yā , u nai vē , , ndi nen ,  tū , yā , ; 
+
+\line(marginText = "B")
 
 Sw: g^2 s , [g^2 m] n p  [m g r , ] s , s .n^2 [ r p m d p n d s. ] n d m d ~\ p , ;
 Sh: Srī , , Pā , ndu ran , gā , e nai Āl , , ē  , lai pań , ga , ;

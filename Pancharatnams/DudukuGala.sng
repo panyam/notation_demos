@@ -54,8 +54,7 @@ Ga , di , ya , , , g , di , ya , , , ku , , , ni , , , , , ndā , , ru , ,
 
 > #### Charanams
 
-> ##### Charanam 1
-
+\line(marginText = "1")
 Sw: 
 r , , , , , , , r , s , .n s r ,  s , , ,  , , - s , , , s .n .p , , , 
 .m , , , , , , , .m , , , .r .m .p .n .p , , , , , , , , , - .m .p , .n s , 
@@ -65,7 +64,7 @@ Sh:
 Sree , , , , , , , , , , , va , ni , thā , , , , , hruth,  , , ku mu dā , , , 
 bja , , , , , , , vāng , , , mā , na , sa , , , , , , , , , gõ , , cha ra , 
 
-> ##### Charanam 2
+\line(marginText = "2")
 
 Sw: 
 r r s s , s - r s r m , m s r m , .n s r g m , - s r g , , m r r s s
@@ -73,7 +72,7 @@ r r s s , s - r s r m , m s r m , .n s r g m , - s r g , , m r r s s
 Sh:
 Sa ka la bhū , tha mu , la yan , du nee , vai , yun , da , ga , ma thi lē , , ka pō , yi na
 
-> ##### Charanam 3
+\line(marginText = "3")
 
 Sw: 
 r r p p m- r r s s , s , r p m , r s - .n s r s , s p m , m r r s s
@@ -81,7 +80,7 @@ r r p p m- r r s s , s , r p m , r s - .n s r s , s p m , m r r s s
 Sh:
 Chi ru tha prā , ya mu la nā , dē , bha ja nā , mru tha ra sa vi hee , na ku da , rku dai , , na
 
-> ##### Charanam 4
+\line(marginText = "4")
 
 Sw: 
 p p m m r s - r s r - p m m r s r m p - r p m r s r m , m - r r s s , s
@@ -89,7 +88,7 @@ p p m m r s - r s r - p m m r s r m p - r p m r s r m , m - r r s s , s
 Sh:
 Pa ra dha na mu la ko ra ku no ru la ma di ka ra ka ba li ki ka du pu nim , pa thi ri gi na , tti
 
-> ##### Charanam 5
+\line(marginText = "5")
 
 Sw: 
 n p m p n - r m p n , - m p n , p n s. , - r m p n s. , n p p m r r s s
@@ -97,7 +96,7 @@ n p m p n - r m p n , - m p n , p n s. , - r m p n s. , n p p m r r s s
 Sh:
 Tha na ma di ni bhu vi ni sow , - kya pu jee , va na mē , ya nu chu sa dā , di na mu lu ka di pē ,
 
-> ##### Charanam 6
+\line(marginText = "6")
 
 Sw: 
 r r p p r r m m s s r r .p .n s r p m m - r s s - n p m p , n p n s. r. 
@@ -107,7 +106,7 @@ The li ya ni na ta vi ta kshu , dru lu va ni tha lu Swa va sa mou , da ku ba de 
 
 , - li swa ra la ya , mbu le ru , nga ka nu silā th , mu lai , su bha , kthu la ku sa mā , na ma nu
 
-> ##### Charanam 7
+\line(marginText = "7")
 
 Sw:
 s , r s s , s , r s r g m , - r p m , - r n p , m , s. n p m , - r.r.s. 
@@ -117,7 +116,7 @@ Sh:
 Drush , ti ki sā , ram , bha gu la la nā , sa da nār , bha ka sē , nā , mi tha dha nā , du la nu
 Dē vā , di dē , , va ne ra nam , mi thi ni gā , ka nu pa dāb , ja bha ja na , mbu ma ra chi na
 
-> ##### Charanam 8
+\line(marginText = "8")
 
 Sw: 
 p , p m r s - r m p , m r s - r r , m , - s r m , - .n s r g , m r , , , 
@@ -129,7 +128,8 @@ Sh:
 Cha , kka ni mu kha ka ma lam , bu nu , sa dā , nā , ma di lõ , sma ra na lē , ka nē , , , 
 dur , ma da , ntha ja nu la kō , ri Pa ri thā , pa mu la chē , tha gi li no gi li dur , vi sa ya
 Du rā , sa la nu rō ,ya lē , ka sa tha tha ma pa rā , dhi nai , - cha pa la chi , tthu dai , na ,
-> ##### Charanam 9
+
+\line(marginText = "9")
 
 Sw: 
 s , r s .n s - r , r s - r s r m , m s r m , r r s- r r s - s , s , , , 
@@ -143,7 +143,7 @@ Ma da math, Sa ra kā , ma lō , bha mō , hu la ku dā , su dai , mō , sa bō 
 Mo tha ti ku la ju da ku chu bhu vi ni sū , dru la Pa nu lu sal , pu chu nu , , ndi ni gā , ka , 
 Na rā , da mu la nu kō , ri sā , re hee , na ma da mu la nu sā , dim , Pa thā , ru mā , ru
 
-> ##### Charanam 10
+\line(marginText = "10")
 
 Sw: 
 p , p , p m g m r s s , r m p m p , - r m p m g m m s r , r s s , 

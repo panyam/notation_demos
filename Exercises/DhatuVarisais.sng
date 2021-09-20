@@ -1,5 +1,5 @@
 
-> #### 1.
+\line("1")
 
 
 S R S G R G R M S M G R S R G M
@@ -13,7 +13,7 @@ D P D M P M P G D G M P D P M G
 P M P G M G M R P R G M P M G R
 M G M R G R G S M S R G M G R S
 
-> #### 2.
+\line("2")
 
 S M G M R G S R S G R G S R G M
 R P M P G M R G R M G M R G M P

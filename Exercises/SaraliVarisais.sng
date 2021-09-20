@@ -1,13 +1,9 @@
-
-> #### 1.
-
+\line("1")
 
 S R G M    P D    N S.
 S. N D P    M G    R S
 
-
-> #### 2.
-
+\line("2")
 
     S R S R     S R     G M        
     S R G M     P D     N S.       
@@ -15,7 +11,7 @@ S. N D P    M G    R S
     S. N D P     M G     R S       
 
 
-> #### 3.
+\line("3")
 
     S R G S     R G     S R        
     S R G M     P D     N S.       
@@ -23,15 +19,14 @@ S. N D P    M G    R S
     S. N D P     M G     R S       
 
 
-> #### 4.
+\line("4")
 
     S R G M     S R     G M       
     S R G M     P D     N S.       
     S. N D P     S. N     D P       
     S. N D P     M G     R S       
 
-
-> #### 5.
+\line("5")
 
     S R G M     P ,     S R       
     S R G M     P D     N S.       
@@ -39,15 +34,15 @@ S. N D P    M G    R S
     S. N D P     M G     R S       
 
 
-> #### 6.
+\line("6")
+
 
     S R G M     P D     S R       
     S R G M     P D     N S.       
     S. N D P     M G     S. N       
     S. N D P     M G     R S       
 
-
-> #### 7.
+\line("7")
 
     S R G M     P D     N ,       
     S R G M     P D     N S.       
@@ -55,39 +50,35 @@ S. N D P    M G    R S
     S. N D P     M G     R S       
 
 
-> #### 8.
+\line("8")
 
     S R G M     P M     G R       
     S R G M     P D     N S.       
     S. N D P     M P     D N       
     S. N D P     M G     R S       
 
-
-> #### 9.
+\line("9")
 
     S R G M     P M     D P       
     S R G M     P D     N S.       
     S. N D P     M P     G M       
     S. N D P     M G     R S       
 
-
-> #### 10.
+\line("10")
 
     S R G M     P ,     G M       
     P , , ,     P ,     , ,       
     G M P D     N D     P M       
     G M P G     M G     R S       
 
-
-> #### 11.
+\line("11")
 
     S. , N D     N ,     D P       
     D , P M     P ,     P ,       
     G M P D     N D     P M       
     G M P G     M G     R S       
 
-
-> #### 12.
+\line("12")
 
     S. S. N D     N N     D P       
     D D P M     P ,     P ,       
@@ -95,7 +86,8 @@ S. N D P    M G    R S
     G M P G     M G     R S       
 
 
-> #### 13.
+\line("13")
+
 
     S R G R     G ,     G M       
     P M P ,     D P     D ,       
@@ -103,11 +95,12 @@ S. N D P    M G    R S
     M P D P     M G     R S       
 
 
-> #### 14.
+\line("14")
 
     S R G M     P ,     P ,       
     D D P ,     M M     P ,       
     D N S. ,     S. N     D P       
     S. N D P     M G     R S       
+
 
 

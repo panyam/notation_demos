@@ -1,0 +1,139 @@
+
+\beatDuration(4)
+
+\meta("Composer", "V.R. Pallavi Gopāla Iyer")
+\meta("Ragam", "Uttari")
+\meta("Thalam", "Adi")
+\meta("Language", "Tamil")
+
+> ---
+> #### Pallavi
+
+
+\line("1")
+Sw: ; ; ; g , s , g , ; m , p ,  ; ; ; d , m , g , ;
+Sh: ; ; ; Pā , ; va , ; nan , ; nī , ; ; ; ;  yē , ; 
+
+\line("2")
+Sw: 
+s , m , g , g , s , ~\ g , ; m , p ; ~/ d m p d n d , m , g , ; 
+; ; ; ~/ p , ; p , ; p , p , d m p , ; p , d m g , ; 
+
+Sh:
+Pa , ti , ta , Pā , ; va , ; nan , ; nī , ; ; ; ;  yē , ; 
+; ; ; Bā , ; la , ; nen , tu , , , nai , nī , , , yē , ;
+
+\line("3")
+Sw: 
+g , m , g m ~/ m g , s ~\ g , ; m , p ; ~/ d m p d n s., s.s. n n d m 
+g , m , g , ~/ m , p , d , ~\ n , d , d , m , p , ; p , d m ~\ g , ; 
+
+Sh:
+Pa , ti , ta , Pā , ; va , ; nan , ; nī , ; ; ; ;  yē , ; 
+; ; ; Bā , ; la , ; nen , tu , , , nai ,;  nī , , , yē , ;
+
+
+\line("4")
+Sw: 
+s , m , g m ~/ m g , s ~\ g , ; m , p ; ~/ d m p d n s., s.s. n n d m 
+g , m , g , [ d n ] d , n ~/ S. , ; S. , s. n d n s. , ; m p d n s. n d m
+
+Sh:
+Pa , ti , ta , 
+Pā , ; va , ; nan , nī , ; ; ; ;  ; ; ;
+yē , ; ; Bā , ; la , ; nen , tu , , , nai , ; nī , ;;;
+
+
+\line("5")
+Sw: 
+g m d d m g s m m g s ~\ g ; m , p ; ~/ d m p d n s.g.s.s.n n d m 
+g , m , g , g. , ~\ s. , s. , ; s. g. s. n d n s. , ; g m p d n s. g. s. 
+s. n n d d m m g , s ~\ g , ; m , p , ; ; ; d , m , g , ; 
+Sh:
+yē , ; ; 
+Pā ; ; va ; nan ,  nī , ; ; ; ; ; ; ;
+ye , ; ; Bā , ; la , ; nen , tu , , , nai , ; nī , ;;;
+yē , ; ; 
+Pā ; ; va ; nan ,  nī , ; ; ; ; ; yē , ;
+
+> #### Anu Pallavi
+
+\line("1")
+
+Sw:
+; ; ; s. , ; s. , ; s. , s. ; n n d d , ; ~\ n  , ~/ s. , ;
+; ; ; n , s. , g. , g. , ; s. , g. , s. g. m. , g. m. g., g., ~\ s. , 
+Sh:
+; ; ; Mā , ; va , ; da , nā , ; ; ; ; Mā , ; ; 
+; ; ; val , ; la , bha , ; rā , ; ma , ; ñā , ; ; ;
+
+
+\line("2")
+Sw:
+; ; ; g. , s. , s. , ; s. , s. ; ~\ n n d d , ~\ M , ; m p d n
+S., ; ; n , s. , g. , g. , ; s. , g. , s. g. m. , g. m. g., g., ~\ s. , 
+Sh:
+; ; ; Mā , ; va , ; da , nā , ; ; ; ; Mā , ; ; 
+; ; ; val , ; la , bha , ; rā , ; ma , ; ñā , ; ; ;
+
+\line("3")
+Sw:
+; ; ; ~/ g. , s. , s. , ; s. , n s.g.s.s. n n d d m g s g m p d
+n s.g. n s., ~/ g s. n s. g. , g. , ; s.g.m.g.s.g.m., g.m.g.,g.,s.,
+Sh:
+; ; ; Mā , ; va , ; da , nā , ; ; ; ; ; Mā , ; 
+; ; ; val , ; la , bha , ; rā , ; ma , ; ñā , ; ; ;
+
+
+\line("A")
+Sw:
+; ; ; ~/ s. , ; s. , s. , ; s.s.n , n n d ,d m p , d , , n  
+s. , ; ; s.s.n , n n d , ~\ m , p , ; ; ; p d m , g , ; 
+
+Sh:
+; ; ; Mō , ; da , ka , ; ka , ; ra , ; , , , , Mā, , , 
+; ; ;  mū , ; Shi , ; ka , vā , ; ; ; ha , ; nā, ; 
+
+\line("B")
+Sw:
+; ; ; ~/ s. , ; s. , s. , ; s.s.n , n n d ,d m p , d , , n  
+s. , ; ; s.s.n , n n d , ~\ m , p ; d m p d n s.,s.s.n n d m
+g m p d m g
+
+Sh:
+; ; ; Mō , ; da , ka , ; ka , ; ra , ; , , , , Mā, , , 
+; ; ;  mū , ; Shi , ; ka , vā , ; ; ; ; ha , nā, ; 
+nā , ; ; 
+
+
+> #### Charanam
+
+\line("1")
+
+Sw:
+; ; ; d , m , p , ; d , d , ; ; ; ; ~/ s. n n d d , 
+; ; ; n d , n s. , ; n , ~/ s. , n , d , m , g m g , g , s , 
+
+Sh:
+; ; ; Ā , ; łit , ; tu , rum , ; ; ; ; be , na , ; 
+; ; ; Ā ; , di , ; a , lain , ; den , ; nul , ; lam , ; 
+
+
+
+\line("2")
+
+Sw:
+s , ~\ g, m, p , d m p , ; p , d m g s g m p d n s. ~/ s. n n d d ,
+; ; ; n d , n s. , ; n , ~/ s. , n , d , m , g m g , g , s , 
+s , ~\ g , m , p , d m g , s , s , s , ; ~/ s n .n .d .d , ~\ .n , s, ; 
+; ; ; s .n s , g , ; m , p , ; ; ; ; d m p , ;
+
+Sh:
+; ; ; Ā , ; łit , ; tu , rum , ; ; ; ; be , na , ; 
+; ; ; Ā ; , di , ; a , lain , ; den , ; nul , ; lam , ; 
+; ; ; Ā , ; sai , ; kka , di , ; mai , ; ; yā , gi , ; 
+; ; ; a , ri , vu , ; ka , lan , ; ; ; ; gi , nēn ; 
+
+
+> ###### To be sung like Anu Pallavi:
+> Ēlaikki rangida   |   ēnō it | tāmadam || eliyēnaik kāttarul | deivam | nīyalavõ ||

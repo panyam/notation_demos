@@ -61,8 +61,7 @@ Su gu na , ka ra su ra se , , vya bhav , , , , ya da , ya ka , , , , sa da , sa 
 
 > #### Charanam
 
-> #### 1
-
+\line(marginText = "1")
 
 Sw: 
 s s .n .p , , .m .p s s r s s m m r s m m , , , p. , , , -  p m m p m m 
@@ -76,8 +75,7 @@ Sun , da ra tha ra va da na su da , ma ya va so , Brin , da Go , vin , da sa , n
 va ra , ja ra , ptha su ba ka ra , , ne , ka 
 
 
-> #### 2
-
+\line(marginText = "2")
 
 Sw: 
 s. n p - m , n p , m r s - .n , r s , s .n .p - s , s r , s r s - p , m n p
@@ -88,8 +86,7 @@ Ni ga ma nee , ra ja , mru tha ja po , sha ka , ni mi sha vai , ri va , ri tha s
 Kha ga thu ran , ga sath , ka vi hru da , la ya , ga ni tha va , na ra , di pa na tha , ngri yu  ga
 
 
-> #### 3
-
+\line(marginText = "3")
 
 Sw: 
 
@@ -101,9 +98,7 @@ In , dra nee -,  la ma ni san , ni pa , pa gha na Chan , dra Su , rya na ya  na 
 gee , ndra ja na ka sa ka le , sa su , bra Na , ge , dnra sa ya na sa ma na vai , ri san , nu tha
 
 
-
-> #### 4
-
+\line(marginText = "4")
 
 Sw: 
 
@@ -115,10 +110,7 @@ Pa , da vi ji tha mou , ni cha , pa sa va pa ri pa , , la va ra man , , thra gra
 pa ra ma sa , ntha - chith ,  tha ja na ka ja , di pa Sa ro , ja bha va Va ra da , , , , , ki la 
 
 
-
-
-
-> #### 5
+\line(marginText = "5")
 
 
 Sw: 
@@ -131,11 +123,7 @@ Sh:
 Sru , shti , sthi , thyan , tha kaA , ra kA , mi tha kA , mi tha pha la dA , sa mA , na gA , thra sa 
 See , pa thi su dA , bdi ma tha ha rA , nu rA , ga rA , ga rA , ji tha ka thA , sA , ra hi tha
 
-
-
-> #### 6
-
-
+\line(marginText = "6")
 
 Sw: 
 
@@ -148,10 +136,7 @@ Saj , ja na mA , na sA , bdi su dhA , ka ra ku su  ma vi mA , nu  sa ra sA , ri 
 lA , li tha cha ra nA , va ru nA , su ra ga nA , ma tha ha ra na , sa nA , tha nA , ja nu tha
 
 
-
-> #### 7
-
-
+\line(marginText = "7")
 
 Sw: 
 
@@ -166,10 +151,7 @@ Om , , kA , ra pan , ja ra kee , , ra pu  ra ha ra sa rO , ja bha va key , , sa 
 ra nA , ga tha ja na pA , la na su ma nO , ra ma na nIr , vi kA , ra ni ga ma sA , ra tha ra
 
 
-
-> #### 8
-
-
+\line(marginText = "8")
 
 Sw: 
 p m r s .n .p - s , s , , - m r s s , , - p m r s , n p , - p m r s , - p m
@@ -181,10 +163,7 @@ Ka ra dhru tha sha ra jA , la , , Su ra ma thA , , pa ha ra NA , va nee , su ra 
 ka vee , na bi la ja mou , ni kru tha cha ri , thra san , nu tha Sree , thya , , ga rA , , ja nu  tha
 
 
-
-> #### 9
-
-
+\line(marginText = "9")
 
 Sw: 
 p p , n p m n p m m , p m g m r s r , s m g p m n p , m g m p n
@@ -196,10 +175,7 @@ Pu rA , Na pu ru sha nru va rA , thma jA , shri tha pa rA , dee , na ka ra Vi rA
 vi rA , va nA , na ka pa rA , sa ra ma nO , ha rA , vi kru tha Thya , ga rA , ja san , nu  tha
 
 
-
-> #### 10
-
-
+\line(marginText = "10")
 
 Sw: 
 p p n p p n p  m m p , n p  , , n p  p m m , - p m , n p m , s. n p  m

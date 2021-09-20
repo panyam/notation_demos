@@ -45,7 +45,7 @@ na , , ,   Su , na , , , cha , nu , , , vu , , , na , , , nin , , , nu , , ,
 , , , ,
 > #### Charanam
 
-> #### 1
+\line(marginText = "1")
 
 
 Sw: 
@@ -60,7 +60,7 @@ Pā , , ,    , , , ,     , , , ,     , , , ,     , , , ,      , , , ,    Lu , , 
 Pā , , ,    , , ,  ,    , , , ,     , , , ,     ra , , ,    ma , , ,    hi , , ,    ma , , , 
 da , , ,    , , , ,     na , , ,    ru , , ,    , , ,,      nin , , ,   , , nu ,    , , , ,  ; ;
 
-> #### 2
+\line(marginText = "2")
 
 Sw: 
 g , g , p , m , d , p , n , d , s. , n , r. , r. ,  s. , n , s. , , ,
@@ -70,7 +70,7 @@ Sh:
 Tha , la , tha , la , ma , nu , mu , kha , ga , la , ga , li , gi , na , see , , , 
 tha , ku , Lu , ku , Chu , nO , , , ra , kan , , , nu , la , nu , ju , Chē , , , nin , nu , 
 
-> #### 3
+\line(marginText = "3")
 
 Sw: 
 s , , ,     m , ,,  p , d ,     p , m ,     g , , ,     , , - g , g , r , g , m ,
@@ -84,7 +84,7 @@ mA , , ,    lA , , ,    Lan , , ,   kru , tha ,     kan , , ,   , , da ,    rA ,
 Si , ja ,   , , ksha ,  va , ra ,   ka , pO ,   , , la ,    su , ru ,   Chi , ra ,  ki , ree , 
 , , ta ,    dha , ra ,  san , , ,   tha , tham ,    , , bu ,    ma , na , sA , , ,    , , ra , ka , , , 
 
-> #### 4
+\line(marginText = "4")
 
 Sw:
 s , , ,     , , - p ,   , , m ,     p , d ,     p , m ,     , , - p ,   m , r ,     g , , , 
@@ -99,7 +99,7 @@ ka , , ,    rna , sU ,  , , la ,    mai , , ,   na , mA ,       , , ta ,    vee 
 su , ruk,   , , ka ,    na , tha ,  , , la ,    ka , Sree ,     , , Ha ,    ri , ni ,   dhiA , , , 
 , , nin ,   , , Chi ,   su , gim ,  , , pa ,    ga , lē ,    , , dā ,  , , ya , tu , , , , , , , 
 
-> #### 5
+\line(marginText = "5")
 
 Sw:
 g,g, m,p, d,n, ,,d, p,m, g,r, ,,s, .n,.d,   .n,s,   ,,r,    g,,,    ,,r,    g,m,    p,-p,   d,p,    ,,m,
@@ -113,7 +113,7 @@ su , thu ,  du , nee ,  , , du ,    ma , hi ,   ma , del ,  , , pa ,    See , ,,
 li , si ,   va, la, Cih, sok ,  , , ka ,    lē , , ,    dA , , ,    , , Ree ,   , , thi , 
 nin , nu , 
 
-> #### 6
+\line(marginText = "6")
 
 Sw:
 s. , n ,    , , d ,     p , m ,     g , r ,     , , s ,     .n, .d,     .n, s,  r,s,
@@ -131,7 +131,7 @@ su,ra,  Pū,,,   ja,ma,  ,,ni,   tha,gu, nAng,,, ,,ga,   Chi,thA,
 Pa,ra,  ma,da,  yA,,,   ka,ra,  ka,ru,  nA,,,   ra,sa,  va,ru,
 nA,,,   La,ya,  bha,yA, ,,pa,   ha,ra,  Sree,,, ,,Ra,ghu,pa,    thē,,,
 
-> #### 7
+\line(marginText = "7")
 
 Sw:
 p,,,    ,,-p,   ,,p,    p,,,    m,p,    ,,d,    d,d,    p,m,
@@ -153,7 +153,7 @@ na,ka,  pu,ran, ,,da,   ,,ra,   Na,ga,  jA,,,   Dha,ra, ja,,,
 mu,,,   kyu,lu, sA,,,   kshi,gA,    ,,da,   Sun,,,  da,rē,  ,,sa,
 su,kha, ka,la,  sam,,,  bu,dhi, vA,,,   sA,,,   ,,sri,  thu,la, ke,,,
 
-> #### 8
+\line(marginText = "8")
 
 Sw:
 ,,,,    p,p,    ,,d,    p,m,    p m r,  g,,,    g,m,    p,,,

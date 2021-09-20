@@ -1,14 +1,14 @@
 
 \beatDuration(2)
 
-> #### Exercise 1
+\line("1")
 
 
     S S R R G G M M     P P D D     N N S. S.       
     S. S. N N D D P P     M M G G     R R S S       
 
 
-> #### Exercise 2
+\line("2")
 
 
     S S R R G G M M     R R G G     M M P P       
@@ -18,7 +18,7 @@
     P P M M  G G R R     M M G G     R R S S       
 
 
-> #### Exercise 3
+\line("3")
 
 
     S S R R G - S R G     S S R R     G G M M       
@@ -33,7 +33,7 @@
     M M G G R-M G R     M M G G     R R S S       
 
 
-> #### Exercise 4
+\line("4")
 
 
     S S R - S S R - S R     S S R R     G G M M       
@@ -48,7 +48,7 @@
     M M G - M M G - M G     M M G G     R R S S       
 
 
-> #### Exercise 5
+\line("5")
 
 
     S S R R G G R R     S S R R     G G M M       
@@ -63,7 +63,7 @@
     M M G G R R G G     M M G G     R R S S       
 
 
-> #### Exercise 6
+\line("6")
 
 
     S S , - R R , - G G     S S R R     G G M M       
@@ -78,7 +78,7 @@
     M M , - G G , - R R     M M G G     R R S S       
 
 
-> #### Exercise 7
+\line("7")
 
 
     S , S - R , R - G G     S S R R     G G M M       
@@ -93,7 +93,7 @@
     M , M - G , G - R R     M M G G     R R S S       
 
 
-> #### Exercise 8
+\line("8")
 
 
     S S S R R R G G     S S R R     G G M M       
@@ -108,7 +108,7 @@
     M M M - G G G - R R     M M G G     R R S S       
 
 
-> #### Exercise 9
+\line("9")
 
 
     S S M M G G R R     S S R R     G G M M       
