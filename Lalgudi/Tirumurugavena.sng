@@ -1,0 +1,101 @@
+
+\beatDuration(4)
+
+\meta("Composer", "V.R. Pallavi Gopāla Iyer")
+\meta("Ragam", "Uttari")
+\meta("Thalam", "Adi")
+\meta("Language", "Tamil")
+
+> ---
+> #### Pallavi
+
+
+\line("1")
+Sw:
+; g m , p p , ~/ p m g r s , s , ; g r , s .n .p ~/ .n , .n , s , ; 
+; .n s , ~\ g r , ~\ g , ; m , m , ; g  m , p m , ~/ p m g r ~\ g ,  ; 
+
+Sh:
+; Ti ru , mu ru , ga , , , ye , na  , ; u rai , tti du , di , na , mē , ;
+; Ma ru , ja na , na , ; ma , ra , ; mā , , rga mam , ma , na , mē , ; 
+
+
+\line("2")
+
+Sw:
+m , n d , m ~\ g ,  p m g r s , s , ; [m g , g r , ] s .n .p .n , [s ; m g r , m g g , s]
+; .n s , ~\ g r , ~\ g , ; m , m , ; n d , m m , ~/ p m g r ~\ g ,  ; 
+
+Sh:
+; Ti ru , mu ru , ga , , , ye , na  , ; u rai , tti du , di , na , mē , ;
+; Ma ru , ja na , na , ; ma , ra , ; mā , , rga mam , ma , na , mē , ; 
+
+\line("3")
+
+Sw:
+m , [p , s. n d,] m ~~ g, m n p m g r s , , m  [m g , g r , ] s .n .p - .n , [s , p m g r , m g g , s]
+; .n s , ~\ g r , ~\ g , ; m , m , ; n d , m m , ~/ p m g r ~\ g ,  ; 
+
+Sh:
+; Ti ru , mu ru , ga , , , ye , na  , ; u rai , tti du , di , na , mē , ;
+; Ma ru , ja na , na , ; ma , ra , ; mā , , rga mam , ma , na , mē , ; 
+
+\line("4")
+
+Sw:
+m , [p , s. n d,] m ~~ g, m n p m g r s , , m  [m g , g r , ] s .n .p - .n s [g m p m g r , m g g , s]
+; .n s , ~\ g r , g g m , n n s., g.m.g.r.s.s. [n d m , ] ~/ p m g r ~\ g , ; 
+
+Sh:
+; Ti ru , mu ru , ga , , , ye , na  , ; u rai , tti du , di , na , mē , ;
+; Ma ru , ja na , na , ; ma , ra , ; mā , , rga mam , ma , na , mē , ; 
+
+> #### Anu Pallavi
+
+\line("1")
+Sw:
+; g m , n n , n n s. , s.s.n d m , n n , s. s. , s.s.n n s. , ;
+
+Sh:
+; Gu ru , ma ni , yā , ; gi , ya , ; Gu ha , nai san , mu , kha , nai , ;
+
+
+\line("2")
+
+Sw:
+; g m , n n , n n r. s.  s.s.n d m , ~/ n n , s. s. , s. n n ~/ g. r. g. , s.
+
+Sh:
+; Gu ru , ma ni , yā , ; gi , ya , ; Gu ha , nai san , mu , kha , nai , ;
+
+\line("3")
+
+Sw:
+; g m , n n , n n r. s.  s.s.n d m , ~/ n n , s. s. , s. n s. m. g. g. , s.
+; ~\ n ~/ r. , s. s. , s.s.n d ~\ p , d , ~Y n , d , m , m g ~/ p m g r ~\ g , ; 
+
+Sh:
+; Gu ru , ma ni , yā , ; gi , ya , ; Gu ha , nai san , mu , kha , nai , ;
+; ku ra , ma ga , lō , du , kun , , , ja , ri , ma , na , ma , ga , nai , ; 
+
+
+\line("4")
+
+Sw:
+; g m , n n , n n r. s.  s.s.n d m , ~/ n n , s. s. , [s. , p. m. g. r. , m. ] g. g. , s. 
+; ~\ n ~/ g. , r.s.r.s.s. n d g m n n ~/ g. r. ~/ r. s. n d m , ~/ p m g r ~\ g, ;
+
+Sh:
+; Gu ru , ma ni , yā , ; gi , ya , ; Gu ha , nai san , mu , kha , nai , ;
+; ku ra , ma ga , lō , du , kun , , , ja , ri , ma , na , ma , ga , nai , ; 
+
+> #### Chittai Swaram
+
+Sw: 
+n d m g r g m p , m g r m g r s .n .n s .n .n s .n .p .n .n s .n s , ; 
+g r s g g m ~/ n d m n n s. n s.s.g. ~\ g. ~/ m., g.r.s. ~/ s. ~\ n , n d m ~\ g ~\ r , g
+
+~\ g m
+
+> ###### To be sung like Anu Pallavi:
+> | ; I ru vi nai ya nu gā | di ni yo ru | nā lum || ; I ha pa ra mi ran di lum | tu nai | ma yil vēlum ||
