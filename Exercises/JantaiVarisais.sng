@@ -20,17 +20,16 @@
 
 \line("3")
 
-
-    S S R R G - S R G     S S R R     G G M M       
-    R R G G M - R G M     R R G G     M M P P       
-    G G M M P - G M P     G G M M     P P D D       
-    M M P P D - M P D     M M P P     D D N N       
-    P P D D  N - P D N     P P D D     N N S. S.       
-    S. S. N N D - S. N D     S. S. N N     D D P P       
-    N N D D P - N D P     N N D D     P P M M       
-    D D P P M - D P M     D D P P     M M G G       
-    P P M M G - P M G     P P M M     G G R R       
-    M M G G R-M G R     M M G G     R R S S       
+    S S R R G G R R     S S R R     G G M M       
+    R R G G M M G G     R R G G     M M P P       
+    G G M M P P M M     G G M M     P P D D       
+    M M P P D D P P     M M P P     D D N N       
+    P P D D N N D D     P P D D     N N S. S.       
+    S. S. N N D D N N     S. S. N N     D D P P       
+    N N D D P P D D     N N D D     P P M M       
+    D D P P M M P P     D D P P     M M G G       
+    P P M M G G M M     P P M M     G G R R       
+    M M G G R R G G     M M G G     R R S S       
 
 
 \line("4")
@@ -51,16 +50,17 @@
 \line("5")
 
 
-    S S R R G G R R     S S R R     G G M M       
-    R R G G M M G G     R R G G     M M P P       
-    G G M M P P M M     G G M M     P P D D       
-    M M P P D D P P     M M P P     D D N N       
-    P P D D N N D D     P P D D     N N S. S.       
-    S. S. N N D D N N     S. S. N N     D D P P       
-    N N D D P P D D     N N D D     P P M M       
-    D D P P M M P P     D D P P     M M G G       
-    P P M M G G M M     P P M M     G G R R       
-    M M G G R R G G     M M G G     R R S S       
+    S S R R G - S R G     S S R R     G G M M       
+    R R G G M - R G M     R R G G     M M P P       
+    G G M M P - G M P     G G M M     P P D D       
+    M M P P D - M P D     M M P P     D D N N       
+    P P D D  N - P D N     P P D D     N N S. S.       
+    S. S. N N D - S. N D     S. S. N N     D D P P       
+    N N D D P - N D P     N N D D     P P M M       
+    D D P P M - D P M     D D P P     M M G G       
+    P P M M G - P M G     P P M M     G G R R       
+    M M G G R-M G R     M M G G     R R S S       
+
 
 
 \line("6")
@@ -121,3 +121,4 @@
     D D G G M M P P      D D P P     M M G G       
     P P R R G G M M     P P M M     G G R R       
     M M S S R R G G     M M G G     R R S S       
+

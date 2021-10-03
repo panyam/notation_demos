@@ -1,0 +1,197 @@
+
+\meta("Composer", "Shyama Shastri")
+\meta("Ragam", "Reethi Goula")
+\meta("Thalam", "Misra Chapu")
+
+> ---
+
+\beatDuration(1)
+\cycle("3|2|2")
+\breaks(14)
+
+> #### Pallavi
+
+\line("1")
+Sw:  .n .n , s ,  ~s\ .n  ~s\ .n     ~/ g r , ~rg\ s , ;
+Sh:  Ja na , ni , , Nin  nu vi , na , ; 
+
+\line("2")
+
+Sw:  .n .n , s ,  ~s\ .n  ~s\ .n     ~/ g r , ~rg\ s , ; , , , , , [ g r s , ]
+Sh:  Ja na , ni , , Nin  nu vi , na , ; , ; ; [ Am , ba , ]
+
+\line("3")
+Sw:  ~.m/ .n .n , s ,  ~s\ .n  ~s\ .n     ~/ g r , ~r\ g , ; , ; ; ~s/ g m [p , d p [m , , p] m g , r [s , , r s , , r]]
+Sh:  Ja na , ni , , Nin  nu vi , na , ; , ; ; tri , lō ; ; ka , 
+
+\line("4")
+Sw:  [[s .n .p , , .n ] .n ;] s ,  ~s\ .n  ~s\ .n     ~/ g r , ~rg\ s , ; , ; ; ~s\ .n ~s\ .n [ s , , s g , g , ; m ,  ; ; ; ; ; ; ~\ .n , ~s\ .n , ]
+Sh:  Ja na , ni , , Nin  nu vi , na , ; , ; ; di k  kē va , ramm , mā , [ ; ; ; ; ; ] di , 
+
+\line("A")
+Sw:
+[ s , , s g , g , ; m , ;       ,,, g m , p , , d p m , p m g , r ; g , m , g , r ,  ~rg\ s, ; ; ; ; ~r\ .n , ~s\ .n ]
+
+Sh:  
+kē va , ramm , mā , [ ,,, Ja ga, mu , , ,  lō , , , , , , na ; gā , ; ; ; na , ; ; ; ; di , ; ]
+
+
+\line("B")
+Sw:
+[ s , ~m\ g , r , r , m g m , ;     ]   [ p , , d n , n d d , m , ; ]  [  m g , r ; g , m , g , r ,  ~rg\ s, ; ; ; ; ~r\ .n , ~s\ .n , ]
+
+Sh:  
+kē va , ramm , mā , [ Ja , , ga , , mu , , , lo , , , ] [ , ; na ; gā , ; ; ; na , ; ; ; ; di , ; ]
+
+
+
+\line("C")
+Sw:
+[ s , [m , p m ] g r r , m g m , ;     ]   [ p , d n s. , ;  n d m , ; ]  [  m g , r ; g m p m g , r ,  ~rg\ s, ; ; ; ; ~r\ .n , ~s\ .n , ]
+
+Sh:  
+kē va , ramm , mā , [ Ja , ga ; , ; mu , lo , ;] [ , ; na ; gā , ; ; ; na , ; ; ; ; di , ; ]
+
+
+
+\line("D")
+Sw:
+[ s ~/ p [m , p m ] g r r , m g m , ;     ]   [ p , d n [s. , r. s.] n s.  n d , m ; ]  [  m g , r ; g m [ p , d p m , p m ] g r  ~rg\ s, ; ; ; ; g r [ s ,, r]]
+
+Sh:  
+kē va , ramm , mā , [ Ja , ga ; , ; mu ; lo ;] [ , ; na ; gā , ; ; ; na , ; ; ; ; Am , ba ,  ]
+
+> #### AnuPallavi
+
+\line("1")
+
+Sw: 
+n n , s. , ~s\ n , ~n/ s. , , , , s. ~\ n 
+~n/ s. , , , , s. n [ d , [ n s. ] n , s. n d , m m , ; ]
+
+Sh:
+Ma na , si , ja , mā ; ; na , sa ; ; sam , mō ; di , ni , 
+
+
+\line("2")
+
+Sw: 
+~m/ n n , s. , [n n , d]     ~n/ s. , , , , [s. ~\ n g. , ]
+~rg/ s. , , , , s. n        [ ~/ n s. ~/ r. s. n d n s. - d ~/ s. n n d m ]
+
+Sh:
+Ma na , si , ja , mā ; ; na , sa ; ; sam , mō ; di , ni , 
+
+
+
+\line("A")
+
+Sw: 
+[ ~/ r. , , s. , , s. , ~/ g. s. s. , n , ]     [ s. , n n s. , n n , d d , ; ]     
+[ ~n\ p , , d ~s\ n , n d d , m , , [, p] ]     [ m g , r , , g , r , s , ; ]
+
+Sh:
+[ Vi , , na , , vē , ; nā , ; ] [ mā ; na ; ni , ; ni , ; ]
+[ vi , ,  ni ; nan , ; nu , ; ] [  brō ; vu ; mu , ; ; ; ]
+
+
+\line("B")
+
+Sw: 
+[ ~/ r. , , s. , , s. , ~/ g. s. s. , n , ]     [ s. , n n s. , n , ; d , ; ]     
+[ ~n\ p , d n s. , ; n d , d m ,  ]     [ m g , r , , ~/ g m p m g r s , ]
+
+Sh:
+[ Vi , , na , , vē , ; nā , ; ] [ mā ; na ; ni , ; ni , ; ]
+[ vi , ,  ni ; nan , ; nu , ; ] [  brō , ; ; vu , ; mu , ; ]
+
+
+\line("C")
+
+Sw: 
+[ ~/ r. , , s. , , s. , ~/ g. s. s. , n , ]     [ s. , n n s. , n , ; d , ; ]     
+[ ~n\ p , d n [s. , r. s.] n s. n d , m , p ]     [ m g , r , , ~/ g [m p , , ] m g r s , ]
+
+Sh:
+[ Vi , , na , , vē , ; nā , ; ] [ mā ; na ; ni , ; ni , ; ]
+[ vi , ,  ni ; nan , ; nu , ; ] [  brō , ; ; vu , ; mu , ; ]
+
+
+\line("D")
+
+Sw: 
+[ s. , [n , s. r. s. , , r. ] s. n s. , n , ; ]     [ n , [ d , n s. n , , s. ] n n ; d , ; ]
+[ ~n\ p , d n [s. , r. s.] n s. n d , m , p ]     [ m g , r , , ~/ g [m p , , ] m g r s , ]
+
+Sh:
+[ Vi , , na , , vē , ; nā , ; ] [ mā ; na ; ni , ; ni , ; ]
+[ vi , ,  ni ; nan , ; nu , ; ] [  brō , ; ; vu , ; mu , ; ]
+
+> #### Chittai Swaram
+
+Sw:
+.n .p .n .n s .n .n ~n/ s ; ; .n s 
+~/ g r s .n s ~/ g g  m , m g g r s 
+.n s g r .n s ~/ g r .n s ~/ r s ~/ s .n 
+~\ .p , .n .n s ~/ s , ~/ g g m g g r s
+~/ g g m g g ~g/ m , , .n .n s .n s ,
+.n s ~/ g g m g m ~/ n n d m ~/ n n s. 
+~/ g.g.m. g.r. ~r/ g. , g.r.n ~n/ s. , n d 
+~n/ s. , n d m ~g/ m , g r s ~n/ s , .n ~n\ .p
+
+Sh:
+Ni ra va dhi ka su kha dā ; ; ya ki ya nu cu vi ni ni nu 
+cā , la go li ci ti ni ra ta mu ga ta na yu ni mo ra lu vi ni 
+nī , va le nē brō , cu ta ku ye va ri ki
+Dha ra lō vi nu mā , , i di gha na mā , 
+ta ru na mi di kr pa ca lu pu du ru su ga
+sa ra si ru ha lō , ca ni su vā , si ni
+tā , ma sa mu cē , ya ga nē brō , vu mu
+
+> #### Charanam
+
+Sw:
+[ .n , , .n , , s , ; ; ; ] [ s , s .n s .n s , ~s/ m , g , r , ] [ ~rg\ s , ; ; ; ; - ; s .n]   [s , , ~/ g , , g , ; m , ; ]
+[m g , m ; p d p , m ~/ p m , m g ; r ; ~/ g, ~/ m , ~\ g , r , ~rg\ s , ; ; ; ; ; ; ]
+Sh:
+[Va , , na , , ja , ; ; ; ] [ ya , ta , ; nē , ; ; ; ] [ tri , ; ; ; ; ; ku ,  ] [ ma ,  ; ; ra , ; ja ,  ; ]
+[ na ; ni ; kā , ; ; ; m ; ta ; dā  , ; ; ; tri , ; ; ; ; ; ; ]
+
+> Same as Anu Pallavi:
+
+
+\line()
+Sh: Gha na , pā , ; 
+pa , , ; , la 
+tā ; , ; la 
+vi ; tri , ; 
+
+\line()
+[ Sa , , na , , kā , ; di , ; ] 
+mu ni , ja , na ,  
+San ; nu , ta , 
+pā ; tri , ; 
+
+
+> #### Chittai Swaram (2nd Speed)
+
+\beatDuration(2)
+
+Sw:
+.n .p .n .n s .n .n ~n/ s ; ; .n s 
+~/ g r s .n s ~/ g g  m , m g g r s 
+.n s g r .n s ~/ g r .n s ~/ r s ~/ s .n 
+~\ .p , .n .n s ~/ s , ~/ g g m g g r s
+~/ g g m g g ~g/ m , , .n .n s .n s ,
+.n s ~/ g g m g m ~/ n n d m ~/ n n s. 
+~/ g.g.m. g.r. ~r/ g. , g.r.n ~n/ s. , n d 
+~n/ s. , n d m ~g/ m , g r s ~n/ s , .n ~n\ .p
+
+Sh:
+Ni ra va dhi ka su kha dā ; ; ya ki ya nu cu vi ni ni nu 
+cā , la go li ci ti ni ra ta mu ga ta na yu ni mo ra lu vi ni 
+nī , va le nē brō , cu ta ku ye va ri ki
+Dha ra lō vi nu mā , , i di gha na mā , 
+ta ru na mi di kr pa ca lu pu du ru su ga
+sa ra si ru ha lō , ca ni su vā , si ni
+tā , ma sa mu cē , ya ga nē brō , vu mu
