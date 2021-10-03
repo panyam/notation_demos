@@ -1,0 +1,61 @@
+  
+\meta("Composer", "Saint Thyagaraja")
+\meta("Ragam", "Shankarabharanam")
+\meta("Thalam", "Tisra Gati")
+
+> ---
+
+\beatDuration(3)
+\cycle("4")
+\breaks(8)
+
+> #### Pallavi
+
+\line("1", offset = -2)
+Sw:
+g m p , p d , d p , p , - s r g , g g r g m , m g m g r g r s s r 
+g , r r s r g , g g r g m , m p , m g , s r , .n s , ; 
+
+
+Sh:
+Va ra lī , la gā , na lō , la , su ra pā , la su gu na jā , la bha ri ta 
+nī , la ga la hr dā , la ya sru ti mū , la su ka ru nā , la vā , la pā , la yā , su mām ; , -
+
+> #### Charanam
+
+\line("1", offset = -2)
+
+Sh:
+Su ra van , di tā , pta brī , nda ,  -va ra man , da ra - Dha ra sun , da ra ka ra
+Kun , da ra da na - In , du mu kha - Sa nan , da na nu ta Nan , da Nan , da nēn , di - Rā , va ra ; , -
+
+\line("2", offset = -2)
+
+Sh: 
+Mu ni - cin , ta nī , ya svā , nta , Na ra kā , nta ka ni ga mān , ta ca ra su kā , nta ku sa la
+Vā , nta ra hi ta dā , nta ku ja va sān , ta sān , ta tān , ta ka , stu ta 3 , -
+
+\line("3", offset = -2)
+Sh:
+Va ra - Bhū , sha vam , sa bhū , sha , na ta pō , sha na mri du bhā , sha na ri pu bhī , sha na na ra 
+vē , sha , na ga pō , sha na va ra sē , sha bhū , sha - tō , shi tā , na gha ; , -
+
+\line("4", offset = -2)
+Sh:
+Su ka - Vī , sa hri , nni vē , śa , ja ga dī , śa ku bha va pā , śa  ra hi ta
+Śrī , śa su ra ga nē , sa hi ta ja Lē , śa Śa ya na Kē , śa vā , sa - Mī , sa du , rla bha , ; -
+
+\line("5", offset = -2)
+Sh:
+Ra na - dhī , ra sa , rva sā , ra , su ku mā , ra bu dha vi hā , ra da nu ja
+Nī , ra dha ra sa mī , ra na ka ru Nā , ra sa pa ri pū , rna jā , ra cō , ra pā , hi mam , ; -
+
+\line("6", offset = -2)
+Sh:
+Na ra - Ra , ksha nī , ra jā , ksha , va ra Rā , ksha sa ma da Śi , ksha ka su ra
+ya , ksha sa na ka ruk , sha pa ti nu tā , ksha ha ra na pa , ksha da , ksha Śi , ksha ka , pri ya , ; -
+
+\line("7", offset = -2)
+Sh:
+Ra ghu - Rā , ja Thyā , ga Rā , ja , nu ta Rā , ja di va sa Rā , ja na ya na
+Bhō , ja ga da va Nā , ja Ja na k Rā , ja Su tā vi Rā , ja Rā , ja Rā , ja pū , ji ta , ; -
