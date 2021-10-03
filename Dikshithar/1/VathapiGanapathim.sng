@@ -1,0 +1,119 @@
+  
+\meta("Composer", "Mudduswāmi Dikshitar")
+\meta("Ragam", "Hamsadhwani")
+\meta("Thalam", "Adi")
+
+> ---
+
+\beatDuration(4)
+
+> #### Pallavi
+
+\line("1")
+Sw: g , ; ; r , ; s , s r s .n      .p , r , ; s , r , ; s .n s r
+Sh: Vā , ; ; thā , ; pi , ga , na , pa , thim , ; bha , jē , ; ham , ;
+
+\line("2")
+Sw: g , s r g , r, ; r , s r s .n   .p , r , ; s , r , ; s .n s r
+Sh: Vā , ; ; thā , ; pi , ga , na , pa , thim , ; bha , jē , ; ham , ;
+
+\line("3")
+Sw: g p g g r s - r g r r s .n s r s .n .p , r , ; s , r , ; s .n s r
+Sh: Vā , ; ; thā , ; pi , ga , na , pa , thim , ; bha , jē , ; ham , ;
+
+\line("4")
+Sw: g , p , ; ~p\ g , ; r , s r s .n p , r , ; s , r , ; s .n s r
+Sh: Vā , ; ; thā , ; pi , ga , na , pa , thim , ; bha , jē , ; ham , ;
+
+\line("5")
+Sw: g , p , n , p , g , r , s r s .n .p , r , ; s , r , ; s .n s r
+Sh: Vā , ; ; thā , ; pi , ga , na , pa , thim , ; bha , jē , ; ham , ;
+
+\line("6")
+Sw: g p n g p , - p p g g r r s r s .n .p , [ r , g r ] r , s , [r , g r ] r , s .n s r
+Sh: Vā , ; ; thā , ; pi , ga , na , pa , thim , ; bha , jē , ; ham , ;
+
+\line("7")
+Sw: g p n s.r., s. n p g r , s r s .n .p , [ r , g r ] r , s , [r , g r ] r , s .n s r
+Sh: Vā , ; ; thā , ; pi , ga , na , pa , thim , ; bha , jē , ; ham , ;
+
+\line("8")
+Sw: g p n s.r.g. - g.r.s. n p - p g r s .n .p , r , ; s , r , ; s .n s r
+g , r , g , p , ; ; n s. r. , s. n p , ; g p [g r] , ; s .n s r
+
+Sh: Vā , ; ; thā , ; pi , ga , na , pa , thim , ; bha , jē , ; ham , ;
+Vā , ; ra , nā , ; ; syam , , , Va , ra , ; pra , dam , ; sri , ;
+
+\line("9")
+Sw: 
+g p n s. r.g. - ~/ p.g.r.s.n - p g r s .n .p , [ r , g r ] r , s , [r , g r ] r , s .n s r
+[g , p g] g r g , p , ; ; p n s. r. g.r.s. - r.s.n - s.n  p - n p - p g r s r
+
+Sh: 
+Vā , ; ; thā , ; pi , , ga  na , pa , thim , ; bha , jē , ; ham , ;
+Vā , ; ra , nā , ; ; syam , , , Va , , ra , , pra , , dam ,  sri , ;
+
+\line("10")
+Sw: g r. ; ; s. n p , g r , r s .n .p ; r ; s , r , ; r s s , 
+Sh: Vā , ; ; thā , ; pi , , ga  na , pa , thim , ; bha , jē , ; ham , ;
+
+> #### Anu Pallavi
+
+\line("1")
+
+Sw: 
+g , p , ; g ~/ p g , r , s , ; s , r , s , r , g , g , p , ;
+p , s. , s. n s. , g.r. ; s. n p , n , p , ; g , r , g , r , ;
+Sh: 
+Bhū , ; ; tā , ; di , sam , ; Sē , ; vi , ta , Cha , ra , nam , ; 
+Bhū , ; ta , bhau , ; ; ti , ka , pra , pañ, ; ca , bha , ra , nam , ;
+
+\line("2")
+
+Sw: 
+g , p , n , p , g , r , s , ; s , r , s , r , g , g, p , ; 
+p , s. , s. n s. , g.r. s. , s. n p , n , p , ; g , r , g , r , ;
+
+Sh: 
+Bhū , ; ; tā , ; di , sam , ; Sē , ; vi , ta , Cha , ra , nam , ; 
+Bhū , ; ta , bhau , ; ; ti , ka , pra , pañ, ; ca , bha , ra , nam , ;
+
+> ##### Madhayamakala Sahithyam
+
+Sw: g , p g , n p , g. r. s. n ,  r. s. , s. , n p , n g , n , p g , r s , 
+Sh: Vī , ta rā , gi nam , Vi na ta yō , gi nam , Vi , swa kā , ra nam , vi , ghna vā , ra nam , 
+
+Sw: g , p g , n p , g. r. s. s. n s. r. ,  g. , r. ,  s. , n p s. n p - g , r s r
+Sh: Vī , ta rā , gi nam , Vi na ta yō , gi nam , Vi , swa , kā , ra nam vi , ghna vā , ra nam , 
+
+> #### Charanam
+
+Sw: 
+g , g , ; r , ; r , s , ; s .n .p , r , s , g , r , ; g , 
+p , ; ; g , r , ; r , s , .n , s , r , ; g , s , r , ; 
+.p , r , ; r, ; ; g , r , s , ; s r s .n .p , g , r , ; 
+g , ; p , ; p g ; r , ; s , r , r s s , ; r , s , ;
+.p , .n , ; s , r , ; g , ; r , - p , ; r , ; n , p , ; 
+s., s., s. n n , p , n , ~\ g , p , ; - p , ; r. , r.s.n , s. , ; 
+n , r. , ; g. , r. , ; n , s. , r. , s. n p , p g g , p , n s. r. , 
+s.r.s.r. s. n p , p g g , r , r , .n , g , ; r , s , [r , , g] r s s, 
+Sh:
+Pu , rā , ; kum , ; bha , sam , ; bha , va , mu , ni , va , ra , ; pra , 
+Pū , ; ; ji , tam , ; tri , kō , ; na , ma , ; dhya , ga, tam , ; 
+Mu , rā , ; ri , ; ; pra , mu , khā , ; dyu , pā , ; si , tam , ;
+Mu , ; lā , ; dhā , ; ra , ; kshē , ; tra , ; ; sti , tam , ;
+pa , rā , ; di , cat , ; va , ; ri , - Vā , ; gā , ; tma , kam , ; 
+Pra , na , va , ; sva , ru , ; pa , ; va , ; kra , tun , ; dam , ;
+Ni , ran , ; ta , ram , ; ni , ti , la , Can , ; dra , khan , ; dam , ; 
+Ni , ja , vā , ; ma , ka , ra , vi , dhr , tē , ; kshu , dan , ; dam , ;
+
+
+> ##### Madhayamakala Sahithyam
+
+Sw: 
+g g , r r s , .n .p , .n s r , r , g g p g ~/ n , p , n s. r. , s. n s. ,
+n g. , r. s. r. s. n p , n s. r. , r. , s. , s. , s. n p n p p g p g r s r
+
+Sh: 
+Ka rā , mbu ja pā , sa bī , jā , pū , ram , Ka lu sha - vi dū, ram , bhū , tā , kā , ram , 
+Ha rā , di Gu ru gu ha tō , shi ta bim , bam , Ham , sa , dhva ni bhū , shi ta hē , ram , bham ,  
