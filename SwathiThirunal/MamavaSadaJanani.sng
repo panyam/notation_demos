@@ -1,0 +1,114 @@
+># Māmava Sada
+\meta("Composer", "Swathi Thirunal")
+\meta("Ragam", "Kānada")
+\meta("Thalam", "Rupakam")
+
+>## Pallavi
+
+\beatDuration(4)
+\cycle("3")
+\breaks(6)
+
+\line("1")
+
+Sw:
+r , ; ; s , r , p , g , ; g m r , s , , , ; ; ; ; .n , s ,
+
+Sh:
+Mā , ; ; ma , va , - sa , da , ; ja , na , ni , ; ; ; ; ; Am , ba , 
+
+\line("2")
+
+Sw: 
+r , ; ; s , r , p , g , ; g m r , s , ;
+.n r s s d n , d n , s. , r , n n p m g m r s .n s
+
+Sh:
+Mā , ; ; ma , va , - sa , da , ; ja , na , ni , ; 
+Ma , hi , sha , ; su , ra , Sū , ; da , ni , ; Am ba
+
+
+\line("3")
+
+Sw: 
+r , ; ; s , r , p , [ m , p m ] g , g m r , s , ;
+.n r s s d n , d n , s. , r , n n p m g m r s r g
+
+Sh:
+Mā , ; ; ma , va , - sa , da , ; ja , na , ni , ; 
+Ma , hi , sha , ; su , ra , Sū , ; da , ni , ; Am ba
+
+\line("4")
+
+Sw: 
+r , ; ; s r g m d n p m g , g m r , s , ;
+.n r s s d n , d n , s. , r , n n p m g m r s r g
+
+Sh:
+Mā , ; ; ma , va , - sa , da , ; ja , na , ni , ; 
+Ma , hi , sha , ; su , ra , Sū , ; da , ni , ; Am ba
+
+
+\line("5")
+
+Sw: 
+m , ; ; p , m , p , g m d n s. n p m g , ; 
+m g m , d n s. n p m g m n d - d p p m - g m r s - r g
+
+Sh:
+Mā , ; ; ma , va , - sa , da , ; ja , na , ni , ; 
+Ma , hi , sha , ; su , ra , Sū , ; da , ni , ; Am ba
+
+
+
+\line("6")
+
+Sw: 
+m , ; ; p , m , p , g m d n s. n p m g , ; 
+m d n s. r. g. m. r. s. n p m [d , n d - p , d p m , p m ] g m r s - r g
+
+Sh:
+Mā , ; ; ma , va , - sa , da , ; ja , na , ni , ; 
+Ma , hi , sha , ; su , ra , Sū , ; da , ni , ; Am ba
+
+>## Anu Pallavi
+
+Sw: 
+; [m , , n p , ; ] p p m g m , d , n , ; r s p , ; m g m , d n s. n p m g m d n s. , , n r. , s. , ; 
+
+Sh:
+; Sō , ma , Bim , ; ba , Ma , no , ; ha , ra , ; 
+Su , mu , khi , ; se , ; va , ka , ; khi , la , ; 
+
+
+\line("A")
+
+Sw: 
+g. , ; m. , - r. , ; s. , n s. , n d n , d n s. r. , 
+n s. [r. , g. r.] s. n - r. s. n p p m n d d p p m g m r s .n s
+
+Sh:
+Ka , ; ma , - da , ; na , Ni , ; ra , ; tha , ; 
+Ka , ta , ; ksha , ; Vi , lā , ; ; si , ni , ; 
+
+
+\line("B")
+
+Sw: 
+g. , ; [ p. m. m. , ] - r. , ; s. , n s. , n d n , d n s. r. , 
+n s. [r. , g. r.] s. n - r. s. n p p m n d d p p m g m r s .n s
+
+Sh:
+Ka , ; ma , - da , ; na , Ni , ; ra , ; tha , ; 
+Ka , ta , ; ksha , ; Vi , lā , ; ; si , ni , ; 
+
+
+\line("C")
+
+Sw: 
+n s. r. g. m. , [r. , g. r. - s. , r. s. ] n s. g. m. r.r.s. n p m d n s. r. 
+n s. [r. , g. r.] s. n - r. s. n p p m [ d, n d - p , d p m , p m ] g m r s r g
+
+Sh:
+Ka , ; ma , - da , ; na , Ni , ; ra , ; tha , ; 
+Ka , ta , ; ksha , ; Vi , lā , ; ; si , ni , ; 
