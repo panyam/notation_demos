@@ -1,0 +1,134 @@
+># Evvaru Rā
+\meta("Composer", "Saint Thyagaraja")
+\meta("Ragam", "Mohanam")
+\meta("Thalam", "Misra Chaapu")
+
+>## Pallavi
+
+\beatDuration(1)
+\cycle("3|2|2")
+\breaks(14)
+
+\line("1")
+
+Sw: 
+, g p d r. s. s. ~s\ d d  , d p p d 
+, g g d p p d g g d  p g r s 
+
+Sh:
+, E vva ru , ra , Nin nu , vi , na , 
+, Ga , thi , , , ma , , ku , , , 
+
+
+\line("2")
+
+Sw: 
+r - g p [d s. r. , ] [r. s. s. ,  s. d. r. s. s. d ] d p [p p d , ]
+g g g [p d s. ,  ] , d   s. d. p p g r s 
+
+Sh:
+, E vva ru , ra , Nin nu , vi , na , 
+, Ga , thi , , , ma , , ku , , , 
+
+
+\line("3")
+
+Sw: 
+r - g p [d s. r. g. r. s. s. ,  s. d. r. s. s. d ] d p [p p d , ]
+g g g [p d s. r. ] g. r. [s. r. s. s. - d s. d d - p d p p g r ]
+
+Sh:
+, E vva ru , ra , Nin nu , vi , na , 
+, Ga , thi , , , ma , , , ku  , , 
+
+
+\line("4")
+
+Sw: 
+[s r g p p g g p d s. [ r. , g. r. - s. , r. s. ]] - [s. d [s. , r. s. ] s. d ] d p [ p p d , ]
+g g g [ r g p d s. r. g. p. g. r. g. r. s. d p d r. s. d p - d p ]
+
+Sh:
+, E vva ru , ra , Nin nu , vi , na , 
+, Ga , thi , , , ma , , ku , , , 
+
+
+\line("5")
+
+Sw: 
+[g r] g p d , g. r. s. , , ; ; 
+
+Sh:
+, E vva ru , , , ra ; ; ; 
+
+>## Anu Pallavi
+
+\line("1")
+Sw: 
+, d g. g. , g. r. [ s. , , r. g. , r. s. s. , s. , ; ]
+, r. d s. , ; , , , [s. d p g r g p d ]
+
+Sh:
+, Sa va na , ra , [ ksha  , , ka ,, ] ni , thyō , 
+, tsa , va , ;  , ; A , , , 
+
+\line("2")
+
+Sw: 
+, d g. g. , g. r. [ s. , , r. g. , r. s. s. , s. , ; ]
+, [s. , , d] r. , s. , [s. d r. s. s. d] d p [p p d , ]
+
+Sh:
+, Sa va na , ra , [ ksha  , , ka ,, ] ni , thyō , 
+, tsa , va , Si , ta , , pa , thi , 
+
+
+\line("3")
+
+Sw: 
+g d g. g. , g. r. [ s. r. g. p. g. r. r. s. s. , s. , ; ]
+, [s. , , d] r. , [ s. r. g. r. - d s. r. s. - p d s. d - g p d p - g r s r ]
+
+Sh:
+, Sa va na , ra , [ ksha  , , ka ,, ] ni , thyō , 
+, tsa , va , Si , ta , pa , thi , , 
+
+
+>## Charanam
+
+\line("1")
+
+Sw: 
+; [[s , , r]] g , , , g r , g , p , 
+, p g d p p d g d p g p g r 
+[[s , r s s, .d, s , , r]] g , ; [g , , d p , ] [ g ,, p p g g r ]
+r g d p g r s [ .d r s s .d , [s , , r] s , ] r g
+
+; [[p , , d]] s. , ; [s. , , [r. s. s. d , , ]] s.  [ [r. s. ,  , ]] r. g. 
+, g. r. g. p. g. r. [d r. s. s. , s. ] d p [p p d , ]
+
+Sh:
+; Rā da , ; na ; du , pai ,
+, ni , da , ya , vi , , ; ; 
+na , Rā da , ; mu , ra vai , ri , 
+, ga , da , ; Da , ya bal , ga , 
+; Rā da , ; [yi , , di , , ]  ma , ri , 
+, ya , ; da , na , , tho , ; 
+
+\line("1")
+Sw: 
+g g. r. [ [r. s. s. , ] ] d p g [g p d s. , , ] d p p g
+, d p [g r , , ]  s, s. , d p g r s 
+
+Sh:
+, Va , da , ma , ne , , be , da , , ma , ; ; na ; ku , ; 
+
+\line("2")
+Sw:
+r g. r. [ [s. , r. s.  ] s. d ] [[ p , d p ] p g ] [[ g r s r g p d s. ; ; ]] d p g , 
+, d p [g r , , ] s , [s r g p d .s r. g. r. s. d p g r  s r - g p p g ]
+
+
+Sh:
+, Va , da , ma , ne , , be , da , , ma , ; ; na ; ku , ; , E va 
+
