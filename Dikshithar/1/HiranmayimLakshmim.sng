@@ -1,0 +1,81 @@
+\meta("Composer", "Muthuswami Dikshitar")
+\meta("Ragam", "Hindolam")
+\meta("Thalam", "Rupakam")
+
+\beatDuration(4)
+\cycle("3")
+\breaks(9)
+
+>## Pallavi
+
+\line("1")
+
+Sw:
+
+d , ~d\ m , ; g m g r , s s , ; s .n .d , ; r , s , ; s r g , ; m , 
+d , d m g m g r ; s ,  s .n .d , .d .n .d .m .d , [g r ,, , g r s ] .n , s, ; ; ; 
+
+Sh:
+
+Hi , rań , ; ma , yīm , ;  La , ; kshmīm , ; ; sa , dā , ; bha , jā , ; mi , 
+Hī , na , mā , ; ; na , vā , ; śra , ; ; yam , tya , ; ja , ; ; ; 
+
+
+\line("2")
+
+Sw:
+
+[d , , n d d , m ] ; g m g r , s 
+s , ; [.n s r s .n .d ; ] ; r , s , r .n s r g , ; m g [m d ; ] d m g m g r ; s , 
+s .n .d , .d .n .d .m .d , [ g r ; , g r s ] .n , s , ; ; ; 
+
+Sh:
+
+Hi , rań , ; ma , yīm , ;  La , ; kshmīm , ; ; sa , dā , ; bha , jā , ; mi , 
+Hī , na , mā , ; ; na , vā , ; śra , ; ; yam , tya , ; ja , ; ; ; 
+
+>## Anu Pallavi
+
+\breaks(6)
+
+Sw:
+m , m , g m d , d m , d m g g , m d d m g m d , d n ; n d n d  d m m g m d n , s. n s. , ; ; 
+
+r. s. s. , n , n n d d d m      g m d m g r s .n .d .n s,
+r s s .n .d .m .d .n s r s , m g r .n [ s , r g] r .n s r g m
+
+Sh:
+Chi , ra , tha , ra , sam , ; pat , ; pra , dam , ; ; 
+Kshī , ; rām , ; bu , dhi , ta , na , yam , ; ; ; 
+
+Ha ri vak ,  sha , stha lā , la yām , 
+Ha ri nīm , cha ra na ki sa la yām , 
+Ka ra ka ma la dhru tha ku va la yām , 
+Ma ra ka ta ma , ni , va la yām , 
+
+>## Charanam
+
+Sw:
+s , ; s , ; [s , r s ] s,  .n , s r .n , s , .n .d ; 
+.n , ; s , [r , , g r s .n , ] ; s , r g ; m , m , ; 
+d , ; d m m , ; m g g r g r s .n s , [.n , s r s , r n ] 
+.n , ; r r s .n .d , ; .d .m .d , ; g r r s s , 
+s r , s m , m , ; m  g m d g , m , g m [g m d , ] ; 
+d n ; n d d n d , m , d , n , s. n g. r. r. s. s. , 
+[n , , s. ] r. , s. , [n , r. s. ] s. , s. n d n d d m , m d d n ; 
+n d d n d m , d m g g , g r ; [r , , g r s s , ] ; ; 
+s , s r s .n .d .m .d .n s , r s r m m , d m d n s. ,
+s. , n g. r. s. ; r. s. s. n d , m d d g m , d d [d n ; ]
+
+Sh:
+Śvē , ; ta , ; dvī , ; pa , vā , ; si , nīm , ; 
+Srī , ; ka , ma , lām , ; bi , kām , ; pa , rām , ; 
+Bhū , ; ta , bha , ; vya , vi , lā , ; si , nīm , ; 
+bhū , ; su , ra , pū , ; ji , tām , ; va , rām , , ,
+Mā ; ta ra , mab , ; ja ,  Mā , ; li , nīm , ; ; 
+Mā , ; ńi , ; kya , ; bha , ra , na , dha , rām , ;
+Gī , ; ta , vā , ; dya , Vi , nō , ; di , nīm , ; 
+Gi , ri , jām , ; tām , ; In, ; di , rām , ; ; 
+
+Śi, ta ki ra na ni bha va da nām , Sri ta chin , tā , ma ni sa da nām , 
+Pī , ta va sa nā ; Gu ru gu ha mā , tu la kān , tām , La li tām , 
