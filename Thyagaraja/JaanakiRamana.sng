@@ -1,0 +1,91 @@
+\meta("Composer", "Saint Thyagaraja")
+\meta("Ragam", "Sudha Seemanthini")
+\meta("Thalam", "Adi")
+
+># Pallavi
+
+\beatDuration(4)
+
+\line("1")
+Sw:  , , g g r , r , s , ; ; .d , .d , s , ; ; ; ; ; s , 
+Sh: ; Jā , ; na , ki , ; ; Ra , ma , na , ; ; ; ; ; Sri , 
+
+\line("2")
+Sw:  , r g g r, r , s , ; ; .d , .d , s , ; ; ; ; ; s , 
+Sh: ; Jā , ; na , ki , ; ; Ra , ma , na , ; ; ; ; ; Sri , 
+
+\line("3")
+Sw:  , r g g r , r , s r g r r s s , ; .d , .d , s , r , g r r s s , 
+Sh: ; Jā , ; na , ki , ; ; ; ; Ra , ma , na ,  Sri , ; ; ; 
+
+\line("4")
+Sw:  r d ~pm\ g , ; r , s r g r r s s , ; .d , .d , s , s r g m g r s r
+Sh: ; Jā , ; na , ki , ; ; ; ; Ra , ma , na ,  Sri , ; ; ; 
+
+\line("5")
+Sw:  g m g , ; r , s r g r r s s , ; .d , .d , s, s  r g m g r s r
+Sh: ; Jā , ; na , ki , ; ; ; ; Ra , ma , na ,  Sri , ; ; ; 
+
+\line("6")
+Sw:  p m g , ; r , s r g r r s s , ; .d , .d , s, s , r s g , ; 
+Sh: ; Jā , ; na , ki , ; ; ; ; Ra , ma , na , Bha , kta , pā , ; 
+
+\line("A")
+Sw: m , [p , , d] [p , , d] m , ; p , ; ; ; ; ; ; ; ; ; ; 
+Sh: ri , jā , ; ta , ; ; ; ; ; ; ; ; ; ; ; ; 
+
+Sw:  p m g , ; r , s r g r r s s , ; .d , .d , s, s , r s g , ; 
+Sh: ; Jā , ; na , ki , ; ; ; ; Ra , ma , na , Bha , kta , pā , ; 
+
+\line("B")
+Sw: m , p , ; d p p m d p p m g , g , g , m d d p p m g , , r s r 
+Sh: ri , jā , ; ta , Pā , ; hi , - sa , ka , la , lo , ; ; ka ;  Sa ra , na , -  Ja , ; na , ki , ;  
+
+\line("C")
+Sw: m , p , ; d p p m d p p m g , g , g , m p d ,  p m g , , r s r 
+Sh: ri , jā , ; ta , Pā , ; hi , - sa , ka , la , lo , ; ; ka ;  Sa ra , na , - Ja , ; na , ki , ; 
+
+>## Anu Pallavi
+
+\line("1")
+
+Sw: 
+; s d p d m , p , p , ; ; ; ; ; ; ; ; ; [m d p p ] 
+s, - s d p d m , p , p , m , p , d , s. , ; s. ,  ; ; ; ; 
+; s d p d m , p , p , m , p , d , s. , ; s. ,  s.r.g.g. r., [r. s. s. , ] 
+d , - s d p d m , p , p , m , p , d , s. , ; s. ,  s.r.g.g. r.r.g.g. 
+d, - s d p d m , p , p , m , p , d , s. , ; s. , p.m.m.g.g.r.r.s.
+
+Sh:
+; Gā , na , lo , ; la , ; ; ; ; ; ; ; ; ; ; 
+; Gā , na , lo , ; la , Gha , na , tha , ma , ; la , ; ; ; ; 
+; Gā , na , lo , ; la , Gha , na , tha , ma , ; la , Nē , ; la , ;
+; Gā , na , lo , ; la , Gha , na , tha , ma , ; la , Nē , ; ; la ,
+; Gā , na , lo , ; la , Gha , na , tha , ma , ; la , Nē , ; ; la ,
+
+Sw:
+d g. , g.r.s. - s d , d p m - d g , g r s s d p d p m g , , , g r s r p m - , , 
+
+Sh:
+Ka , , ru , , Na , , la , , Va , , la , , Su , gu , na , Si , ; la , ; ; - Ja , ; na , ki, ; ; ; 
+
+>## Charanam
+
+Sw: 
+; m ; m m , g , g , , ~p\ m g , ; m p , m g , r g [m , p m ] g r s , 
+r g - m , , m m , g m g -  ~g\ r , g m , ; m p , m g , r g [m , p m ] g r s , 
+r g - , m , m , m , m , ~g\ r , g m , ; m p , m g , r g [m , p m ] g r s , 
+, , s r , .d s , .p , .d , s , s , ; g m , p [m , , d] p m m g g r r s
+
+Sh:
+; Ra ; kta Na , li , na ; da la , ; Na ya , na Kru , pa , ; ; ; 
+la , - Ra ; kta Na , li , na ; da la , ; Na ya , na Kru , pa , ; ; ; 
+la , - , Ra , kta , Na , li , na , da , la  ; Na ya , na Kru , pa , ; la , ; 
+, , Ra ma , ni , , Ya , ; na , na , ; Mu ku , ra ka po , ; ; la , 
+
+> Like Anupallavi:
+
+Sh:
+
+; Bha , kti , hi , ; na , Ja , na , ; ma da , Ga ja , Ja , ; ; la , 
+Pan , , cha , , Va da , na , , Thya ; ga ; Ra , ; ja , ; ; Pa , ; la , Ja , ; na , ki , ; ; ; 
