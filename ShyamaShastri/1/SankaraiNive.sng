@@ -1,0 +1,131 @@
+\meta("Composer", "Shyama Shastri")
+\meta("Ragam", "Begada")
+\meta("Thalam", "Rupakam")
+
+\cycle("3")
+\breaks(6)
+\beatDuration(4)
+
+># Pallavi
+
+Sw:
+.d , .p , s , s .n ~/ r , ; s, ; ; ; s, s .n 
+.d , .p , s , s , g , g r r g ; ; , r s r s .n 
+.d , .p , s , s , g , r , g , ; m , m , g r s .n
+.d , .p , s , s , g r g , m p d , d p m p g r s .n
+
+Sh:
+Śan , ; ka , ri , ni , ; vu , ; ; ; am , ba ,
+Śan , ; ka , ri , ni , ; vu , ; ; ; am , ba ,
+Śan , ; ka , ri , ni , ; vu , ; ; ; am , ba ,
+Śan , ; ka , ri , ni , ; vu , ; ; ; am , ba ,
+
+\line("7")
+
+Sw:
+.p .d , .p s , s .n ~/ r , ; s , ; m g m p d , p , 
+r. s. n , d , p , p m g m p d - r. s. n  d p [m p ] g r s .n
+
+Sh:
+Śan , ; ka , ri , ni , ; vē , ; ya , ni , nin , nu , 
+San  , ; ta , ta , mu , , kō , , - ri , , , vac , ci , ti , 
+
+\line("8")
+
+Sw:
+.p .d , .p s , s .n ~/ r , ; s , ; m g m p d , p , 
+m p d p n s. r. s. ~/ m. g. r. s. r. s. n , d p m m , g r s 
+
+Sh:
+Śan , ; ka , ri , ni , ; vē , ; ya , ni , nin , nu , 
+San  , ; ta , ta , mu , , kō , , - ri , , , vac , , ci , ti 
+
+
+\line("9")
+
+Sw:
+s .n .d .p s , s , g , g r  r g ; ; ; ~s/ m m g r 
+s .n .d .p s , s .n ~/ r , ; ; ; ; ; s r s .n
+.d , .p , s , s .n ~/ r , ; s , ; ; ; ; ; 
+
+Sh:
+Śan , ; ka , ri , ni , ; vu , ; ; ; am , ba ,
+Śan , ; ka , ri , ni , ; vu , ; ; ; am , ba ,
+Śan , ; ka , ri , ni , ; vu , ; ; ; ; ; 
+
+># Anu Pallavi
+
+\line("1")
+
+Sw:
+p d n , d , p , p m d , p , d , - p ; m g m p g m r - m , g , m , p , ; p m d , p , ; [p , d p ] m , 
+
+Sh:
+San , ; ka , ta , mu , - Di , , , rchi , - Brō ; , cu ; ta ; - kin , ke , va , run , ; nā , ; ru , ; ; ;  
+
+\line("2")
+
+Sw:
+p d n , d , p , p m d , p , [ d ; n ]  d p , m  g m p g m r - m , g , m , p , ; p d , p s. , s. n s. , ; 
+
+Sh:
+San , ; ka , ta , mu , - Di , , , rchi , - Brō ; , cu ; ta ; - kin , ke , va , run , ; nā , ; ri , la , lō , ; 
+
+\line("3")
+
+Sw:
+p d n , d , p , p m g m p d n ; d p m g m p g m r - ~/ m , g , m , p , ; p d , p s. , s. n s. , m. g. 
+
+Sh:
+San , ; ka , ta , mu , - Di , , , rchi , - Brō ; , cu ; ta ; - kin , ke , va , run , ; nā , ; ri , la , lō , ; 
+
+
+\line("4")
+
+Sw:
+r. s. n , d , p , p m g m p d ~/ r. s. n d p m g m p g m r - ~/ m , g , m , p , ; p d , p s. , s. n n s. ; 
+
+Sh:
+San , ; ka , ta , mu , - Di , , , rchi , - Brō ; , cu ; ta ; - kin , ke , va , run , ; nā , ; ri , la , lō , ; 
+
+
+Sw:
+n s. r. s. ~/ g. , r. s n , d p ~/ s. ; s. p d p m p g r s
+n s. r. s. ~/ g. , r. s. n , d p r. s. n d p d d p [m p ] g r s
+
+Sh:
+Pan , ka ja Sam , bha va san , nu ta Pā ; liñ , cu , kā , ma , kshi
+Pan , ka ja Sam , bha va san , nu ta Pā ; liñ , cu , kā , ma , kshi
+
+># Chittayi Swaram
+
+Sw:
+r , ; ; ; s , ; ; ; s .n .d .p  s s g r g , ; ; ; m , ; ; ; d p m p g r , s
+s , r .n .d .p - s .n r s g r  g , m p d p s. n r. s. m. g. 
+r. s. , r. n d p m , p g r s , - r n d p m m , g r s
+
+Sh:
+Sri , ; ; ; Kān , ; ; ; ci Sa da na Su ra da na rā , ; ; ; kā , ; ; ; śa śi va da na rā , vē
+Kõ , ki la ni bha - mri du la ga da na kõ , ri na va ra mu lo sa gi pu du
+pa rā , ku sa lu - pa rā , du bha ra mā, Pa ra ma kr pā , , ni dhi vi
+
+># Charanam
+
+Sw:
+; g m  p , ; p , p m d , p , d , n, d , p , 
+p m d , p ; m g p m g  m r m g m , p , , p m g m r - 
+g m p , ; d , p , d r. s. r. n , n , d , p , p d n , d p , m g p m g m r m g m p d , p , ; 
+;  g m p d , p s. , s. p p , d , d p m , g r g , m , d , [p , d p ] m , g , m r g m , d p m g r , s s , 
+
+Sh:
+; Ka na kā , ; dri , sa , da , na , di , ; ; na , ja , na , ra ; , ksha , ki , 
+; ya nu cu , , ; am , ba 
+; Ka na kā , ; dri , sa , da , na , di , ; ; na , ja , na , ra ; , ksha , ki , 
+; ya , nu , ; cu , ;
+; Sa na kā , ; ; di , mu , nu , lel , ; la , bha , Ja , na , sē , ; yu , cu , nun , , da , , ga , , , , , 
+
+Sw:
+d p m , p g r s .n s g r m g m p d p d p s. n r. s. n s. r. s. ~/ m. g. r. s. n n d p r. s. s. p , d p m p g m r 
+
+Sh:
+Mu nu mū , ku ni brō , ci na del la nu , cā , la , - Vi ni va , chi ti - Vi nu mā , ga nu mā , ni nu nam , - mi na vā ; da nu rak , shim , pa
