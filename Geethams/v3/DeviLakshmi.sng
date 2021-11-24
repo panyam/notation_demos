@@ -1,7 +1,7 @@
 
 ```v3h
 \set(beatDuration = 2)
-\set(cycle = "|,,,,|,,|,,||")
+\set(cycle = "|4|2|2|")
 ```
 
 ```v3
