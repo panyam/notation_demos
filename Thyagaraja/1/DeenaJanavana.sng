@@ -1,0 +1,122 @@
+\meta("Composer", "Saint Thyagaraja")
+\meta("Ragam", "Bhūpālam")
+\meta("Thalam", "Adi")
+\beatDuration(4)
+
+> ---
+
+> #### Pallavi
+
+\line("V1")
+
+Sw: 
+,,, g , r g , p , ; d , p , ; d , p , ; p , ; d s. d , 
+p ; g p d p , p g d p g r s , , , s r , g g , p , ; d s. d , 
+p ; p g p p d s. , , , , , s. ,  , , - r. , , s. , , d s. d , d , p , 
+,, p d , s. s. , d , s. , d , p , , , g p d - p d p p g d p g p g r 
+s r
+
+Sh:
+
+, , , Dī , na ja , nā , , , va , na , , , Śri , rā , , , mā  , , , , , , ,
+, , , dā , na va , ha , ra , ña , , , , , Śri , , rā , , mā  , , , , , , ,
+, , , Vī , na vi , mā , , , , , na , , , Śri , , rā , , mā  , , , , , , ,
+, ,  mī , , na sa , ri , , , , , ra , , , Śri , , rā , , mā  , , , , , , , , ,
+
+
+\line("V2")
+
+Sw: 
+,, g r , g g , p , ; d , p , , , g , , p , ,  d , , , , , , , 
+, , g , , d p , g , r , r , s  ,  , , s r , g g , p g p , , , , , 
+, , ~\ g , , p d , s. d s. , s. , , , , , -s. r. g. - r. s. , s. n d , d , p , 
+, , d , , r. s. , s. n d , d. , p , , , g , , p d p g , r, r, s. , 
+, , d , , r. s. , s. n d , d. , p , , , g , , p d p g p d p g p g r s r
+
+Sh:
+
+, , Dī , , na ja , nā , , , va , na , , , Śri , , rā , , mā  , , , , , , ,
+, , dā , , na va , ha , ra , ña , , , , , Śri , , rā , , mā  , , , , , , ,
+, , Vī , , na vi , mā , , , na , , , , , Śri , , rā , , mā  , , , , , , ,
+, ,  mī , , na sa , ri , , , , , ra , , , Śri , , rā , , mā  , , , , , , , 
+, ,  mī , , na sa , ri , , , , , ra , , , Śri , , rā , , mā  , , , , , , , , ,
+
+
+\line("C1")
+
+, , Nīr , , ma la  , hru , da , ya , , , , , Śri , rā , , , mā  , , , , , , ,
+, , Kār , , mu ka , Bā , , , ña , , , , , Śri , , rā , , mā  , , , , , , ,
+, , Śar , , ma pha , lā , , , pra , da, ,  , Śri , , rā , , mā  , , , , , , ,
+, ,  Kūr , , ma va  , tā , , , ra , , , , , Śri , , rā , , mā  , , , , , , , 
+
+
+\line("C2")
+
+, , Srī , , ka ra  , Su , gu , ña , , , , , Śri , rā , , , mā  , , , , , , ,
+, , Srī , , ka ra , Lā , , , li , ta , , , Śri , , rā , , mā  , , , , , , ,
+, , Srī , , ka ru , ñā , , , ña , va, ,  , Śri , , rā , , mā  , , , , , , ,
+, ,  Sū , , ka ru  , Rū , , , pa , , , , , Śri , , rā , , mā  , , , , , , , 
+
+
+\line("C3")
+
+, , Sa ra , si  ja , na , ya , na , , , , , Śri , rā , , , mā  , , , , , , ,
+, , Su ra , pa ti , Vi , nu , ta , , , , , Śri , , rā , , mā  , , , , , , ,
+, , Na ra , va ra , Vē , , , , , sha ,  ,  , Śri , , rā , , mā  , , , , , , ,
+, ,  Na ra , ha ri , Rū , , , , , pa ,  , , Śri , , rā , , mā  , , , , , , , 
+
+
+\line("C4")
+
+, , Kā , , mi ta ,  Pha , la , da , , , , , Śri , rā , , , mā  , , , , , , ,
+, , Pā , , ma ra ,  Dū , , , ra , , , , , Śri , , rā , , mā  , , , , , , ,
+, , Sā , , ma ja ,  Va , ra , da , , ,  , , Śri , , rā , , mā  , , , , , , ,
+, ,  Vā , , ma na , Ru , , , pa , , , , , Śri , , rā , , mā  , , , , , , , 
+
+
+\line("C5")
+
+, , A gha , thi mi ,  rā , , di , , tya ,   , , Śri , rā , , , mā  , , , , , , ,
+, , Vi ga , li tha , Mō , , , ha , , ,      , , Śri , rā , , , mā  , , , , , , ,
+, , Ra ghu , ku la , thi , la , ka , , ,    , , Śri , rā , , , mā  , , , , , , ,
+, , Bhru gu , su tha , Rū , , , pa , , ,    , , Śri , rā , , , mā  , , , , , , ,
+
+
+\line("C6")
+
+, , Ku śa , la va , Ja , na , ka , , ,  , , Śri , rā , , , mā  , , , , , , ,
+, , Ku śa , la da , Cha , thu , ra , , ,  , , Śri , rā , , , mā  , , , , , , ,
+, , Da śa , mu kha , Ma , , , rda , na , , , Śri , rā , , , mā  , , , , , , ,
+, , Da śa , ra tha , Nan , , , da , na , , , Śri , rā , , , mā  , , , , , , ,
+
+
+\line("C7")
+
+, , Ka li , ma la , ha , ra , na , , ,          , , Śri , rā , , , mā  , , , , , , ,
+, , Ja la , ja - Bha , va , , , rchi , tha ,    , , Śri , rā , , , mā  , , , , , , ,
+, , Sa la , li tha ,    va , ca , na , , ,      , , Śri , rā , , , mā  , , , , , , ,
+, , Ha la , dha ra ,    Rū , , ,    pa , , ,    , , Śri , rā , , , mā  , , , , , , ,
+
+
+\line("C8")
+
+, , Si , , dha ja ,     na , , , pri , ya ,     , , Śri , rā , , , mā  , , , , , , ,
+, , Pra si , dha -cha ,     ri , , , thra , , , , , Śri , rā , , , mā  , , , , , , ,
+, , Ba ,, dha - Su ,    vā , , , sa , na ,      , , Śri , rā , , , mā  , , , , , , ,
+, , Bu , , dhā , va     tha , , , ra , , ,      , , Śri , rā , , , mā  , , , , , , ,
+
+
+\line("C9")
+
+, , Ja ya , ka ra ,     Nā , , , ma , , ,       , , Śri , rā , , , mā  , , , , , , ,
+, , Vi ja ya ra tha ,   Sā , , , ra , they ,    , , Śri , rā , , , mā  , , , , , , ,
+, , Bha ya , nā , ,     śa , na , Ha , rē ,     , , Śri , rā , , , mā  , , , , , , ,
+, , Ha ya , mu kha ,    Ru , , ,    pa , , ,    , , Śri , rā , , , mā  , , , , , , ,
+
+
+\line("C10")
+
+, , Bhā , , ga va ,  ta , , ,   - Pri , ya ,    , , Śri , rā , , , mā  , , , , , , ,
+, , Ā , ,   ga ma ,  mū , , ,   la , , ,        , , Śri , rā , , , mā  , , , , , , ,
+, , Nā , ,  ga su ,  Śa , ya ,  na , , ,        , , Śri , rā , , , mā  , , , , , , ,
+, , Thyā ,  , ga ra , jā , , , rchi, tha ,      , , Śri , rā , , , mā  , , , , , , ,
