@@ -1,0 +1,178 @@
+\meta("Composer", "Saint Thyagaraja")
+\meta("Ragam", "Shankarabharanam")
+\meta("Thalam", "Misra Chaapu")
+
+\beatDuration(2)
+\cycle("3|2|2")
+\breaks(14)
+
+> ## Pallavi
+
+\line("1")
+
+Sw: 
+, , , m g , m , , , p , , m p , , , , , p m p , d , n , 
+s. , , , , r. s. n [d ,, n ] d p , , p m , d p m g , [m , , p ] g , m r 
+
+Sh:
+, , , Ma na , su , , , svā , , , , , , , , , dhi , , , , , na , 
+mai , , , , , na , , , ā , , , gha , , nu , , ni , , , ki , , , 
+
+\line("2")
+
+Sw: g , , m g , m , , , p , , m p , , , , , p m p , d , n , 
+s. n s. , [g. r. , , ] s. n d n d p , , p s. n d p , p p m g [g , p m ] g , 
+
+Sh:
+, , , Ma na , su , , , svā , , , , , , , , , dhi , , , , , na , 
+mai , , , , , na , , , ā , , , gha , nu , , , ni , , , ki , , , 
+
+\line("3")
+Sw: m r m , g , g p , m m p , , , , , , , , d m p , p d n , 
+s. r. [g. , m. g.  r. , g. r.] s. n d , p , , , g. r. s. n d p s. n d p m p m g 
+
+Sh:
+, , Ma , na , su , , , svā , , , , , , , , , dhi , , , , , na , 
+mai , , , , , na , , , ā , , , gha , nu , , , ni , , , ki , , , 
+
+\line("1")
+
+Sw: m r 
+m , g , ~g/ m , , , d p m g r g , m g r s , [ r, , g r s ] s , , 
+s s .d ~/ .n , , s , , , - p , , , p s. n d p , p p m g [g , p m ] g , 
+
+Sh:
+, , Ma , ri , man , , , , , tra , tan , , , , , tra , , , mu , , , 
+lē , , , , , la , , , ā , , , ghā , , nu , , ni , , , [ki , , , ] , ,
+
+\line("2")
+
+Sw:
+m r m , g , m p ~/ d n s. n [d p , ,  p m g , m g r , ] s r [ g , m g r s s , ] , , , ,
+s s .d ~/ .n , , s , , , - m p d n s. r. [g. , m. g. r. , g. r. ] s. n d p m - d p m g r
+
+Sh:
+, , Ma , ri , man , , , , , tra , tan , , , , , tra , , , mu , , , 
+lē , , , , , la , , , ā , , , ghā , nu , , , ni , , , , ki ,  , , , 
+
+> ## Anu Pallavi
+
+\line("A.1")
+
+Sw:
+, , , s. s. , s. n d n d p , , p , m d p m g , [ m , p m ] g p m g 
+m r - m , g , g , p m p , , , p d , d n , s. , , , s. n d p
+
+Sh:
+
+, , , Ta nu , vu , , , tā , , , , , , nu , , gā , [ , , , , ] , , , , 
+, , - da , ni , yeñ , , , cu , , , vā , , , , , , , , , ni , , ,
+
+
+\line("A.2")
+
+Sw:
+d n [s., , r.] [s. , , r.] s. n d n d p , , p s. n - d p m g m p m g p m g 
+m r - m , g , g , p m p , , , m p d n s. r. , s. s. n , s. , , 
+
+Sh:
+
+ki , Ta , nu , vu , , , tā , , , , , , nu , , gā , [ , , , , ] , , , , 
+, , - da , ni , yeñ , , , cu , , , vā , , , , , , , ni , , ki , , 
+
+
+\line("1")
+
+Sw:
+, , , s. s. n s. , [ g. r. , , r. s.] s. , , n , r. s. [s. , , d] d n , p ~/ d , n , 
+~p/ s. , , s. , r. s. n d , p , , m g m p d , p p m [[g , , p m , g, ]] r , s, 
+
+Sh:
+, , , Ta pa , su , , , cē , , , , , , ya , , nē , , , , , la , 
+da , , śa , , ra , , , tha , , , bā , , , , , , , , , la , , , 
+
+\line("2")
+
+Sw:
+, , , s. s. n s. r. [g. , m. g. ] g. r. s. , n , r. s. [s. , , d] d n , p ~/ d , n , 
+s. r. [g. , m. g. r. , g. r. ]  s. n d n d p , ,  s. n d r. s. n d p m d p m g s r g
+
+Sh:
+, , , Ta pa , su , , , , , cē , , , , ya , , nē , , , , , la , 
+da , [śa , , , , , , , ] ra , , ,  tha , , , bā , , , , , , , , la , , , , , , 
+
+
+> ## Charanam
+
+
+\line("C.1")
+
+Sw:
+
+; ; m g m , p , , , p , p , , , , , , , , , [p , d p ] m , 
+p , , d , n d p , , p , , m m , , d p , p p m g g p m g
+
+Sh:
+
+; ; Ā , jan , , , , , ma , mu , , , , , , , , , [du , , , ] , , 
+rvi , , sha , , ya , , , ra , , , hi , , tu , , ni , , , ki , , , 
+
+
+\line("C.2")
+
+Sw:
+
+m r g , , m [p , d p m g , m] p , p , p , , , , , , , , ,  [p , d p ] m , 
+p , , s. , r. s. n d n d p , m g m p d , p p p m g [g , p m ] m r 
+g , , , m g ~g/ m , , , d p [p m g , ] r g , m g r s , [r , , g] r s .n , 
+s , , p , d p m g , g , p m p d [n , s. n ] d , ~/ r. s. [n d , , ] p , , , 
+
+Sh:
+
+, , Ā, jan , , , , , ma , mu , , , , , , , , , [du , , ,] , , 
+rvi , , sha , , ya , , , ra , , , hi , , tu , , ni , , , ki , , , , , 
+, , , , ga , tā , , , , , [ga , , , ] ta , , , , , mi , [, , , , ] ka , , , 
+yē , , , , , , , , , , , , , la , [ , , , , ] , , , , [, , , , ] , , , , 
+
+\line("1")
+
+Sw:
+, , , , s , s , , , , , p s. s. , d n , , s. , , , , , s. n 
+s. , , , [r. , , g. r. s. ] s. , , s. , , , n , [r. s. ] s. , d ~/ n , , , s. , , , 
+
+Sh:
+, , , , Rā , ja , , ,  , , rā , jē , , , , , śa , , , , , ni , 
+rañ , , , ja,  , , ,  , na , , , ni , ru , , , pa , , , ma , , ,  
+
+
+\line("2")
+
+Sw:
+, , , , g s s , , , , , p s. s. , d n , , s. , , , , , s. n 
+s. r. [g. , m. g. ] r. g. r. s. s. , s. , , , [s. , r. s. n , r. s. ] s. d d s. , n s. , , , 
+
+Sh:
+, , , , Rā , ja , , ,  , , rā , jē , , , , , śa , , , , , ni , 
+rañ , , , ja,  , , ,  , na , , , ni , ru , , , pa , , , ma , , ,  
+
+
+\line("1")
+
+Sw:
+, , , , m p ~/ d , ~/ n , s. , , , s. n  d d p , m , p , ~/ d , n , 
+~p/ s. , , , , r. s. n d n d p , m g m p d , p p m g , [g , m g] r , 
+
+Sh:
+, , , , Rā , ja , , , va , , , da , , na , , tyā , , , , , ga , 
+ra , , , , , ja , , , vi , , , nu , , , , , , , , , [ta , , , ] , , 
+
+
+\line("2")
+
+Sw:
+s , , , m p d n s. r. , s. s. , s. n d d p , m , p , ~/ d , n , 
+s. r. [g. , m. g. r. , g. r. ] s. n d n d p , , s. n d. r. s. n d p m - d p m g s r g 
+
+Sh:
+, , , , Rā , ja , , , , va , , da , , na , , tyā , , , , , ga , 
+ra , , , , , ja , , , vi , , , nu , , , , , , , , ta , ,,  , , , 
