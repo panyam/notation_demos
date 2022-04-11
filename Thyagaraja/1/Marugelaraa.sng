@@ -1,0 +1,68 @@
+\meta("Composer", "Saint Thyagaraja")
+\meta("Ragam", "Jayantasri")
+\meta("Thalam", "Dēsādi")
+
+> ---
+
+\beatDuration(4)
+
+> #### Pallavi
+
+Sw: 
+, , , , , ,  d , m, p , , , m , g , s , , , .n , s , s , m g m , 
+n n d d ,,   d d m , p , , , m , g , s , , , s. , , , s. , , , s. n 
+d n s. n d n d d m , p , , , m , g , s , , , s. , , , n s. g. , s. , 
+s. n n d d , d d m , p , , , m , g , s, , , s. n d m - p m g s - g m 
+d n s. g. m. g. 
+
+Sh:
+
+, , , , , , Ma , ru , gē , , , la , rā , , , , , Ō , , , Rā , , , gha , 
+va , , , , , Ma , ru , gē , , , la , rā , , , , , Ō , , , Rā , , , gha , 
+va , , , , , Ma , ru , gē , , , la , rā , , , , , Ō , , , Rā , , , gha , 
+va , , , , , Ma , ru , gē , , , la , rā , , , , , Ō , , , Rā , , , gha , 
+, , va , , , 
+
+
+> #### Anu Pallavi
+
+\line("1")
+Sw: , , , , , ,  d , d , d , , , d , d m , d , , n d n , s. , , , s. n 
+Sh: , , , , , , Ma , ru , gē , , , la , ca , , ra , , ca , ra , rū , , , , , 
+
+\line("2")
+Sw: n s. n s. , n d , [ n , s. n , s. ] [ n d ] d , d, d n m d , , n d n , , s. , , s. ,
+Sh: pa , , , , , - Ma , [ ru , , , , , ] [ gē , ]  , , la , ca , , ra , , ca , ra , , rū , , , , 
+
+\line("3")
+Sw: n s. g. n s. n n d [ n , s. n , s. ] [ n d ] d , d, d n m m d g - g m d n , s. , , s. , 
+Sh: pa , , , , , - Ma , [ ru , , , , , ] [ gē , ]  , , la , ca , , ra , , ca , ra , , rū , , , , 
+
+\line("1")
+
+Sw: n s. , g. , , - g. , s. , n s. g. , s. , n s. n s. , n - n d n , , s. ,, s. n 
+d n s. n d n 
+Sh: pa , , ra , , - tpa , ra , Sū , , , rya , su , dhā , , , - ka , ra , , lō , , ca , 
+na , , , , , Ma , ru , ge , , , la , 
+
+\line("2")
+
+Sw: n s. , g. , , - g. , s. , n s. g. , s. , s. g. m. g. s. , n d  n , , s. ,, s. n 
+d n g. g. s. n - d d m , , p , , m , g g s , , , s. n d m - p m g s - g m 
+d n s. g. [s. g. m. g. ] - d d m , , p , , , , 
+
+Sh: pa , , ra , , - tpa , ra , Sū , , , rya , su , dhā , , , - ka , ra , , lō , , ca , 
+na , , , , , Ma , ru , , ge , ,  la , rā , , , , , Ō , , , rā , , , gha , va , , , [ , , , , ] - Ma , ru , , ge , , la , 
+
+> #### Charanam
+
+Sw: , , , , , , p , p , p , , , p , m p , m , , m , m , g g s , s .n s g , s , , 
+.n , s , g , , , .n s s g , s , , g .n s , s, g , g , m , , m , , 
+
+Sh: 
+, , , , , , An , ni , ni , , , va , nu , , cu , , an , ta , , ran ,, ga , mu , , na , , 
+tin , na , ga , , , ve , da , , ki , , te li si , ko , , , nti , nai , , yya , , 
+
+>#### Like Anu Pallavi: 
+> Ninne gāni madi nen na jāla norula 
+> Nannu Brōva vayya Thyāgarāja nu ta (Marugelara)
