@@ -1,0 +1,92 @@
+\meta("Composer", "Saint Thyagaraja")
+\meta("Ragam", "Kambodhi")
+\meta("Thalam", "Dēsādi")
+
+\beatDuration(4)
+
+> #### Pallavi
+
+\line("1")
+Sw: , , , , , , m p ,, p , , , [d n d , ] p , d [p m ] m , g , m , , p ,, [d n d , ] 
+Sh: , , , , , , Mā , , , Jā , , , [na ,,,] ki , , [, , ] , , ce , tta , , ba , , [ tta , , , ]
+
+\line("2")
+Sw: m p , , , , p d n d p , , , [d n d , ] p d p - m p m g , m , p , , , d p 
+Sh: ga , , , , , Mā , , , Jā , , , [na ,,,] ki , , [, , ] , , ce , tta , ba , , , [ tta , , , ]
+
+
+\line("3")
+Sw:
+d n , d , , p d s. , d d n , d , p d p - m p m g , m , p , , , d p 
+d [r.s.] n , d , p , d , s. , , , n d m p [d , n d ] p , , , p d , d p m g m 
+
+Sh:
+ga , , , , , Mā , , , Jā , , , [na ,,,] ki , , [, , ] , , ce , tta , ba , , , [ tta , , , ]
+ga , , , , , Ma , ha , rā , , , ju , vai , [ ,, , ,] , , , , , , , , , , ti , 
+
+\line("4")
+Sw: 
+, g - m p , m p d s. r. [g. , m. g. ] r. , [g. m. g. , ] r. s. , n d p m g ~/ m , , p , , d , 
+d [r.s.] n , d , p , d , [s. , r. g.] r. s. n d p d s. r. , s. n d p d , d p m  - gm 
+
+Sh:
+ga , , , , , Mā , , , Jā , , , [na ,,,] ki , , [, , ] , , ce , tta , ba , , , [ tta , , , ]
+ga , , , , , Ma , ha , rā , , , ju , vai , [ ,, , ,] , , , , , , , , , , ti , 
+
+
+\line("5")
+Sw: , g - m p , m p d s. r. [g. , m. g. ] [ s. r. g. r. ] [r. g. m. g. ] r. s. , n d p m g g p m - p , , d p
+[d r. s. n , , ] d , , ,,,,,, n d p m p d , p p , , , , , , , , , , , 
+
+Sh:
+ga , , , , , Mā , , , Jā , [na ,,,] [ , , , , ] ki , , [, , ] , , ce , tta , ba , , , [ tta , , , ]
+ga , , , , , ,,,, ,,,, ,,,,
+
+> #### Anu Pallavi
+
+\line("1")
+
+Sw: , , , , , , p , d , s. n^2 p , ~/ d, s. , , s. , , d s. s. , s. , , , s. d 
+Sh: , , , , , , Rā , ja , Rā , , , ja , va , , ra , , rā , jī, vā , , , ksha , 
+
+\line("2")
+Sw: r. s. n d p m p , d , [s. , r. s.] s. p d , s. , , s. , , r. , s. , , s. , , s. d 
+Sh: vi , nu , , , Rā , ja , Rā , , , ja , va , , ra , , rā , jī, , vā  , , ksha , 
+
+\line("3")
+Sw: d n , d p m  p , d , [s. , r. s.] s. p d , d s. , s. , , g. , g. , , g. , , g. r. 
+Sh: vi , , nu , , Rā , ja , Rā , , , ja , va , , ra , , rā , jī, ,  vā , , ksha , 
+
+
+\line("4")
+Sw: s [r. , , g. ] r. s. , s. r. s. n^2 p d s. n p d d s. , s. ,, g. , g. , g. m. g. m. g. r. 
+s [r. , , g. ] r. s. , d r. s. , n n d p ~/ d, ~/ r. , , s. , , n d d p m g g r s , 
+r g , m p m 
+
+Sh: vi , , nu , , Rā , ja , Rā , , , ja , va , , ra , , rā , jī, vā , , , ksha , 
+vi , , nu , , Rā , va , , nā , , ri , ya , , ni , , rā , jil , , , , , lu , 
+kī , , rti yu , 
+
+> #### Charanam
+
+Sw:
+, , , , , , d , p , d , , , d , d n , d p m g , m , p , d n d n 
+p , d , p , m p d , p , d p m g g p m g m r m g , m p , [d , r. s. ] n d 
+d n p , , , m g , p p , d , s. , r. , g. r. s. , ~/ r. s. n d m p [d , n d] p , 
+d p m g ~\ s, r , r , d , p , m g p m g r g r s r s s , .p .d , , , 
+s .d s , , , n , d , p  , , , d , p , d [p m] m , m g , m p , , , d p 
+d n , d , , m p [d , n d ] p , d p m g g p m - g m r m g m p d p [d , r. s. ] n d
+d n p , , , m g p , , d s. , s. , s. r. g. , [s. , r. g.] [r. , , g. ] r. s. , n n d d p 
+d , , , , , d r. s. , n n d p d , d r. , s. , , n d d p m g g r s , 
+r g m p , m
+
+Sh:
+, , , , , , Kā , na , kë , , , ki , yā , , jna , , mi , ra , ga , mā , , , 
+ya , , , , , Kā , ra , mu , ni , ci , si , , khi , , cen , , ta , , [nē , , , ] yun , 
+di , , , , , Dā , , na vu , , , ni , ve , , nta , , nē , , , ca , [ni , , , ] ya , 
+sō , , ka , , ta , ru , mū , , , la , nun , , , , , , , , , , , , , , , 
+di , , , , , Vā , ni , mā , , , ta , la , , [ku , ] , , kō , , pa giñ , , , ci , 
+kan , , ta ,, va , [dhi , , , ] , , yiñ , ca , ka , , nē , , yun , , , , , [, , , , ] , , 
+di , , , , , Srī , nā , , , ya , ka , ya sa mu , [ni , , , ] [, , , , ] vē , , , gal , , , 
+ga , , , , , Jē , ya , , lē , , dā , Thyā , , ga , , rā , , , ja , pa , ri , 
+pa , , la , , Ma Jānaki 
