@@ -1,0 +1,79 @@
+\meta("Composer", "Saint Thyagaraja")
+\meta("Ragam", "Ravichandrika")
+\meta("Thalam", "Dēsādi")
+
+\beatDuration(4)
+
+> #### Pallavi
+
+\line("1")
+
+Sw: ,,,,,, m , , , g , , , m , g , , , , , - g r g r s , , , r , 
+Sh: ,,,,,, Mā , , , kē , , , la , rā , , , , , - vi , cā, , , , , ra , 
+
+\line("2")
+Sw: g , , , , , m,,, d,,, m , g , , , , , - r g m g g r s , r , 
+Sh: mu , , ,,, Mā , , , kē , , , la , rā , , , , , - vi , cā, , , , , ra , 
+
+
+\line("3")
+Sw: 
+g, ,, ,,  m , , , d , , , ~/ n , n d d , m , - [g , , m] [g , , m] g r s , r , 
+g , ,,,,    m , m , d , ,, ~/ n , n d d , ,, - d , s. , s. , s. n d , 
+
+Sh:
+mu , , ,,, Mā , , , kē , , , la , rā , , , , , - vi , cā, , , , , ra , 
+mu , ,, ,, Ma , ru , gan , ,, na , Srī , , , , , - Rā , ,, ma , chan , , , 
+
+\line("4")
+Sw: 
+~d/ s. n n d d , m, , , d , , , s. , d s. r. g. m. g. - r. s. n d m - m g r - s r 
+g , ,, ,,   m g m , d , , , s. n n d d , , , - d , s.,  s. , s. n n d 
+[m d n d ] [, r. s. s. ] n , 
+
+Sh:
+mu , , ,,, Mā , , , kē , , , la , rā , , , , , - vi , cā, , , , , ra , 
+mu , ,, ,, Ma , ru , gan , ,, na , Srī , , , , , - Rā , ,, ma , chan , , , 
+dra , , ,,, 
+
+> #### Anu Pallavi
+
+\line("1")
+
+Sw: ,,,,,, m , n , n d d , d , s. , ,, ,, r. g. m. g. r. , , , g. m. 
+Sh: ,,,,,, Sā , ,, kē , ,, ta , Rā, ,, ,, ja , , , ku , , , mā , 
+
+
+\line("2")
+
+Sw: g. r. s. , ,, d s. , n n d d , d , s. , m d s. , r. g. m. g. r. r. , , r. g. 
+Sh: ,,ra,,, Sā ,, kē ,, ,, ta , Rā, ,, ,, ja , , , ku , , , mā , 
+
+
+Sw: 
+m. g. r. s. , , d , s. , s. n n , d , m , , d , , ~/ n , , , ~d/ s. n n , d , 
+~d/ s. n n d d , [d ,, r.][ s. ,, r. ] s. n n , d, d m , d , , n , d , ~/ r. s. s. n n d 
+s. n n d ~m/ d, 
+
+Sh: 
+,,,ra ,, Sad , , , bha ,,, kta , man , , dā,, ra , ,, Srī , , , ka , 
+ra , ,,,, Sad , , , bha ,,, kta , man , , dā,, ra , ,, Srī , , , ka , 
+ra , ,, ,, 
+
+> #### Charanam
+
+Sw: ,,,,,, m , m , m , ,, m , m g g , ,, g , m , d , ,, s. n 
+n d d , , ,  d , s. n n d d , m , g m g r s , m g , m d , ,, s. n 
+n d , d , , 
+
+Sh:
+,,,,,, Ja , ta , gūr , ,, ci , nā , ,, ,, ta , ka , sū , ,, tra , 
+mu , nu , ,, Ja , ga , mel ,,, la , me , cca , ga , ka ra , mu na , ,, ni ,
+di ,, ,, ,
+
+> ##### Same as Anu pallavi
+
+Sw:
+
+ ,, ,, ,, Ga , ti , ta , ,, ppa , ga , ,, ,, Ā , din ,, cē ,, vu , su ,, mmi,, 
+ na, ta, Tyā,,, ga, rā,, ja ,, gi , ri,,, sa,,, - Vi,  nu, ta,
