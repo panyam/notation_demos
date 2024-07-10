@@ -1,0 +1,97 @@
+> # Mārga Sahāyēshwara
+
+/* Metafields can be used to add properties to your Notation. */
+\meta('Talam', 'Misra Chaapu')
+\meta('Ragam', 'Kaasi Rāmakriya')
+\meta('Composer', 'Muthuswamy Dikshithar')
+
+/* Cycle helps you identify your repeating pattern of how the notation is laid out. */
+\cycle('3|2|2')
+
+/* beatDuration specifies how many notes are in a beat (default 4) */
+\beatDuration(2)
+
+/* breaks specifies how the pattern is to broken down as it is laid out. */
+\breaks(7)
+
+> ---
+> #### Pallavi
+
+\line("1")
+Sw: M, , , , , p , m , g , , , p , , , m , p , m , n , d , 
+d , n , , , , , , , g. , r. , s. , , , n , d , p , m , g , 
+
+Sh: Mā , , , , , rga , , , sa , , , ha , , , , , yē , , , śva , , , 
+ram , ; ; ; ; bha , ; jē , ; ; ham , ,, ; ; 
+
+>---
+\line("2")
+Sw: M, p , d , d , p , m , g , d p m p , m p , d , n , d, 
+d , n , ; s. , ; g. , r. , s. , ; n , d , p , m , g ,
+
+Sh: Mā , ; ; rga , ; sa , ; hā , , , , , yē , , , śva , , , 
+ram , , , , , s. , , , bha , , , 
+jē , ; ; ham , ,, ; ; 
+
+>---
+
+Sw: m , m , , , g, , , g, r, m , g, r, s, , , , , , , 
+, , , , g. , r. , , , r. , s. , n , s. , d , n , d , p , m , 
+
+Sh: ma , ra , , , ka , ; ta , , , val , , , , , lī, , , , , , , 
+, , , , ma , nōl, , , , , , , lā, , , sa , , , ka , ram , , , 
+
+>---
+\line("3")
+Sw: m p d n s. , s. n d , p , m , p , , , m , p , m , n , d , 
+d , n , ; ; ; p , d , n s. r. s. n r. d s. n d p m g m 
+
+Sh: Mā , ; ; rga , ; sa , ; hā , , , , , yē , , , śva , , , 
+ram , , , , , s. , , , bha , , , 
+jē , ; ; ham , ,, ; ; 
+
+>---
+
+Sw: m , g , r , g m p d n s. r. g. r. s. n d p m g , r , g , , , 
+, , , , g. , r. , , , r. , s. , s. n r. s. n d p m g r g, m , 
+
+Sh: ma , ra , , , ka , ; ta , , , val , , , , , lī, , , , , , , 
+, , , , ma , nōl, , , , , , , lā, , , sa , , , ka , ram , , , 
+
+
+> ---
+> #### Charanam
+
+Sw: g , , , , , g , , , r , , , r , g , ; ; ; p , m , 
+g , r , ; ; ; s, ; p , ; m , p , d , p , ; 
+d , n , ; d , n , d , p , m d p p p , m g , r , g , , 
+; ; p m g , r , s , ; s , .d , ; .d , s, .n , s , 
+; ; p d p m g , ; ; g , p , m , n , d , p , , , 
+; ; s. , n , d , p , m , s. d , s. , n s. , , n s. , ; 
+
+Sh: Dur , ; ; gā, ; la , ; kshmi , ; ; ; ; bhā, ;  ra , ti , 
+; ; ; bhi , ; hpū, ; ; ; ji, tam , ; 
+dī , ; ; na , ; ja , ; nā , ; ; ; ; di , ; ; ; brn, , , , , da , ; sē , ; ; vi , ; tam , ; 
+; ; dīr, ghā, ; ; ; yu , , , sh, pra , , , da , , , 
+; ; kr, pā , , , , , la , vā , , , , , lam , , , , , , , 
+
+> ---
+> #### Ma-Kā
+
+Sw: n d p m g r p m g p m g r s 
+.n s .n g r g p m p n d n s. , 
+n r. , s. g. r. p. m. g. r. g. r. s. , 
+s. , r. n , s.  n d p , m g , m 
+
+Sh: Nir , gu na ra sa pū , rna - śa ri , ram , 
+Ni , tya gu ru gu hā , nan , da - va ram , 
+Vi ri , nci pu ra ma dhya vi , hā , ram , 
+Vī , ra sim , ha thīr , thō , pa cha , ram
+
+
+> ---
+> #### Chittayi Swaram
+
+Sw: p d , d p m g m p d p m g r g m , p , d m p , d n d p m
+p d n d n s. d n s. r. g. m. g. r. 
+g. , r. , s. n d g. r. s. n d p m 
