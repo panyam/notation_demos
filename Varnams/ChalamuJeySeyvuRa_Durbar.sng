@@ -1,12 +1,14 @@
- 
+---
+Composer: "Tiruvotriyūr Thyāgaiyer"
+Ragam: "Durbar"
+Talam: "Adi"
+---
+
 \beatDuration(4)
 
 
-\meta("Composer", "Tiruvotriyūr Thyāgaiyer")
 
-\meta("Ragam", "Durbar")
 
-\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

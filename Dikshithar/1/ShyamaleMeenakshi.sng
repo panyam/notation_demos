@@ -1,6 +1,8 @@
-\meta("Composer", "Muthuswami Dikshitar")
-\meta("Ragam", "Shankarabharanam")
-\meta("Thalam", "Chatusra Ekam")
+---
+Composer: "Muthuswami Dikshitar"
+Ragam: "Shankarabharanam"
+Thalam: "Chatusra Ekam"
+---
 
 \beatDuration(4)
 \cycle("4")

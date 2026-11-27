@@ -1,14 +1,16 @@
+---
+Composer: "Lalgudi Jayaraman"
+Ragam: "Nalinakanthi"
+Thalam: "Adi"
+Language: "Telugu"
+---
 
 \beatDuration(4)
 
 
-\meta("Composer", "Lalgudi Jayaraman")
 
-\meta("Ragam", "Nalinakanthi")
 
-\meta("Thalam", "Adi")
 
-\meta("Language", "Telugu")
 
 > ---
 > #### Pallavi

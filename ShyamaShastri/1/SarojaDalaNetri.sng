@@ -1,6 +1,8 @@
-\meta("Composer", "Shyama Shastri")
-\meta("Ragam", "Shankarabharanam")
-\meta("Thalam", "Adi")
+---
+Composer: "Shyama Shastri"
+Ragam: "Shankarabharanam"
+Thalam: "Adi"
+---
 
 \cycle(":2 :2 :2 :2 | :2 :2 | :2 :2 ")
 \beatDuration(4)

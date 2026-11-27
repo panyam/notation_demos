@@ -1,6 +1,8 @@
-\meta("Composer", "Vadivēlu")
-\meta("Ragam", "Kāmbōji")
-\meta("Talam", "Khanda Jāthi Ata")
+---
+Composer: "Vadivēlu"
+Ragam: "Kāmbōji"
+Talam: "Khanda Jāthi Ata"
+---
 
 \beatDuration(4)
 \cycle("5|5|4")

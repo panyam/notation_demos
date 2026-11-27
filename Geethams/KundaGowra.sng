@@ -1,9 +1,9 @@
+---
+Composer: "Purandara Dasa"
+Ragam: "Malahari"
+Talam: "Rupakam"
+---
 
-\meta("Composer", "Purandara Dasa")
-
-\meta("Ragam", "Malahari")
-
-\meta("Talam", "Rupakam")
 >---
 
 \beatDuration(2)

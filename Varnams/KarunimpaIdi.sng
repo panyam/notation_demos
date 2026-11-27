@@ -1,9 +1,9 @@
-\meta("Composer", "Tiruvotriyūr Thiyāgaiyer")
+---
+Composer: "Tiruvotriyūr Thiyāgaiyer"
+Ragam: "Sahana"
+Talam: "Adi"
+---
 
-\meta("Ragam", "Sahana")
-
-\meta("Talam", "Adi")
-    
 \beatDuration(4)
 
 > ---

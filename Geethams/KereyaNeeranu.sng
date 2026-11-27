@@ -1,9 +1,9 @@
+---
+Composer: "Purandara Dasa"
+Ragam: "Malahari"
+Talam: "Triputa"
+---
 
-\meta("Composer", "Purandara Dasa")
-
-\meta("Ragam", "Malahari")
-
-\meta("Talam", "Triputa")
 >---
 
 \cycle("3|2|2")

@@ -1,6 +1,9 @@
-\meta("Raga", "Kāpi")
-\meta("Thalam", "Adi Thisra Nadai")
-\meta("Composer", "Lalgudi Gopala Iyer")
+---
+Raga: "Kāpi"
+Thalam: "Adi Thisra Nadai"
+Composer: "Lalgudi Gopala Iyer"
+---
+
 >---
 
 \beatDuration(3)

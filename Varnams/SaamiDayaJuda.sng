@@ -1,8 +1,9 @@
-\meta("Composer", "Tiruvotriyūr Thyāgaiyer")
+---
+Composer: "Tiruvotriyūr Thyāgaiyer"
+Ragam: "Kēdāra Goulai"
+Talam: "Adi"
+---
 
-\meta("Ragam", "Kēdāra Goulai")
-
-\meta("Talam", "Adi")
  \beatDuration(4)
 
 > ---

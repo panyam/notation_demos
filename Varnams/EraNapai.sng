@@ -1,12 +1,14 @@
- 
+---
+Composer: "Patnam Subramania Iyer"
+Ragam: "Thōdi"
+Talam: "Adi"
+---
+
 \beatDuration(4)
 
 
-\meta("Composer", "Patnam Subramania Iyer")
 
-\meta("Ragam", "Thōdi")
 
-\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

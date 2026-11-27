@@ -1,6 +1,8 @@
-\meta("Composer", "Shyama Shastri")
-\meta("Ragam", "Begada")
-\meta("Thalam", "Rupakam")
+---
+Composer: "Shyama Shastri"
+Ragam: "Begada"
+Thalam: "Rupakam"
+---
 
 \cycle("3")
 \breaks(6)

@@ -1,10 +1,12 @@
+---
+Composer: "Lalgudi Jayaraman"
+Ragam: "Desh"
+Thalam: "Adi"
+Language: "Tamil"
+---
 
 \beatDuration(4)
 
-\meta("Composer", "Lalgudi Jayaraman")
-\meta("Ragam", "Desh")
-\meta("Thalam", "Adi")
-\meta("Language", "Tamil")
 
 > ---
 > #### Pallavi

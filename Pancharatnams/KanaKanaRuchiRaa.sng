@@ -1,7 +1,9 @@
+---
+Composer: "Thyagaraja"
+Ragam: "Varali"
+Thalam: "Adi"
+---
 
-\meta("Composer", "Thyagaraja")
-\meta("Ragam", "Varali")
-\meta("Thalam", "Adi")
 >---
  
 \beatDuration(4)

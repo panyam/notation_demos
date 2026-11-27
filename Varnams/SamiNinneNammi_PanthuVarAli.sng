@@ -1,12 +1,14 @@
-  
+---
+Composer: "Shatkāla Narasaiyya"
+Ragam: "PanthuvarAli"
+Talam: "Adi"
+---
+
 \beatDuration(4)
 
 
-\meta("Composer", "Shatkāla Narasaiyya")
 
-\meta("Ragam", "PanthuvarAli")
 
-\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

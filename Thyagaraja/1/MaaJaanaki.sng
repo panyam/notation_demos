@@ -1,6 +1,8 @@
-\meta("Composer", "Saint Thyagaraja")
-\meta("Ragam", "Kambodhi")
-\meta("Thalam", "Dēsādi")
+---
+Composer: "Saint Thyagaraja"
+Ragam: "Kambodhi"
+Thalam: "Dēsādi"
+---
 
 \beatDuration(4)
 

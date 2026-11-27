@@ -1,7 +1,8 @@
-
-\meta('Talam', 'Adi')
-\meta('Ragam', 'Chittaranjani')
-\meta('Composer', 'Saint Thyagaraja')
+---
+Talam: "Adi"
+Ragam: "Chittaranjani"
+Composer: "Saint Thyagaraja"
+---
 
 \beatDuration(4)
 

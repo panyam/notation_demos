@@ -1,6 +1,8 @@
-\meta("Composer", "Saint Thyagaraja")
-\meta("Ragam", "Hamir Kalyani")
-\meta("Thalam", "Adi")
+---
+Composer: "Saint Thyagaraja"
+Ragam: "Hamir Kalyani"
+Thalam: "Adi"
+---
 
 \cycle(":2 :2 :2 :2 | :2 :2 | :2 :2 ")
 \beatDuration(4)

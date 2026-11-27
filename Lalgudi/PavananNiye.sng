@@ -1,10 +1,12 @@
+---
+Composer: "V.R. Pallavi Gopāla Iyer"
+Ragam: "Uttari"
+Thalam: "Adi"
+Language: "Tamil"
+---
 
 \beatDuration(4)
 
-\meta("Composer", "V.R. Pallavi Gopāla Iyer")
-\meta("Ragam", "Uttari")
-\meta("Thalam", "Adi")
-\meta("Language", "Tamil")
 
 > ---
 > #### Pallavi

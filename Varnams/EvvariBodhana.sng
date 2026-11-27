@@ -1,13 +1,14 @@
-
+---
+Composer: "Patnam Subramaniam Iyer"
+Ragam: "Aboghi"
+Talam: "Adi"
+---
 
 \beatDuration(4)
 
 
-\meta("Composer", "Patnam Subramaniam Iyer")
 
-\meta("Ragam", "Aboghi")
 
-\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

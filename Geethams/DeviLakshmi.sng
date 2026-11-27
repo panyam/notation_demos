@@ -1,5 +1,7 @@
-\meta("Ragam", "Mohanam")
-\meta("Thalam", "Adi")
+---
+Ragam: "Mohanam"
+Thalam: "Adi"
+---
 
 \beatDuration(2)
 \cycle("|,,,,|,,|,,||")

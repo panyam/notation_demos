@@ -1,11 +1,13 @@
- 
+---
+Composer: "Lalgudi Jayaraman"
+Ragam: "Valaji"
+Thalam: "Adi"
+Language: "Telugu"
+---
+
 \beatDuration(4)
 
 
-\meta("Composer", "Lalgudi Jayaraman")
-\meta("Ragam", "Valaji")
-\meta("Thalam", "Adi")
-\meta("Language", "Telugu")
 
 > ---
 > #### Pallavi

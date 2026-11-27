@@ -1,7 +1,8 @@
- 
-\meta("Ragam", "Bilahari")
+---
+Ragam: "Bilahari"
+Thalam: "Adi"
+---
 
-\meta("Thalam", "Adi")
 >---
 
 \beatDuration(4)

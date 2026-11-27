@@ -1,12 +1,15 @@
+---
+Composer: "Purandara Dasa"
+Ragam: "Malahari"
+Talam: "Rupakam"
+---
+
 \beatDuration(2)
 \cycle("3")
 \breaks(6)
 
-\meta("Composer", "Purandara Dasa")
 
-\meta("Ragam", "Malahari")
 
-\meta("Talam", "Rupakam")
 >---
 
 > ##### 1.

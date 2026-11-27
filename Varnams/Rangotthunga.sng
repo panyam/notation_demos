@@ -1,7 +1,9 @@
-\meta("Composer", "Sloka on Sree Raghavēndra")
-\meta("Tune By", "A.S. Panchapakesa Iyer")
-\meta("Ragam", "Gambeera Nāttai (or Suddha Nāttai)")
-\meta("Talam", "Khanda Jāthi Ata")
+---
+Composer: "Sloka on Sree Raghavēndra"
+Tune By: "A.S. Panchapakesa Iyer"
+Ragam: "Gambeera Nāttai (or Suddha Nāttai)"
+Talam: "Khanda Jāthi Ata"
+---
 
 \beatDuration(4)
 \cycle("5|5|4")

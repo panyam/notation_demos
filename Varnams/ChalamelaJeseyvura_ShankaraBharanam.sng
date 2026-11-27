@@ -1,6 +1,8 @@
-\meta("Composer", "Sri Swāthi Thirunāl Maharājā")
-\meta("Ragam", "Shankarabharanam")
-\meta("Talam", "Khanda Jāthi Ata")
+---
+Composer: "Sri Swāthi Thirunāl Maharājā"
+Ragam: "Shankarabharanam"
+Talam: "Khanda Jāthi Ata"
+---
 
 \beatDuration(4)
 \cycle("5|5|4")

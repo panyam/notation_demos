@@ -1,11 +1,13 @@
+---
+Composer: "Veenai Kuppaiyer"
+Ragam: "Begada"
+Talam: "Adi"
+---
 
 \beatDuration(4)
 
-\meta("Composer", "Veenai Kuppaiyer")
 
-\meta("Ragam", "Begada")
 
-\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi
