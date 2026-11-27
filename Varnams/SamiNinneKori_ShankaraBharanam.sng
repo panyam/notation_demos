@@ -1,12 +1,14 @@
+---
+Composer: "Veenai Kuppaiyyar"
+Ragam: "Shankarabharanam"
+Talam: "Adi"
+---
 
 \beatDuration(4)
 
 
-\meta("Composer", "Veenai Kuppaiyyar")
 
-\meta("Ragam", "Shankarabharanam")
 
-\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi 

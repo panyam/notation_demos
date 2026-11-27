@@ -1,8 +1,9 @@
-\meta("Composer", "Calcutta K S Krishnamurthy")
+---
+Composer: "Calcutta K S Krishnamurthy"
+Ragam: "Kadana Kuthuhalam"
+Talam: "Adi"
+---
 
-\meta("Ragam", "Kadana Kuthuhalam")
-
-\meta("Talam", "Adi")
 >---
 
 \beatDuration(4)

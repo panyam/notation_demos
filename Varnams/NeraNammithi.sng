@@ -1,6 +1,8 @@
-\meta("Composer", "Rāmnād Sreenivāsa Iyengār")
-\meta("Ragam", "Kānadā")
-\meta("Talam", "Khanda Jāthi Ata")
+---
+Composer: "Rāmnād Sreenivāsa Iyengār"
+Ragam: "Kānadā"
+Talam: "Khanda Jāthi Ata"
+---
 
 \beatDuration(4)
 \cycle("5|5|4")

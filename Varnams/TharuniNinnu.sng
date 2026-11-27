@@ -1,14 +1,15 @@
-
+---
+Composer: "Violin Ponnuswamy"
+Ragam: "Kambojhi"
+Talam: "Adi"
+---
 
 \beatDuration(4)
 
 
 
-\meta("Composer", "Violin Ponnuswamy")
 
-\meta("Ragam", "Kambojhi")
 
-\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

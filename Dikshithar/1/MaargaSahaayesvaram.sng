@@ -1,9 +1,12 @@
+---
+Talam: "Misra Chaapu"
+Ragam: "Kaasi Rāmakriya"
+Composer: "Muthuswamy Dikshithar"
+---
+
 > # Mārga Sahāyēshwara
 
 /* Metafields can be used to add properties to your Notation. */
-\meta('Talam', 'Misra Chaapu')
-\meta('Ragam', 'Kaasi Rāmakriya')
-\meta('Composer', 'Muthuswamy Dikshithar')
 
 /* Cycle helps you identify your repeating pattern of how the notation is laid out. */
 \cycle('3|2|2')

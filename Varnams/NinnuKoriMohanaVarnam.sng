@@ -1,12 +1,13 @@
-
+---
+Composer: "Ramnad Sreenivaasa Iyengar"
+Ragam: "Mohanam"
+Thalam: "Adi"
+---
 
 \beatDuration(4)
 
-\meta("Composer", "Ramnad Sreenivaasa Iyengar")
 
-\meta("Ragam", "Mohanam")
 
-\meta("Thalam", "Adi")
 
 > ---
 > ### Pallavi

@@ -1,5 +1,8 @@
-\meta("Ragam", "Mohanam")
-\meta("Thalam", "Rupakam")
+---
+Ragam: "Mohanam"
+Thalam: "Rupakam"
+---
+
 >---
 
  \cycle("3")

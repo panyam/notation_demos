@@ -1,6 +1,8 @@
-\meta("Composer", "Pallavi Gōpālaiyer")
-\meta("Ragam", "Surutti")
-\meta("Talam", "Adi")
+---
+Composer: "Pallavi Gōpālaiyer"
+Ragam: "Surutti"
+Talam: "Adi"
+---
 
 \beatDuration(4)
 

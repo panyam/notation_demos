@@ -1,6 +1,8 @@
-\meta("Composer", "Pallavi Gopālaiyer")
-\meta("Ragam", "Thodi")
-\meta("Talam", "Khanda Jāthi Ata")
+---
+Composer: "Pallavi Gopālaiyer"
+Ragam: "Thodi"
+Talam: "Khanda Jāthi Ata"
+---
 
 \beatDuration(4)
 \cycle("5|5|4")

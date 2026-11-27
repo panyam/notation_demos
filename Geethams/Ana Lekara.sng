@@ -1,10 +1,12 @@
+---
+Composer: "Purandara Dasa"
+Ragam: "Suddha Sāveri"
+Talam: "Triputa"
+---
 
 \cycle("3|2|2")
 \breaks(14)
 
-\meta("Composer", "Purandara Dasa")
-\meta("Ragam", "Suddha Sāveri")
-\meta("Talam", "Triputa")
 
 > ##### 1.
 

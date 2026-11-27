@@ -1,12 +1,14 @@
+---
+Composer: "KotthavAsal Venkatrama Iyer"
+Ragam: "Saveri"
+Talam: "Adi"
+---
 
 \beatDuration(4)
 
 
-\meta("Composer", "KotthavAsal Venkatrama Iyer")
 
-\meta("Ragam", "Saveri")
 
-\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

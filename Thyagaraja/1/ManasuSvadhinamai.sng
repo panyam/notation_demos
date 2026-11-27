@@ -1,6 +1,8 @@
-\meta("Composer", "Saint Thyagaraja")
-\meta("Ragam", "Shankarabharanam")
-\meta("Thalam", "Misra Chaapu")
+---
+Composer: "Saint Thyagaraja"
+Ragam: "Shankarabharanam"
+Thalam: "Misra Chaapu"
+---
 
 \beatDuration(2)
 \cycle("3|2|2")

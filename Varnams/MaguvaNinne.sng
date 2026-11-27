@@ -1,6 +1,8 @@
-\meta("Composer", "Veenai Kuppaiyer")
-\meta("Ragam", "Nārāyanagoulai")
-\meta("Talam", "Khanda Jāthi Ata")
+---
+Composer: "Veenai Kuppaiyer"
+Ragam: "Nārāyanagoulai"
+Talam: "Khanda Jāthi Ata"
+---
 
 \beatDuration(4)
 \cycle("5|5|4")

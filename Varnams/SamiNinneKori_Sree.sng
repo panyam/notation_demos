@@ -1,12 +1,14 @@
- 
+---
+Composer: "Karūr Dēvudu Iyer"
+Ragam: "Sree"
+Talam: "Adi"
+---
+
 \beatDuration(4)
 
 
-\meta("Composer", "Karūr Dēvudu Iyer")
 
-\meta("Ragam", "Sree")
 
-\meta("Talam", "Adi")
 
 > ---
 > #### Pallavi

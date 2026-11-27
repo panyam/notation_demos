@@ -1,9 +1,9 @@
+---
+Composer: "Sri Chinni Krishna Dasu"
+Ragam: "Khamas"
+Thalam: "Adi"
+---
 
-\meta("Composer", "Sri Chinni Krishna Dasu")
-
-\meta("Ragam", "Khamas")
-
-\meta("Thalam", "Adi")
 >---
 
 \beatDuration(4)
