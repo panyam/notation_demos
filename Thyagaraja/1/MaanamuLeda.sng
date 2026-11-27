@@ -10,17 +10,17 @@
 
 Sw:
 
-"1.">> ,, ,, g , m^1 , g , d , p , m , m^1 , , g m^1 , , g p m g r r , s , 
+\@label("1.") ,, ,, g , m^1 , g , d , p , m , m^1 , , g m^1 , , g p m g r r , s , 
 s , , , s , s , .n , s, r, s, m^1 , g, p, ,, ,, m , n , d , 
 
-"2.">> p , m , g , m^1, g, d, p, m, p m d p m^1 m^1 , g p m ^1 g r r , s , 
+\@label("2.") p , m , g , m^1, g, d, p, m, p m d p m^1 m^1 , g p m ^1 g r r , s , 
 s , ,, r , r , s, ~/ m^1,  m^1, g, p , , m p , , , , , p , p m d p 
 
-"3.">> m d p p m^1 m^1 ,, , g n d , [d p ] p , m^1 , , g m ^1 m^1 , g p m ^1 g r r s s , 
+\@label("3.") m d p p m^1 m^1 ,, , g n d , [d p ] p , m^1 , , g m ^1 m^1 , g p m ^1 g r r s s , 
 ,, ,,  r , r s .n s ~/ m^1, m^1, g, p , , m p d , p ,, p , m p d n
 
-"4.">> s. n d p p m g m^1 , g n d , [d p ] p , m p d n s. n d p p m g m ^1, g r s 
-s , ,, r , r s s , s, m^1, g, g p , m p d , p m p d n s. r. s. n <<"d p m d"
+\@label("4.") s. n d p p m g m^1 , g n d , [d p ] p , m p d n s. n d p p m g m ^1, g r s 
+s , ,, r , r s s , s, m^1, g, g p , m p d , p m p d n s. r. s. n \@label("d p m d", position="after")
 
 Sh:
 
@@ -40,7 +40,7 @@ Sh:
 
 Sw: 
 
-"1.">> 
+\@label("1.") 
 ,,,,  m p , m d , d , p , , , s. , n , d , n , s. , ,, s. , ,, 
 ,,,, s. , s. , , , s. n d , ,, d , p , p d [n , s. n ] d , n , d p p , 
 
@@ -49,15 +49,15 @@ Sh:
 ,,,, va , lē , ,, nir , ,, , , , , , , mō, [ , , , , ] , , hi , ni , , , 
 
 Sw:
-"2.">> 
+\@label("2.") 
 ,,m, p m g m^1 , g n d , [d p] p , m p d n [s. , r. s. ] n d n , , , s.,,,
 ,,,, s., s., r. n n , n , s. d d , p , p d [n , s. n ] d , n , d p p , 
 
-"a.">> ,,  m, m^1 ,,,  m^1, m^1, g, g, ~/ p,,, p, m, d, p, m p d n 
+\@label("a.") ,,  m, m^1 ,,,  m^1, m^1, g, g, ~/ p,,, p, m, d, p, m p d n 
 s.,,, s., [s.,r.s.] n, n s. d d p , m, p, p m p, m p d n s. n d p
 
-"b.">> m p , m  g, m^1,,, m^1,  m^1, g, g, ~/ p, p, m, d, p, m p d n 
-s.,,, s., [s.,r.s.] n, n s. d d p , m, p, p m p, m p d n s. r. s. n <<"d p m d" 
+\@label("b.") m p , m  g, m^1,,, m^1,  m^1, g, g, ~/ p, p, m, d, p, m p d n 
+s.,,, s., [s.,r.s.] n, n s. d d p , m, p, p m p, m p d n s. r. s. n \@label("d p m d", position="after") 
 
 Sh:
 ,,,, Kā,,,,, na, mu,,,  rā , , , , , , , , , , , nī, , , 
@@ -67,12 +67,12 @@ Sh:
 ,,,,   ,, ,, ku , sa, ,, la , va , , , , , ja , na , , , ka , , , 
 
 ,, ,,  Gā,,, ,, na, ru,,, ci, ,, te,,, li,,, yu,,,
-,,,,   ku , [sa, ,,],, la,, va,,  ja,,, na , , , ka , , , ,,,, <<" ,,,, "
+,,,,   ku , [sa, ,,],, la,, va,,  ja,,, na , , , ka , , , ,,,, \@label(" ,,,, ", position="after")
 
 ># Charanam
 
 Sw:
-"1.">> ,,,, ,, p,,, p, p,,, m, p,,,,, p, d, d p p , 
+\@label("1.") ,,,, ,, p,,, p, p,,, m, p,,,,, p, d, d p p , 
 p , m , - p , p , m , - n d d , p , p m m^1, m^1,, g,, p m^1 g r ,,
 s, ,,  s, r, s, s m^1 m^1, g, g, p, ,, m, ,, n d d p p, 
 ,,,, - p, p, m, d p p m m^1 , m^1,,g m^1,,g p m^1 g r r , s, 
@@ -85,7 +85,7 @@ Sh:
 
 Sw:
 
-"2.">> s. ,,,  r s .n, s, s, m, g, g, p, ,, m, ,, n d d p p ,
+\@label("2.") s. ,,,  r s .n, s, s, m, g, g, p, ,, m, ,, n d d p p ,
 ,,,, - r. , s n d , d, n d p m m^1,,g m^1,,g p m^1 g r r, s, 
 s,,, r, p, m, n d , d p , p m d p p m g m^1 , g - p m g r ,, 
 [r s s , ] ,, r, s,,,  p, p, m,  p d [n, s. n ] d, ,, d n, d p , ,,
@@ -94,5 +94,5 @@ Sh:
 ,,,,,, Nī,,, sa, mu,,, khā,,,,,,, ,,,, na,,,
 ,,,, ra, vi, ,, ta, na,,, yu,,, du,,, nin,,, nu,,,
 ,,,, bā,,,,, sa,, lu,, bal,,, ,,,, ,, ka, ga,,,
- ,,,, rõ,,, ,, sa, mū,,, tō,,, ,,,, ,,,, sim,,, <<"Mā na mu"
+ ,,,, rõ,,, ,, sa, mū,,, tō,,, ,,,, ,,,, sim,,, \@label("Mā na mu", position="after")
 
