@@ -11,12 +11,12 @@ Thalam: "Adi"
 Sw:
 
 ,, s r, r - m g g r r ,, r s .n s, ,, ,, r s r ,, , g m g - r
-s .n - s r , g m , , , d p p m m g g r r , ,, s, ,, d p m g , - r <<"s .n"
+s .n - s r , g m , , , d p p m m g g r r , ,, s, ,, d p m g , - r \@label("s .n", position="after")
 
 Sh:
 
 ,,Srī,,, ga na , nā,,, tham,, ,,,, ,, bha, jā,,, mya,,, 
-ham, Srī,, ka ram,,, cin,,,ti, tā,,, ,,rtha, ,,-pha la ,,,, <<" , ,"
+ham, Srī,, ka ram,,, cin,,,ti, tā,,, ,,rtha, ,,-pha la ,,,, \@label(" , ,", position="after")
 
 
 > #### Anu Pallavi
@@ -24,12 +24,12 @@ ham, Srī,, ka ram,,, cin,,,ti, tā,,, ,,rtha, ,,-pha la ,,,, <<" , ,"
 Sw:
 
 ,, p d, p m, d p, p d, n, s., ,, ,, r. s. n, - n s. r. s. r. , 
-,, r.s. n d,, d p p, m p m g ,, m g , r ,, d p p m m g r , <<"s .n"
+,, r.s. n d,, d p p, m p m g ,, m g , r ,, d p p m m g r , \@label("s .n", position="after")
 
 Sh:
 
 ,,Srī,, gu ru, gu,, hā,, gra, jam, ,, ,, A, gra, pū,,, jyam, 
-,, Srī,, kan,, thā,,, tma, jam, ,, Śri ta , sā,, mra ,,, jyam,,, <<" , , "
+,, Srī,, kan,, thā,,, tma, jam, ,, Śri ta , sā,, mra ,,, jyam,,, \@label(" , , ", position="after")
 
 
 
@@ -38,12 +38,12 @@ Sh:
 Sw:
 
 ,,, m, m m , m ,,, m, d p p m - p m m g r s r s r, g, m, 
-,, p d, p d, d p m p m g m, ,, p d, n,, s. n d p m g m, <<", , "
+,, p d, p d, d p m p m g m, ,, p d, n,, s. n d p m g m, \@label(", , ", position="after")
 
 Sh:
 
 ,,, Ran, ji ta, nā,,, ta, ka, ,, - ran,,,ga, tõ,,, sha, nam, 
-,, siń,, ji ta, va, ra, ma, ni, ,, ma ya, bhū,, sha,,, nam,,, <<", , "
+,, siń,, ji ta, va, ra, ma, ni, ,, ma ya, bhū,, sha,,, nam,,, \@label(", , ", position="after")
 
 >#### Like AnuPallavi:
 > Ānjanē yā va tā ram Su bhā sha nam Kunjara mukham Thyāgarāja pōshanam
